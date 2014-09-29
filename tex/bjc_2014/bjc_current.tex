@@ -57,12 +57,9 @@
 \newcommand{\ShortTitle}[1]{\def\webbook{#1}\par\goodbreak\bigskip\setcounter{footnote}{0}}
 \newcommand{\BookTitle}[1]{\par\goodbreak\bigskip{\parindent=0mm\begin{center}{\small\bfseries{\LARGE #1\nopagebreak}}\end{center}}\addcontentsline{toc}{subsection}{#1}\nopagebreak\par\nobreak}
 % chapitres
-%\newcommand{\Chap}[1]{\def\webchap{#1:}\def\vchap{#1:}}
 \newcommand{\Chap}[1]{\def\webchap{#1:}\def\vchap{#1}\begin{center}\textbf{{CHAPITRE\ #1}}\end{center}}
 % versets
-%\newcommand{\VerseOne}{\markboth{\webbook\ \webchap 1}{\webbook\ \webchap 1}$^{\vchap 1}$}
 \newcommand{\VerseOne}{{\up{\footnotesize 1}}\markboth{\webbook\ \webchap 1}{\webbook\ \webchap 1}}
-%\newcommand{\VS}[1]{$^{\vchap#1}$\markboth{\webbook\ \webchap #1}{\webbook\ \webchap #1}}
 \newcommand{\VS}[1]{{\up{\footnotesize #1}}\markboth{\webbook\ \webchap #1}{\webbook\ \webchap #1}}
 % commentaires
 \renewcommand{\thefootnote}{\alph{footnote}}
@@ -95,73 +92,73 @@
 \addcontentsline{toc}{chapter}{Tanakh}\pagenumbering{arabic}\clearpage
 \addcontentsline{toc}{section}{Torah (Loi)}\clearpage
 \clearpage\input{01-Genese}
-%\clearpage\input{02-Exode}
-%\clearpage\input{03-Levitique}
-%\clearpage\input{04-Nombres}
-%\clearpage\input{05-Deuteronome}
-%\addcontentsline{toc}{section}{Nevi'im (Prophètes)}\clearpage
-%\clearpage\input{06-Josue}
-%\clearpage\input{07-Juges}
-%\clearpage\input{09-1Samuel}
-%\clearpage\input{10-2Samuel}
-%\clearpage\input{11-1Rois}
-%\clearpage\input{12-2Rois}
-%\clearpage\input{23-Esaie}
-%\clearpage\input{24-Jeremie}
-%\clearpage\input{26-Ezechiel}
-%\clearpage\input{28-Osee}
-%\clearpage\input{29-Joel}
-%\clearpage\input{30-Amos}
-%\clearpage\input{31-Abdias}
-%\clearpage\input{32-Jonas}
-%\clearpage\input{33-Michee}
-%\clearpage\input{34-Nahum}
-%\clearpage\input{35-Habakuk}
-%\clearpage\input{36-Sophonie}
-%\clearpage\input{37-Aggee}
-%\clearpage\input{38-Zacharie}
-%\clearpage\input{39-Malachie}
-%\addcontentsline{toc}{section}{Ketouvim (Écrits)}\clearpage
-%\clearpage\input{19-Psaumes}
-%\clearpage\input{20-Proverbes}
-%\clearpage\input{18-Job}
-%\clearpage\input{22-Cantiques}
-%\clearpage\input{08-Ruth}
-%\clearpage\input{25-Lamentations}
-%\clearpage\input{21-Ecclesiaste}
-%\clearpage\input{17-Esther}
-%\clearpage\input{27-Daniel}
-%\clearpage\input{15-Esdras}
-%\clearpage\input{16-Nehemie}
-%\clearpage\input{13-1Chroniques}
-%\clearpage\input{14-2Chroniques}
-%\addcontentsline{toc}{chapter}{Évangiles}\clearpage
-%\clearpage\input{40-Matthieu}
-%\clearpage\input{41-Marc}
-%\clearpage\input{42-Luc}
-%\clearpage\input{43-Jean}
-%\addcontentsline{toc}{chapter}{Testament de Jésus}\clearpage
-%\clearpage\input{44-Actes}
-%\clearpage\input{59-Jacques}
-%\clearpage\input{48-Galates}
-%\clearpage\input{52-1Thessaloniciens}
-%\clearpage\input{53-2Thessaloniciens}
-%\clearpage\input{46-1Corinthiens}
-%\clearpage\input{47-2Corinthiens}
-%\clearpage\input{45-Romains}
-%\clearpage\input{49-Ephesiens}
-%\clearpage\input{50-Philippiens}
-%\clearpage\input{51-Colossiens}
-%\clearpage\input{57-Philemon}
-%\clearpage\input{54-1Timothee}
-%\clearpage\input{56-Tite}
-%\clearpage\input{60-1Pierre}
-%\clearpage\input{61-2Pierre}
-%\clearpage\input{55-2Timothee}
-%\clearpage\input{65-Jude}
-%\clearpage\input{58-Hebreux}
-%\clearpage\input{62-1Jean}
-%\clearpage\input{63-2Jean}
-%\clearpage\input{64-3Jean}
-%\clearpage\input{66-Apocalypse}
+\clearpage\input{02-Exode}
+\clearpage\input{03-Levitique}
+\clearpage\input{04-Nombres}
+\clearpage\input{05-Deuteronome}
+\addcontentsline{toc}{section}{Nevi'im (Prophètes)}\clearpage
+\clearpage\input{06-Josue}
+\clearpage\input{07-Juges}
+\clearpage\input{09-1Samuel}
+\clearpage\input{10-2Samuel}
+\clearpage\input{11-1Rois}
+\clearpage\input{12-2Rois}
+\clearpage\input{23-Esaie}
+\clearpage\input{24-Jeremie}
+\clearpage\input{26-Ezechiel}
+\clearpage\input{28-Osee}
+\clearpage\input{29-Joel}
+\clearpage\input{30-Amos}
+\clearpage\input{31-Abdias}
+\clearpage\input{32-Jonas}
+\clearpage\input{33-Michee}
+\clearpage\input{34-Nahum}
+\clearpage\input{35-Habakuk}
+\clearpage\input{36-Sophonie}
+\clearpage\input{37-Aggee}
+\clearpage\input{38-Zacharie}
+\clearpage\input{39-Malachie}
+\addcontentsline{toc}{section}{Ketouvim (Écrits)}\clearpage
+\clearpage\input{19-Psaumes}
+\clearpage\input{20-Proverbes}
+\clearpage\input{18-Job}
+\clearpage\input{22-Cantiques}
+\clearpage\input{08-Ruth}
+\clearpage\input{25-Lamentations}
+\clearpage\input{21-Ecclesiaste}
+\clearpage\input{17-Esther}
+\clearpage\input{27-Daniel}
+\clearpage\input{15-Esdras}
+\clearpage\input{16-Nehemie}
+\clearpage\input{13-1Chroniques}
+\clearpage\input{14-2Chroniques}
+\addcontentsline{toc}{chapter}{Évangiles}\clearpage
+\clearpage\input{40-Matthieu}
+\clearpage\input{41-Marc}
+\clearpage\input{42-Luc}
+\clearpage\input{43-Jean}
+\addcontentsline{toc}{chapter}{Testament de Jésus}\clearpage
+\clearpage\input{44-Actes}
+\clearpage\input{59-Jacques}
+\clearpage\input{48-Galates}
+\clearpage\input{52-1Thessaloniciens}
+\clearpage\input{53-2Thessaloniciens}
+\clearpage\input{46-1Corinthiens}
+\clearpage\input{47-2Corinthiens}
+\clearpage\input{45-Romains}
+\clearpage\input{49-Ephesiens}
+\clearpage\input{50-Philippiens}
+\clearpage\input{51-Colossiens}
+\clearpage\input{57-Philemon}
+\clearpage\input{54-1Timothee}
+\clearpage\input{56-Tite}
+\clearpage\input{60-1Pierre}
+\clearpage\input{61-2Pierre}
+\clearpage\input{55-2Timothee}
+\clearpage\input{65-Jude}
+\clearpage\input{58-Hebreux}
+\clearpage\input{62-1Jean}
+\clearpage\input{63-2Jean}
+\clearpage\input{64-3Jean}
+\clearpage\input{66-Apocalypse}
 \end{document}
