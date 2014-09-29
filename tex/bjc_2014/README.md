@@ -9,8 +9,7 @@ Les titres sont entre crochets `[]` et les renvois entre parenthèses `()`. Pour
 
 * Titre avec renvois :
 ```tex
-\TextTitle{[Retour du Roi de la terre à la fin de la tribulation]
-\\(Mc. 13:24-27 ; Lu. 21:25-28)}
+\TextTitle{[Retour du Roi de la terre à la fin de la tribulation\FTNT{Mc. 13:24-27 ; Lu. 21:25-28.}]}
 ```
 
 * Exemples :
@@ -19,8 +18,8 @@ Les titres sont entre crochets `[]` et les renvois entre parenthèses `()`. Pour
 % en tête de chapitre
 \VS{24}Joseph s’étant donc réveillé de son sommeil, fit ce que l'ange du Seigneur lui avait ordonné, et il prit sa femme.
 \VS{25}Mais il ne la connut point jusqu'à ce qu'elle ait enfanté son fils premier-né, auquel il donna le nom de Jésus.
-\TextTitle{[Arrivée des mages]}
 \Chap{2}
+\TextTitle{[Arrivée des mages]}
 \VerseOne{}Jésus étant né à Bethléem, ville de Juda, au temps du roi Hérode, voici des mages d'Orient arrivèrent à Jérusalem.
 \VS{2}En disant : Où est le Roi des Juifs qui vient de naître ? Car nous avons vu son étoile en Orient, et nous sommes venus l'adorer.
 \VS{3}Le roi Hérode ayant entendu, fut troublé et tout Jérusalem avec lui.
