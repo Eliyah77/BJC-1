@@ -67,12 +67,19 @@
 % titres de paragraphes
 \newcommand{\ssubsection}[1]{\subsection*{\centering\footnotesize\normalfont #1}}
 \newcommand{\TextTitle}[1]{\ssubsection{\NoAutoSpaceBeforeFDP{\textit{#1}}}}
+% dictionnaire
+\newcommand{\DicoEntry}[1]{\smallskip\parindent=0mm{\textbf{#1}}\markboth{#1}{#1}}
 % commandes diverses
 \newcommand{\BFont}{\normalfont\small}
 \newcommand{\PP}{\par\parindent=0mm}
 \newcommand{\PPE}{\par\parindent=4mm}
 % debut document
 \begin{document}
+% en-tête vide sur la table des matières
+\makeatletter
+    \def\@evenhead{}
+    \def\@oddhead{}
+\makeatother
 % formatage table des matières
 \makeatletter
 \renewcommand\tableofcontents{
@@ -81,14 +88,15 @@
     \begin{multicols}{2}\medskip\@starttoc{toc}\end{multicols}
     \setlength{\columnseprule}{0.4pt} % réactivation séparateur colonne
 }
-\makeatother%
+\makeatother
 % inclusion table des matières
 \tableofcontents\clearpage
 % en-tête pages
-\makeatletter%
-\def\@evenhead{{\NoAutoSpaceBeforeFDP{\small{\rightmark\hfil\thepage\hfil\leftmark}}}}%
-\def\@oddhead{{\NoAutoSpaceBeforeFDP{\small{\rightmark\hfil\thepage\hfil\leftmark}}}}%
-\makeatother%
+\makeatletter
+\def\@evenhead{{\NoAutoSpaceBeforeFDP{\small{\rightmark\hfil\thepage\hfil\leftmark}}}}
+\def\@oddhead{{\NoAutoSpaceBeforeFDP{\small{\rightmark\hfil\thepage\hfil\leftmark}}}}
+\makeatother
+% inclusion des livres
 \addcontentsline{toc}{chapter}{Tanakh}\pagenumbering{arabic}\clearpage
 \addcontentsline{toc}{section}{Torah (Loi)}\clearpage
 \clearpage\input{01-Genese}
@@ -161,4 +169,20 @@
 \clearpage\input{63-2Jean}
 \clearpage\input{64-3Jean}
 \clearpage\input{66-Apocalypse}
+% inclusion des annexes
+\addcontentsline{toc}{chapter}{Aide}\clearpage
+\addcontentsline{toc}{section}{Dictionnaire}\clearpage
+% annexe dictionnaire
+\makeatletter
+    % mise en forme dictionnaire
+    \def\@oddhead{{\small{Dictionnaire\hfil\thepage\hfil\rightmark---\leftmark}}}
+    \def\@evenhead{{\small{\rightmark---\leftmark\hfil\thepage\hfil Dictionnaire}}}\clearpage
+    \makeatother
+        % inclusion dictionnaire
+        \small{\parindent=0mm{\begin{center}\Large\bfseries{Dictionnaire}\end{center}}\par\input{dictionnaire}\clearpage}\markboth{}{}
+    \makeatletter
+    % réinitialiser mise en forme
+    \def\@oddhead{\hfil\thepage\hfil}
+    \def\@evenhead{\hfil}
+\makeatother
 \end{document}
