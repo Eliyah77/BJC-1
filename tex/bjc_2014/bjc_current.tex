@@ -59,11 +59,11 @@
 % chapitres
 \newcommand{\Chap}[1]{\def\webchap{#1:}\def\vchap{#1}\begin{center}\textbf{{CHAPITRE\ #1}}\end{center}}
 % versets
-\newcommand{\VerseOne}{{\up{\footnotesize 1}}\markboth{\webbook\ \webchap 1}{\webbook\ \webchap 1}}
-\newcommand{\VS}[1]{{\up{\footnotesize #1}}\markboth{\webbook\ \webchap #1}{\webbook\ \webchap #1}}
+\newcommand{\VerseOne}{\def\webvs{1}{\up{\footnotesize 1}}\markboth{\webbook\ \webchap 1}{\webbook\ \webchap 1}}
+\newcommand{\VS}[1]{\def\webvs{#1}{\up{\footnotesize #1}}\markboth{\webbook\ \webchap #1}{\webbook\ \webchap #1}}
 % commentaires
-\renewcommand{\thefootnote}{\alph{footnote}}
-\newcommand{\FTNT}[1]{\NoAutoSpaceBeforeFDP{\ifnum\value{footnote}>25\setcounter{footnote}{0}\fi\footnote{#1}}}
+\renewcommand{\thefootnote}{\alph{footnote}} % repères alphabetiques
+\newcommand{\FTNT}[1]{\NoAutoSpaceBeforeFDP{\ifnum\value{footnote}>25\setcounter{footnote}{0}\fi\footnote{[\webchap\webvs]\ #1}}}
 % titres de paragraphes
 \newcommand{\ssubsection}[1]{\subsection*{\centering\footnotesize\normalfont #1}}
 \newcommand{\TextTitle}[1]{\ssubsection{\NoAutoSpaceBeforeFDP{\textit{#1}}}}
