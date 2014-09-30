@@ -47,4 +47,4 @@ Utiliser la balise `\FTNT{}` collée au mot auquel lequel doit correspondre la n
 \VS{9}Après avoir entendu le roi, ils partirent. Et voici, l'étoile\FTNT{Il est évident que cette étoile qui se déplace pour guider les mages n’est pas une étoile ordinaire. Il s’agit de Jésus-Christ lui-même (Ap. 22:16).} qu'ils avaient vue en Orient allait devant eux, jusqu’au moment où, arrivée au-dessus du lieu où était le petit enfant, elle s’arrêta.
 ```
 
-S'il s'agit d'une notre à mettre sur une titre, il faut utiliser la balise `\FTNTT{}` sur le dernier mot, cf. « Titre avec renvois ou note ».
+S'il s'agit d'une notre à mettre sur un titre, il faut utiliser la balise `\FTNTT{}` sur le dernier mot, cf. « Titre avec renvois ou note ».
