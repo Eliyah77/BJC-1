@@ -1,4 +1,4 @@
-## Ajout titres et renvois
+## Ajout titres
 
 Les titres sont à mettre entre crochets `[]`, les renvois (sur les titres) sont à mettre dans la balise `\FTNTT{}` (attention différent e `\FTNT{}`, il y a deux 'T') sur le dernier mot du titre.
 
@@ -7,7 +7,7 @@ Les titres sont à mettre entre crochets `[]`, les renvois (sur les titres) sont
 \TextTitle{[Famine en Juda]}
 ```
 
-* Titre avec renvois :
+* Titre avec renvois ou note :
 ```tex
 \TextTitle{[Retour du Roi de la terre à la fin de la tribulation\FTNTT{Mc. 13:24-27 ; Lu. 21:25-28.}]}
 ```
@@ -47,4 +47,4 @@ Utiliser la balise `\FTNT{}` collée au mot auquel lequel doit correspondre la n
 \VS{9}Après avoir entendu le roi, ils partirent. Et voici, l'étoile\FTNT{Il est évident que cette étoile qui se déplace pour guider les mages n’est pas une étoile ordinaire. Il s’agit de Jésus-Christ lui-même (Ap. 22:16).} qu'ils avaient vue en Orient allait devant eux, jusqu’au moment où, arrivée au-dessus du lieu où était le petit enfant, elle s’arrêta.
 ```
 
-S'il s'agit d'une notre à mettre sur une titre, il faut utiliser la balise `\FTNTT{}` sur le dernier mot, cf. « Titre avec renvois ».
+S'il s'agit d'une notre à mettre sur une titre, il faut utiliser la balise `\FTNTT{}` sur le dernier mot, cf. « Titre avec renvois ou note ».
