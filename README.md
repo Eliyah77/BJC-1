@@ -17,28 +17,16 @@ apt-get install git texmaker texlive-lang-french texlive-fonts-recommended texli
 git clone https://github.com/bible2vie/BJC.git ~/BJC
 ```
 
-## Génération des fichiers LaTeX
-
-Étape facultative si les fichiers `.tex` sont déjà présents dans le dépôt. Si vous lancez ces scripts, les fichiers existants (et leurs éventuelles personnalisations : titres, commentaires, corrections, etc.) seront écrasés.
-
-```bash
-# se placer dans le dossier scripts
-cd ~/BJC/scripts/
-
-# lancer l'export des fichiers txt vers le format XML
-./txt2xml.py
-
-# export du XML vers LaTeX
-./xml2tex.pl
-```
-
 ## Compilation PDF
 
 ```bash
-# se placer dans le dossier des fichiers LaTeX
-cd ~/BJC/tex/bjc_2014/
+# se placer dans le dossier BJC
+cd ~/BJC/
 
-# lancer la compilation avec xelatex
-xelatex bjc_2014.tex
+# lancer la compilation avec make
+make bjc_current
+
+# pour compiler la Bible Martin 1744
+make martin_1744
 ```
 Prochainement en ligne, site de présentation : http://www.bible-de-jesus.org/
