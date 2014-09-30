@@ -37,7 +37,7 @@ pdf/bjc_mix.pdf: tex/bjc_mix.tex tex/bjc_2014/*.tex
 	$(XELATEX) bjc_mix
 
 # supprime les fichiers généré par xelatex
-clean:
+clean: pdf/*.aux pdf/*.log pdf/*.out pdf/*.toc
 	rm -rf pdf/*.aux
 	rm -rf pdf/*.log
 	rm -rf pdf/*.out
