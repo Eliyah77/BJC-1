@@ -13,7 +13,7 @@ pdf/martin_1744.pdf: tex/martin_1744.tex tex/martin_1744/*.tex
 	$(XELATEX) martin_1744
 
 # BJC format current
-bjc_current: pdf/bjc_other.pdf
+bjc_current: pdf/bjc_current.pdf
 
 pdf/bjc_current.pdf: tex/bjc_current.tex tex/bjc_2014/*.tex
 	$(XELATEX) bjc_current
