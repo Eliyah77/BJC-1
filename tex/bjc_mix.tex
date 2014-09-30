@@ -13,15 +13,6 @@
 \setlength{\textheight}{7.4in} % hauteur du texte
 \setlength{\textwidth}{5.5in} % largeur du texte
 \setlength{\columnseprule}{0.4pt} % épaisseur séparateur colonne
-% formatage espaces
-%\setlength{\parskip}{0pt}
-%\setlength{\parsep}{0pt}
-%\setlength{\headsep}{0pt}
-%\setlength{\topskip}{0pt}
-%\setlength{\topmargin}{0pt}
-%\setlength{\topsep}{0pt}
-%\setlength{\partopsep}{0pt}
-%\setlength{\footskip}{0in}
 % package pour afficher les cadres
 %\usepackage{showframe}
 % package langue
@@ -32,8 +23,6 @@
 \setmainfont[Ligatures=TeX,Scale=0.95]{Liberation Serif}
 \setsansfont{Liberation Sans}
 \setmonofont{Liberation Mono}
-% package interligne
-\usepackage{setspace}
 % package multicolonne
 \usepackage{multicol}
 % package liens cliquables
@@ -89,7 +78,7 @@
 \renewcommand\tableofcontents{
     \begin{center}{\LARGE Table des matières}\end{center}
     \setlength{\columnseprule}{0pt} % désactivation séparateur colonne temp
-    \begin{multicols}{2}\medskip\@starttoc{toc}\end{multicols}
+    \begin{multicols}{2}\medskip\footnotesize{\@starttoc{toc}}\end{multicols}
     \setlength{\columnseprule}{0.4pt} % réactivation séparateur colonne
 }
 \makeatother
