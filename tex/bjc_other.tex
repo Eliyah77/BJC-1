@@ -13,6 +13,7 @@
 \setlength{\textheight}{7.4in} % hauteur du texte
 \setlength{\textwidth}{5.5in} % largeur du texte
 \setlength{\columnseprule}{0.4pt} % épaisseur séparateur colonne
+\setlength{\parskip}{0pt} % espace entre paragraphes
 % package pour afficher les cadres
 %\usepackage{showframe}
 % package langue
@@ -25,6 +26,8 @@
 \setmonofont{Liberation Mono}
 % package multicolonne
 \usepackage{multicol}
+% package parskip pour espaces entre paragraphes
+\usepackage{parskip}
 % package liens cliquables
 \usepackage[xetex]{hyperref}
 % package inclusion copyright (dépandant de hyperref)
@@ -59,7 +62,7 @@
 \newcommand{\FTNTT}[1]{\NoAutoSpaceBeforeFDP{\ifnum\value{footnote}>25\setcounter{footnote}{0}\fi\footnote{#1}}}
 % titres de paragraphes
 \newcommand{\ssubsection}[1]{\subsection*{\centering\footnotesize\normalfont #1}}
-\newcommand{\TextTitle}[1]{\ssubsection{\NoAutoSpaceBeforeFDP{\textit{#1}}}\PP}
+\newcommand{\TextTitle}[1]{\ssubsection{\textit{[#1]}}}
 % dictionnaire
 \newcommand{\DicoEntry}[1]{\smallskip\parindent=0mm{\textbf{#1}}\markboth{#1}{#1}}
 % commandes diverses
