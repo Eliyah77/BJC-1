@@ -1,6 +1,6 @@
 %& -output-directory="../pdf"
 % type document & taille police
-\documentclass[11pt,parskip=never]{scrbook}
+\documentclass[11pt]{book}
 % package format document
 \usepackage[paperwidth=6.5in, paperheight=9.05in, top=0in, bottom=0in, left=0in, right=0in]{geometry}
 % formatage marges, etc.
@@ -50,7 +50,8 @@
 \newcommand{\ShortTitle}[1]{\def\webbook{#1}\par\goodbreak\bigskip\setcounter{footnote}{0}}
 \newcommand{\BookTitle}[1]{\par\goodbreak\bigskip{\parindent=0mm\begin{center}{\small\bfseries{\LARGE #1\nopagebreak}}\end{center}}\addcontentsline{toc}{subsection}{#1}\nopagebreak\par\nobreak}
 % chapitres
-\newcommand{\Chap}[1]{\def\webchap{#1:}\def\vchap{#1}\ssubsection{\begin{center}\textbf{{CHAPITRE\ #1}}\end{center}}}
+%\newcommand{\Chap}[1]{\def\webchap{#1:}\def\vchap{#1}\begin{center}\ssubsection{\textbf{{CHAPITRE\ #1}}}\end{center}}
+\newcommand{\Chap}[1]{\def\webchap{#1:}\def\vchap{#1}{\centering\ssubsection{\textbf{{CHAPITRE\ #1}}}}}
 % versets
 \newcommand{\VerseOne}{\def\webvs{1}{\up{\footnotesize 1}}\markboth{\webbook\ \webchap 1}{\webbook\ \webchap 1}}
 \newcommand{\VS}[1]{\def\webvs{#1}{\up{\footnotesize #1}}\markboth{\webbook\ \webchap #1}{\webbook\ \webchap #1}}
