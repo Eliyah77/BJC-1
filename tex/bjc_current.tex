@@ -1,6 +1,6 @@
 %& -output-directory="../pdf"
 % type document & taille police
-\documentclass[11pt]{book}
+\documentclass[11pt,parskip=never]{scrbook}
 % package format document
 \usepackage[paperwidth=6.5in, paperheight=9.05in, top=0in, bottom=0in, left=0in, right=0in]{geometry}
 % formatage marges, etc.
@@ -50,7 +50,7 @@
 \newcommand{\ShortTitle}[1]{\def\webbook{#1}\par\goodbreak\bigskip\setcounter{footnote}{0}}
 \newcommand{\BookTitle}[1]{\par\goodbreak\bigskip{\parindent=0mm\begin{center}{\small\bfseries{\LARGE #1\nopagebreak}}\end{center}}\addcontentsline{toc}{subsection}{#1}\nopagebreak\par\nobreak}
 % chapitres
-\newcommand{\Chap}[1]{\def\webchap{#1:}\def\vchap{#1}\begin{center}\textbf{{CHAPITRE\ #1}}\end{center}}
+\newcommand{\Chap}[1]{\def\webchap{#1:}\def\vchap{#1}\begin{center}\ssubsection{\textbf{{CHAPITRE\ #1}}}\end{center}}
 % versets
 \newcommand{\VerseOne}{\def\webvs{1}{\up{\footnotesize 1}}\markboth{\webbook\ \webchap 1}{\webbook\ \webchap 1}}
 \newcommand{\VS}[1]{\def\webvs{#1}{\up{\footnotesize #1}}\markboth{\webbook\ \webchap #1}{\webbook\ \webchap #1}}
@@ -62,7 +62,8 @@
 \newcommand{\FTNTT}[1]{\NoAutoSpaceBeforeFDP{\ifnum\value{footnote}>25\setcounter{footnote}{0}\fi\footnote{#1}}}
 % titres de paragraphes
 \newcommand{\ssubsection}[1]{\subsection*{\centering\footnotesize\normalfont #1}}
-\newcommand{\TextTitle}[1]{\ssubsection{\textit{[#1]}}}
+\newcommand{\ssubsubsection}[1]{\subsubsection*{\centering\footnotesize\normalfont #1}}
+\newcommand{\TextTitle}[1]{\ssubsubsection{\textit{[#1]}}}
 % dictionnaire
 \newcommand{\DicoEntry}[1]{\smallskip\parindent=0mm{\textbf{#1}}\markboth{#1}{#1}}
 % commandes diverses
