@@ -50,7 +50,7 @@
 \newcommand{\ShortTitle}[1]{\def\webbook{#1}\par\goodbreak\bigskip\setcounter{footnote}{0}}
 \newcommand{\BookTitle}[1]{\par\goodbreak\bigskip{\parindent=0mm\begin{center}{\small\bfseries{\LARGE #1\nopagebreak}}\end{center}}\addcontentsline{toc}{subsection}{#1}\nopagebreak\par\nobreak}
 % chapitres
-\newcommand{\Chap}[1]{\def\webchap{#1:}\def\vchap{#1}\ssubsection{\centerline{\textbf{{CHAPITRE\ #1}}}}}
+\newcommand{\Chap}[1]{\def\webchap{#1:}\def\vchap{#1:}\ssubsection{\centerline{\textbf{{CHAPITRE\ #1}}}}}
 % versets
 \newcommand{\VerseOne}{\def\webvs{1}\markboth{\webbook\ \webchap 1}{\webbook\ \webchap 1}$^{\vchap 1}$}
 \newcommand{\VS}[1]{\def\webvs{#1}$^{\vchap#1}$\markboth{\webbook\ \webchap #1}{\webbook\ \webchap #1}}
