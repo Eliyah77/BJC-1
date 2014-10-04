@@ -36,6 +36,14 @@ pdf/bjc_mix.pdf: tex/bjc_mix.tex tex/bjc_2014/*.tex
 	$(XELATEX) bjc_mix
 	$(XELATEX) bjc_mix
 
+# BJC livre individuel
+bjc_book: pdf/bjc_book.pdf
+
+pdf/bjc_book.pdf: tex/bjc_book.tex tex/bjc_2014/*.tex
+	$(XELATEX) bjc_book
+	$(XELATEX) bjc_book
+	$(XELATEX) bjc_book
+
 # supprime les fichiers généré par xelatex
 clean: pdf/*.aux pdf/*.log pdf/*.out pdf/*.toc
 	rm -rf pdf/*.aux
