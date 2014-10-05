@@ -72,22 +72,24 @@
 \newcommand{\PPE}{\par\parindent=4mm}
 % debut document
 \begin{document}
-% en-tête vide sur la table des matières
+% en-tête vide
 \makeatletter
     \def\@evenhead{}
     \def\@oddhead{}
 \makeatother
-% formatage table des matières
+% inclusion intro
+\input{bjc_2014/intro}
+% formatage sommaire
 \makeatletter
 \renewcommand\tableofcontents{
-    \begin{center}{\LARGE Table des matières}\end{center}
+    \begin{center}{\LARGE Sommaire}\end{center}
     \setlength{\columnseprule}{0pt} % désactivation séparateur colonne temp
     \begin{multicols}{2}\medskip\footnotesize{\@starttoc{toc}}\end{multicols}
     \setlength{\columnseprule}{0.4pt} % réactivation séparateur colonne
 }
 \makeatother
 % inclusion table des matières
-\tableofcontents\clearpage
+\clearpage\tableofcontents\clearpage
 % en-tête pages
 \makeatletter
 \def\@evenhead{{\NoAutoSpaceBeforeFDP{\small{\rightmark\hfil\thepage\hfil\leftmark}}}}
