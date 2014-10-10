@@ -54,7 +54,7 @@
 % versets
 \newcommand{\VerseOne}{\def\webvs{1}{\up{\footnotesize 1}}\markboth{\webbook\ \webchap 1}{\webbook\ \webchap 1}}
 \newcommand{\VS}[1]{\def\webvs{#1}{\up{\footnotesize #1}}\markboth{\webbook\ \webchap #1}{\webbook\ \webchap #1}}
-%\newcommand{\vref}[1]{\NoAutoSpaceBeforeFDP{#1}}
+\newcommand{\vref}[1]{\NoAutoSpaceBeforeFDP{#1}}
 % commentaires
 %\interfootnotelinepenalty=10000 % longueur max commentaires
 \renewcommand{\thefootnote}{\alph{footnote}} % repères alphabetiques
@@ -79,7 +79,7 @@
     \def\@oddhead{}
 \makeatother
 % inclusion intro
-%\input{bjc_2014/intro}
+\input{bjc_2014/intro}
 % formatage sommaire
 \makeatletter
 \renewcommand\tableofcontents{
