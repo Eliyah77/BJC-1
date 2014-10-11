@@ -2,7 +2,7 @@
 XELATEX	?= cd tex/ ; xelatex --output-directory=../pdf/
 
 # Toutes
-all: martin_1744 bjc_other bjc_current bjc_mix
+all: bjc_current
 
 # Martin 1774
 martin_1744: pdf/martin_1744.pdf
