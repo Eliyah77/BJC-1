@@ -79,7 +79,7 @@
     \def\@oddhead{}
 \makeatother
 % inclusion intro
-\input{bjc_2014/intro}
+\input{bjc_2014/annexes/introduction}
 % formatage sommaire
 \makeatletter
 \renewcommand\tableofcontents{
@@ -179,10 +179,15 @@
     \def\@evenhead{{\small{\rightmark---\leftmark\hfil\thepage\hfil Dictionnaire}}}\clearpage
     \makeatother
         % inclusion dictionnaire
-        \small{\parindent=0mm{\begin{center}\Large\bfseries{Dictionnaire}\end{center}}\par\input{bjc_2014/dictionnaire}\clearpage}\markboth{}{}
+        \small{\parindent=0mm{\begin{center}\Large\bfseries{Dictionnaire}\end{center}}\par\input{bjc_2014/annexes/dictionnaire}\clearpage}\markboth{}{}
     \makeatletter
     % réinitialiser mise en forme
     \def\@oddhead{\hfil\thepage\hfil}
     \def\@evenhead{\hfil}
 \makeatother
+% tableaux
+\addcontentsline{toc}{section}{Fêtes de Yahweh}\clearpage
+\begin{center}Fêtes de Yahweh\end{center}\clearpage
+\addcontentsline{toc}{section}{Alphabet hébreu}\clearpage
+\begin{center}Alphabet hébreu\end{center}\clearpage
 \end{document}
