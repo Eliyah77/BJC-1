@@ -24,8 +24,6 @@
 \setmainfont[Ligatures=TeX,Scale=0.95]{Liberation Serif}
 \setsansfont{Liberation Sans}
 \setmonofont{Liberation Mono}
-% package calculs
-\usepackage{calc}
 % package parskip pour espaces entre paragraphes
 \usepackage{parskip}
 % package multicolonne
@@ -62,7 +60,6 @@
 \renewcommand{\thefootnote}{\alph{footnote}} % repères alphabetiques
 \renewcommand{\footnoterule}{\hrule width \textwidth} % longueur ligne
 \newcommand{\FTNT}[1]{\ifnum\value{footnote}>25\setcounter{footnote}{0}\fi\footnote{[\webchap\webvs]\ #1}}
-%\newcommand{\FTNTT}[1]{\ifnum\value{footnote}>25\setcounter{footnote}{0}\fi\footnote{[\webvs]\ #1}}
 \newcounter{webvst}
 \newcommand{\FTNTT}[1]{
     \ifnum\value{footnote}>25\setcounter{footnote}{0}\fi
