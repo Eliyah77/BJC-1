@@ -24,6 +24,8 @@
 \setmainfont[Ligatures=TeX,Scale=0.95]{Liberation Serif}
 \setsansfont{Liberation Sans}
 \setmonofont{Liberation Mono}
+% package calculs
+\usepackage{calc}
 % package parskip pour espaces entre paragraphes
 \usepackage{parskip}
 % package multicolonne
@@ -50,7 +52,7 @@
 \newcommand{\ShortTitle}[1]{\def\webbook{#1}\par\goodbreak\bigskip\setcounter{footnote}{0}}
 \newcommand{\BookTitle}[1]{\par\goodbreak\bigskip{\parindent=0mm\begin{center}{\small\bfseries{\LARGE #1\nopagebreak}}\end{center}}\addcontentsline{toc}{subsection}{#1}\nopagebreak\par\nobreak}
 % chapitres
-\newcommand{\Chap}[1]{\def\webchap{#1:}\def\vchap{#1}\ssubsection{\centerline{\textbf{{CHAPITRE\ #1}}}}}
+\newcommand{\Chap}[1]{\def\webchap{#1:}\def\webvs{1}\def\vchap{#1}\ssubsection{\centerline{\textbf{{CHAPITRE\ #1}}}}}
 % versets
 \newcommand{\VerseOne}{\def\webvs{1}{\up{\footnotesize 1}}\markboth{\webbook\ \webchap 1}{\webbook\ \webchap 1}}
 \newcommand{\VS}[1]{\def\webvs{#1}{\up{\footnotesize #1}}\markboth{\webbook\ \webchap #1}{\webbook\ \webchap #1}}
@@ -60,7 +62,14 @@
 \renewcommand{\thefootnote}{\alph{footnote}} % repères alphabetiques
 \renewcommand{\footnoterule}{\hrule width \textwidth} % longueur ligne
 \newcommand{\FTNT}[1]{\ifnum\value{footnote}>25\setcounter{footnote}{0}\fi\footnote{[\webchap\webvs]\ #1}}
-\newcommand{\FTNTT}[1]{\ifnum\value{footnote}>25\setcounter{footnote}{0}\fi\footnote{#1}}
+%\newcommand{\FTNTT}[1]{\ifnum\value{footnote}>25\setcounter{footnote}{0}\fi\footnote{[\webvs]\ #1}}
+\newcounter{webvst}
+\newcommand{\FTNTT}[1]{
+    \ifnum\value{footnote}>25\setcounter{footnote}{0}\fi
+    \setcounter{webvst}{\webvs}
+    \ifnum\value{webvst}>1\addtocounter{webvst}{1}\fi
+    \footnote{[\webchap\thewebvst]\ #1}
+}
 % titres de paragraphes
 \newcommand{\ssubsection}[1]{\subsection*{\centering\footnotesize\normalfont #1}}
 \newcommand{\ssubsubsection}[1]{\subsubsection*{\centering\footnotesize\normalfont #1}}
