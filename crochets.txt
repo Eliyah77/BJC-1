@@ -1,7 +1,3 @@
-tex/bjc_2014/18-Job.tex:195:\VS{16}Je suis ennuyé [de la vie, aussi] ne vivrai-je pas toujours. Retire-toi de moi, car mes jours ne sont que vanité\FTNT{Job 10:20.}.
-tex/bjc_2014/18-Job.tex:377:\VS{14}Si l'homme meurt, revivra-t-il ? J'attendrai [donc] tous les jours de mon combat, jusqu'à ce qu'il m'arrive du changement.
-tex/bjc_2014/18-Job.tex:783:\VS{15}Les frayeurs se tournent vers moi, [et] comme un vent elles poursuivent mon âme ; et ma délivrance s'est dissipée comme une nuée\FTNT{Os. 13:3.}.
-tex/bjc_2014/27-Daniel.tex:387:\VS{5}Le roi du midi\FTNT{Le roi du midi est Ptolémée 1er Soter (règne : 323-285 av. J.-C.), le chef plus fort que lui est Séleucus 1er Nicator (règne : 305-281 av. J.-C.).} deviendra fort et puissant. Mais un de ses chefs [roi de Javan] sera plus puissant que lui et dominera ; sa domination sera puissante.
 tex/bjc_2014/21-Ecclesiaste.tex:270:\VS{12}L'Ecclésiaste a cherché pour trouver des discours agréables ; mais ce qui en a été écrit [ici], est la droiture même ; ce sont des paroles de vérité. 
 tex/bjc_2014/49-Ephesiens.tex:112:\TextTitle{[Les dons du Messie et leurs buts]
 tex/bjc_2014/20-Proverbes.tex:984:\VS{10}[Aleph.] Qui trouvera une femme vertueuse ? Car son prix surpasse de beaucoup les perles.
