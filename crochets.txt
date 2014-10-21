@@ -1,26 +1,2 @@
-tex/bjc_2014/21-Ecclesiaste.tex:270:\VS{12}L'Ecclésiaste a cherché pour trouver des discours agréables ; mais ce qui en a été écrit [ici], est la droiture même ; ce sont des paroles de vérité. 
-tex/bjc_2014/49-Ephesiens.tex:112:\TextTitle{[Les dons du Messie et leurs buts]
-tex/bjc_2014/20-Proverbes.tex:984:\VS{10}[Aleph.] Qui trouvera une femme vertueuse ? Car son prix surpasse de beaucoup les perles.
-tex/bjc_2014/20-Proverbes.tex:985:\VS{11}[Beth.] Le cœur de son mari a entièrement confiance en elle, ainsi il ne manque point de butin.
-tex/bjc_2014/20-Proverbes.tex:986:\VS{12}[Guimel.] Elle lui fait du bien tous les jours de sa vie, et jamais du mal.
-tex/bjc_2014/20-Proverbes.tex:987:\VS{13}[Daleth.] Elle cherche de la laine et du lin, et elle travaille de bon cœur avec ses mains.
-tex/bjc_2014/20-Proverbes.tex:988:\VS{14}[He.] Elle est comme les navires d'un marchand, elle amène sa nourriture de loin.
-tex/bjc_2014/20-Proverbes.tex:989:\VS{15}[Vav.] Elle se lève lorsqu'il est encore nuit, elle distribue la nourriture à sa maison, et elle donne à ses servantes leur portion.
-tex/bjc_2014/20-Proverbes.tex:990:\VS{16}[Zayin.] Elle considère un champ, et l'acquiert ; et elle plante la vigne du fruit de ses mains.
-tex/bjc_2014/20-Proverbes.tex:991:\VS{17}[Heth.] Elle ceint ses reins de force, et affermit ses bras.
-tex/bjc_2014/20-Proverbes.tex:992:\VS{18}[Teth.] Elle sent que son trafic est bon ; sa lampe ne s'éteint pas la nuit.
-tex/bjc_2014/20-Proverbes.tex:993:\VS{19}[Yod.] Elle met ses main au fuseau, et ses mains tiennent la quenouille.
-tex/bjc_2014/20-Proverbes.tex:994:\VS{20}[Kaf.] Elle tend sa main au pauvre, et avance ses mains au nécessiteux.
-tex/bjc_2014/20-Proverbes.tex:995:\VS{21}[Lamed.] Elle ne craint point la neige pour sa maison, car toute sa maison est vêtue d'écarlate.
-tex/bjc_2014/20-Proverbes.tex:996:\VS{22}[Mem.] Elle se fait des couvertures ; le fin lin et le pourpre sont ce dont elle s'habille.
-tex/bjc_2014/20-Proverbes.tex:997:\VS{23}[Nun.] Son mari est reconnu aux portes, quand il est assis avec les anciens du pays.
-tex/bjc_2014/20-Proverbes.tex:998:\VS{24}[Samech.] Elle fait du fin lin le vend, et elle livre des ceintures au marchand.
-tex/bjc_2014/20-Proverbes.tex:999:\VS{25}[Ayin.] La force et la magnificence sont son vêtement, et elle se rit du jour à venir.
-tex/bjc_2014/20-Proverbes.tex:1000:\VS{26}[Pe.] Elle ouvre sa bouche avec sagesse, et la loi de la charité est sur sa langue.
-tex/bjc_2014/20-Proverbes.tex:1001:\VS{27}[Tsade.] Elle veille sur la direction de sa maison, et ne mange pas le pain de la paresse.
-tex/bjc_2014/20-Proverbes.tex:1002:\VS{28}[Qof.] Ses enfants se lèvent et la disent bienheureuse ; son mari aussi, et il la loue, en disant :
-tex/bjc_2014/20-Proverbes.tex:1003:\VS{29}[Resh.] Beaucoup de filles agissent vertueusement, mais toi, tu les surpasses toutes.
-tex/bjc_2014/20-Proverbes.tex:1004:\VS{30}[Shin.] La grâce est trompeuse, et la beauté vaine ; mais la femme qui craint Yahweh est celle qui sera louée.
-tex/bjc_2014/20-Proverbes.tex:1005:\VS{31}[Tav.] Donnez-lui du fruit de ses mains, et que ses œuvres la louent aux portes.
 tex/bjc_2014/01-Genese.tex:33:\VS{5}Dieu appela la lumière jour, et il appela les ténèbres nuit\FTNT{La lumière et les ténèbres, ainsi que leurs champs lexicaux respectifs, personnifient souvent Jésus et Satan. Ainsi, Jésus est la Lumière du monde (Jn. 9:5), l'Etoile brillante du matin (Ap. 22:16), le Soleil levant ou le Soleil de la justice (Mal. 4:2 ; Ps. 19:6 ; Lu. 1:78). Il est associé au jour (Jn. 9:4) d'où les expressions « Jour du Seigneur » (1 Th. 5:2) ou « Jour de Yahweh » (Joë. 1:15). A l'inverse, la Bible associe Satan aux ténèbres (Es. 8:23 ; Ps. 143:3 ; Ep. 6:12 ; Col. 1:13) et à la nuit (Jn. 9:4 ; Ro. 13:12).}. Ainsi fut le soir, ainsi fut le matin\FTNT{Contrairement au calendrier grégorien où le jour commence à minuit, selon Dieu et le calendrier hébraïque, le jour commence le soir à 18 heures pour se terminer le lendemain à la même heure. Voir commentaire en Mc. 16:9.} ; ce fut le jour un\FTNT{L'hébreu utilise le terme « ehad » qui signifie « un », au sens de l'indivisible, pour qualifier le premier jour. Ce jour nous parle de Yahweh tel qu'il s'est présenté à son peuple sur le mont Sinaï en De. 6:4:« Shema Yisrael Yahweh elohénou Yahweh ehad » (« écoute Israël, Yahweh [est] notre Dieu, Yahweh [est] UN »). Un n'est pas divisible sinon on obtient un zéro ce qui équivaut au néant. Dieu est tout sauf le néant, il remplit tout (Ep. 1:23), il est partout (Ps. 139:7-13), les cieux des cieux ne peuvent le contenir (1 R. 8:27).}.
 tex/bjc_2014/04-Nombres.tex:493:\TextTitle{[Yahweh établit soixante-dix anciens autour de Moïse]
