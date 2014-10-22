@@ -12,9 +12,7 @@ books: $(OBJ)
 	xelatex $<
 	xelatex $<
 	xelatex $<
-
-# supprime les fichiers généré par xelatex
-clean: *.aux *.log *.out *.toc
+	# supprime les fichiers généré par xelatex
 	rm -rf *.aux
 	rm -rf *.log
 	rm -rf *.out
