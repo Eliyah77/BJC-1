@@ -38,7 +38,9 @@ pdf/bjc_mix.pdf: tex/bjc_mix.tex tex/bjc_2014/*.tex
 	$(XELATEX) bjc_mix
 
 # BJC livre individuel
-books: tex/books/*.tex tex/bjc_2014/*.tex
+books: pdf/books/*.pdf
+
+pdf/books/*.pdf: tex/books/*.tex tex/bjc_2014/*.tex
 	cd tex/books/ ; \
 	for book in *.tex ; do \
 		$(XELATEXBOOKS) $$book; \
