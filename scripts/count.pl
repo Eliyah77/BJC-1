@@ -62,7 +62,7 @@ sub count_verses {
     close(DATA);
 }
 
-# verifier que les versets se suivent (en dev...)
+# verifier que les versets se suivent
 sub check_verses {
     my $previous_verse = shift(@_);
     my $current_verse = shift(@_);
