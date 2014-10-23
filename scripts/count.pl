@@ -37,10 +37,8 @@ sub count_verses {
     my $chapter = 0;
     my $verses = 0;
     
-    # ouvrir fichier
     open(DATA, "< $book") or die("\n/!\\ $book : $! /!\\");
     
-    # parcourir les lignes du fichiers
     while(my $line = <DATA>) {
         if($line =~ /^\\Chap\{\d{1,3}\}/) {
             if($verses != 0) {
