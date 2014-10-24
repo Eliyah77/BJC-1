@@ -49,7 +49,11 @@ sub count_verses {
             $verses = 0;
             print("\tChapitre ",$chapter," : ");
         }
-        if(($line =~ /^\\VerseOne\{\}/) or ($line =~ /^\\VS\{\d{1,3}\}/)) {
+        if($line =~ /^\\VerseOne\{\}/) {
+            check_verses($verses, 1);
+            $verses++;
+        } elsif ($line =~ /^\\VS\{(\d{1,3})\}/) {
+            check_verses($verses, $1);
             $verses++;
         }
     }
@@ -58,29 +62,12 @@ sub count_verses {
     close(DATA);
 }
 
-# verifier que les versets se suivent (en dev...)
+# verifier que les versets se suivent
 sub check_verses {
-    my $book = shift(@_);
-    my $chapter = 0;
-    my $verses = 0;
+    my $previous_verse = shift(@_);
+    my $current_verse = shift(@_);
     
-    open(DATA, "< $book") or die("\n/!\\ $book : $! /!\\");
-    
-    while(my $line = <DATA>) {
-        if($line =~ /^\\Chap\{\d{1,3}\}/) {
-            if($verses != 0) {
-                # afficher le compte du chapitre précédent
-                print($verses," versets\n");
-            }
-            $chapter++;
-            $verses = 0;
-            print("\tChapitre ",$chapter," : ");
-        }
-        if(($line =~ /^\\VerseOne\{\}/) or ($line =~ /^\\VS\{\d{1,3}\}/)) {
-            $verses++;
-        }
+    if($current_verse != $previous_verse+1) {
+        print("(verset ",$previous_verse+1," manquant) ");
     }
-    print($verses," versets\n");
-    
-    close(DATA);
 }
