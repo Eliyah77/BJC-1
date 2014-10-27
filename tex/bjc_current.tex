@@ -48,7 +48,7 @@
 \sloppy\hyphenpenalty=2000
 % titres de livres
 \newcommand{\ShortTitle}[1]{\def\webbook{#1}\par\goodbreak\bigskip\setcounter{footnote}{0}}
-\newcommand{\BookTitle}[1]{\par\goodbreak\bigskip{\parindent=0mm\begin{center}{\small\bfseries{\LARGE #1\nopagebreak}}\end{center}}\addcontentsline{toc}{subsection}{#1 (\webbook)}\nopagebreak\par\nobreak}
+\newcommand{\BookTitle}[1]{\par\goodbreak\bigskip{\parindent=0mm\begin{center}{\small\bfseries{\LARGE #1\nopagebreak}}\end{center}}\addcontentsline{toc}{subsection}{#1 [\webbook]}\nopagebreak\par\nobreak}
 % chapitres
 \newcommand{\Chap}[1]{\def\webchap{#1:}\def\webvs{0}\def\vchap{#1}\ssubsection{\centerline{\textbf{{CHAPITRE\ #1}}}}}
 % versets
