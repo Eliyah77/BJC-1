@@ -15,4 +15,6 @@ sed -i 's/ "/ « /g' $TEX
 sed -i 's/" / » /g' $TEX
 sed -i 's/",/ »,/g' $TEX
 sed -i 's/"\./ »\./g' $TEX
+sed -i 's/"}/ »}/g' $TEX
+sed -i 's/{"/{« /g' $TEX
 
