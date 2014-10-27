@@ -34,4 +34,8 @@ sed -i 's/"\./ »\./g' $TEX
 sed -i 's/"}/ »}/g' $TEX
 sed -i 's/{"/{« /g' $TEX
 
+# espaces & guillemets
+sed -i 's/«/« /g' $TEX
+sed -i 's/»/ »/g' $TEX
+sed -i 's/  / /g' $TEX
 
