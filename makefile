@@ -16,7 +16,7 @@ pdf/martin_1744.pdf: tex/martin_1744.tex tex/martin_1744/*.tex
 # BJC format current
 bjc_current: pdf/bjc_current.pdf
 
-pdf/bjc_current.pdf: tex/bjc_current.tex tex/bjc_2014/*.tex
+pdf/bjc_current.pdf: tex/bjc_current.tex tex/bjc_2014/*.tex tex/bjc_2014/annexes/*.tex
 	$(XELATEX) bjc_current
 	$(XELATEX) bjc_current
 	$(XELATEX) bjc_current
