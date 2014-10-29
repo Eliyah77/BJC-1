@@ -21,7 +21,7 @@ pdf/bjc_imprim.pdf: tex/bjc_imprim.tex tex/bjc_2014/*.tex tex/bjc_2014/annexes/*
 	$(XELATEX) bjc_imprim
 
 # BJC format internet
-bjc_imprim: pdf/bjc_internet.pdf
+bjc_internet: pdf/bjc_internet.pdf
 
 pdf/bjc_internet.pdf: tex/bjc_internet.tex tex/bjc_2014/*.tex tex/bjc_2014/annexes/*.tex
 	$(XELATEX) bjc_internet
