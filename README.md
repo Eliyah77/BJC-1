@@ -9,7 +9,7 @@ Scripts et fichiers sources de la BJC
 
 ```bash
 # installation des paquets nécessaires
-apt-get install git make texmaker texlive-lang-french texlive-fonts-recommended texlive-xetex
+apt-get install git make texmaker texlive-lang-french texlive-fonts-recommended texlive-latex-extra texlive-xetex
 ```
 
 ## 2. Récupération des fichiers
