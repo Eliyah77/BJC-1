@@ -39,6 +39,7 @@ foreach $src_file (@file_list) {
 		# pre-formatage ligne
 		chomp($line);
 		$line =~ s/\\FTNT\{.[^\}]*\}//g;
+		$line =~ s/\\TextDial\{(.[^\}]*)\}/\[$1\]/g;
 		$line =~ s/~/ /g;
 		
 		# recup numéro de chaptire
