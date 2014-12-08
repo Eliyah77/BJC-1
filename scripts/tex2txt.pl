@@ -34,6 +34,14 @@ foreach $src_file (@file_list) {
 	$book = $src_file;
 	$book =~ s/^(\d{2}).*/$1/;
 	
+	# ajout O(ld) ou N(ew)
+	if($book<40) {
+		$book=$book.'O';
+	}
+	else {
+		$book=$book.'N';
+	}
+	
 	# parcours du livre
 	while($line = <$src_fh>) {
 		# pre-formatage ligne
