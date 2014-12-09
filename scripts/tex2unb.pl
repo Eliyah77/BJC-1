@@ -70,7 +70,6 @@ foreach $src_file (@file_list) {
 			
 			# écrire ligne formatée
 			$output = $book."\t".$chapter."\t".$verse."\t".$text."\n";
-			$output =~ s/\s\t/\t/g;
 			print($dst_fh $output);
 		}
 	}
