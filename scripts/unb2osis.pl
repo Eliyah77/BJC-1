@@ -67,7 +67,7 @@ if (scalar(@ARGV) < 2) {
 $osisWork = $ARGV[0];
 
 if ($ARGV[2] eq "-o") {
-    $outputFilename = "$ARGV[3];"
+    $outputFilename = "$ARGV[3]";
 }
 else {
     $outputFilename = "$osisWork.osis.xml";
