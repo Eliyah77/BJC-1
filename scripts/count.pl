@@ -69,5 +69,7 @@ sub check_verses {
     
     if($current_verse != $previous_verse+1) {
         print("(verset ",$previous_verse+1," manquant) ");
+	# pause
+	<STDIN>;
     }
 }
