@@ -52,4 +52,4 @@ Ouvrir avec MiKTeX l'un des fichiers `bjc_*.tex` dans le dossier `tex/`, séléc
 
 # En savoir plus
 
-Prochainement en ligne, site de présentation : [http://www.bibledejesuschrist.org/](http://www.bibledejesuschrist.org/)
+Site de présentation : [http://www.bibledejesuschrist.org/](http://www.bibledejesuschrist.org/)
