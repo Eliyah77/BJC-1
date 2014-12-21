@@ -9,7 +9,7 @@ Scripts et fichiers sources de la BJC
 
 ```bash
 # installation des paquets nécessaires
-apt-get install git make texlive-lang-french texlive-fonts-recommended texlive-latex-extra texlive-xetex
+apt-get install git make texlive-lang-french texlive-fonts-recommended texlive-latex-extra texlive-xetex pdftk
 ```
 
 ## 2. Récupération des fichiers
@@ -26,13 +26,17 @@ git clone https://github.com/bible2vie/BJC.git ~/BJC
 cd ~/BJC/
 
 # lancer la compilation avec make
-make bjc_current
+make bjc_imprim
 
 # pour compiler la Bible Martin 1744
 make martin_1744
 ```
 
 # Procédure pour Windows
+
+## 0. Recommandations
+
+Virer Windows et installer une distribution GNU/Linux à la place (Debian GNU/Linux par exemple) :-)
 
 ## 1. Installation des outils
 
@@ -48,4 +52,4 @@ Ouvrir avec MiKTeX l'un des fichiers `bjc_*.tex` dans le dossier `tex/`, séléc
 
 # En savoir plus
 
-Prochainement en ligne, site de présentation : http://www.bible-de-jesus.org/
+Prochainement en ligne, site de présentation : [http://www.bibledejesuschrist.org/](http://www.bibledejesuschrist.org/)
