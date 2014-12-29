@@ -1,0 +1,295 @@
+%& -output-directory="../pdf"
+% type document & taille police
+\documentclass[10pt]{book}
+% package format document
+\usepackage[paperwidth=4.8425in, paperheight=7.0866in, top=0in, bottom=0in, left=0in, right=0in]{geometry}
+% formatage marges, etc.
+\setlength{\voffset}{-0.7in} % offset haut
+%\setlength{\hoffset}{-0.3in} % offset gauche
+\setlength{\topmargin}{0in} % marge en tête
+\setlength{\headsep}{0.2in} % marge header/body
+\setlength{\oddsidemargin}{-0.5in} % marge texte gauche
+\setlength{\evensidemargin}{-0.5in} % marge texte droite
+\setlength{\textheight}{6in} % hauteur du texte
+\setlength{\textwidth}{3.8in} % largeur du texte
+\setlength{\columnseprule}{0.4pt} % épaisseur séparateur colonne
+\setlength{\parskip}{0pt} % espace entre paragraphes
+% package pour afficher les cadres
+\usepackage{showframe}
+% package langue
+\usepackage[francais]{babel}
+% package polices système
+\usepackage{fontspec}
+% package taille police
+%\usepackage{extsizes}
+% définition police
+\setmainfont[Ligatures=TeX,Scale=0.95]{Liberation Serif}
+\setsansfont{Liberation Sans}
+\setmonofont{Liberation Mono}
+% package titlesec
+\usepackage{titlesec}
+% package multicolonne
+\usepackage{multicol}
+% package liens cliquables
+\usepackage[xetex]{hyperref}
+% package inclusion copyright (dépandant de hyperref)
+\usepackage{hyperxmp}
+% copyright
+\hypersetup{
+    pdfauthor = {ANJC Productions},
+    pdftitle = {Bible de Jésus-Christ},
+    pdfkeywords = {BJC, Bible, Jesus},
+    pdfcopyright = {ANJC Productions. Distribution et Diffusion Libre - Pas d'Utilisation Commerciale - Pas de Dénaturation de l'Œuvre - International},
+    pdflicenseurl = {http://www.bibledejesuschrist.org/}
+}
+% ???
+\setcounter{collectmore}{-1}
+% style
+\pagestyle{myheadings}
+% ???
+\sloppy\hyphenpenalty=2000
+% titres de livres
+\newcommand{\ShortTitle}[1]{\def\webbook{#1}\par\goodbreak\bigskip\setcounter{footnote}{0}}
+\newcommand{\BookTitle}[1]{\par\goodbreak\bigskip{\parindent=0mm\begin{center}{\small\bfseries{\LARGE #1\nopagebreak}}\end{center}}\addcontentsline{toc}{subsection}{#1}\nopagebreak\par\nobreak}
+% chapitres
+\newcommand{\Chap}[1]{\def\webchap{#1:}\def\webvs{1}\def\vchap{#1}\ssubsection{\centerline{\textbf{{CHAPITRE\ #1}}}}}
+% versets
+\newcommand{\VerseOne}{\def\webvs{1}{\up{\footnotesize 1}}\markboth{\webbook\ \webchap 1}{\webbook\ \webchap 1}}
+\newcommand{\VS}[1]{\def\webvs{#1}{\up{\footnotesize #1}}\markboth{\webbook\ \webchap #1}{\webbook\ \webchap #1}}
+\newcommand{\vref}[1]{\NoAutoSpaceBeforeFDP{#1}}
+% commentaires
+%\interfootnotelinepenalty=10000 % longueur max commentaires
+\renewcommand{\thefootnote}{\alph{footnote}} % repères alphabetiques
+\renewcommand{\footnoterule}{\hrule width \textwidth} % longueur ligne
+\newcommand{\FTNT}[1]{\ifnum\value{footnote}>25\setcounter{footnote}{0}\fi\footnote{[\NoAutoSpaceBeforeFDP{\webchap\webvs}]\ #1}}
+\newcounter{webvst}
+\newcommand{\FTNTT}[1]{
+    \ifnum\value{footnote}>25\setcounter{footnote}{0}\fi
+    \setcounter{webvst}{\webvs}\addtocounter{webvst}{1}
+    \ifnum\value{webvst}<1\setcounter{webvst}{1}\fi
+    \footnote{[\NoAutoSpaceBeforeFDP{\webchap\thewebvst}]\ #1}
+}
+% titres de paragraphes
+\titlespacing*{\subsection}{0pt}{5pt plus 0pt minus 0pt}{5pt plus 0pt minus 0pt}
+\titlespacing*{\subsubsection}{0pt}{5pt plus 0pt minus 0pt}{5pt plus 0pt minus 0pt}
+\newcommand{\ssubsection}[1]{\subsection*{\centering\footnotesize\normalfont #1}\PP}
+\newcommand{\ssubsubsection}[1]{\subsubsection*{\centering\footnotesize\normalfont #1}\PP}
+\newcommand{\TextTitle}[1]{\ssubsubsection{[\textit{#1}]}}
+\newcommand{\TextDial}[1]{{\scriptsize[\textit{#1}]}}
+% dictionnaire
+\newcommand{\DicoEntry}[1]{\smallskip\parindent=0mm{\textbf{#1}}\markboth{#1}{#1}}
+% commandes diverses
+\newcommand{\BFont}{\normalfont\small}
+\newcommand{\PP}{\par\parindent=0mm}
+\newcommand{\PPE}{\par\parindent=4mm}
+% debut document
+\begin{document}
+% en-tête vide
+\makeatletter
+    \def\@evenhead{}
+    \def\@oddhead{}
+\makeatother
+% inclusion intro
+\input{bjc_2014/annexes/introduction}
+% formatage sommaire
+\makeatletter
+\renewcommand\tableofcontents{
+    \begin{center}{\LARGE Sommaire}\end{center}
+    \setlength{\columnseprule}{0pt} % désactivation séparateur colonne temp
+    \begin{multicols}{2}\medskip\footnotesize{\@starttoc{toc}}\end{multicols}
+    \setlength{\columnseprule}{0.4pt} % réactivation séparateur colonne
+}
+\makeatother
+% inclusion table des matières
+\clearpage\tableofcontents\clearpage
+% en-tête pages
+\makeatletter
+\def\@evenhead{{\NoAutoSpaceBeforeFDP{\small{\rightmark\hfil\thepage\hfil\leftmark}}}}
+\def\@oddhead{{\NoAutoSpaceBeforeFDP{\small{\rightmark\hfil\thepage\hfil\leftmark}}}}
+\makeatother
+% inclusion des livres
+\addcontentsline{toc}{chapter}{Tanakh}\pagenumbering{arabic}\clearpage
+\addcontentsline{toc}{section}{Torah (Loi)}\clearpage
+\clearpage\input{bjc_2014/01-Genese}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/02-Exode}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/03-Levitique}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/04-Nombres}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/05-Deuteronome}
+\clearpage\input{bjc_2014/annexes/notes}
+\addcontentsline{toc}{section}{Nevi'im (Prophètes)}\clearpage
+\clearpage\input{bjc_2014/06-Josue}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/07-Juges}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/09-1Samuel}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/10-2Samuel}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/11-1Rois}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/12-2Rois}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/23-Esaie}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/24-Jeremie}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/26-Ezechiel}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/28-Osee}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/29-Joel}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/30-Amos}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/31-Abdias}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/32-Jonas}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/33-Michee}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/34-Nahum}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/35-Habakuk}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/36-Sophonie}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/37-Aggee}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/38-Zacharie}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/39-Malachie}
+\clearpage\input{bjc_2014/annexes/notes}
+\addcontentsline{toc}{section}{Ketouvim (Ecrits)}\clearpage
+\clearpage\input{bjc_2014/19-Psaumes}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/20-Proverbes}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/18-Job}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/22-Cantiques}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/08-Ruth}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/25-Lamentations}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/21-Ecclesiaste}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/17-Esther}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/27-Daniel}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/15-Esdras}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/16-Nehemie}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/13-1Chroniques}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/14-2Chroniques}
+\clearpage\input{bjc_2014/annexes/notes}
+\addcontentsline{toc}{chapter}{Evangiles}\clearpage
+\clearpage\input{bjc_2014/40-Matthieu}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/41-Marc}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/42-Luc}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/43-Jean}
+\clearpage\input{bjc_2014/annexes/notes}
+\addcontentsline{toc}{chapter}{Testament de Jésus}\clearpage
+\clearpage\input{bjc_2014/annexes/testament}
+\clearpage\input{bjc_2014/44-Actes}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/59-Jacques}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/48-Galates}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/52-1Thessaloniciens}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/53-2Thessaloniciens}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/46-1Corinthiens}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/47-2Corinthiens}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/45-Romains}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/49-Ephesiens}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/50-Philippiens}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/51-Colossiens}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/57-Philemon}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/54-1Timothee}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/56-Tite}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/60-1Pierre}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/61-2Pierre}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/55-2Timothee}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/65-Jude}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/58-Hebreux}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/62-1Jean}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/63-2Jean}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/64-3Jean}
+\clearpage\input{bjc_2014/annexes/notes}
+\clearpage\input{bjc_2014/66-Apocalypse}
+\clearpage\input{bjc_2014/annexes/notes}
+% inclusion des annexes
+\addcontentsline{toc}{chapter}{Aide}\clearpage
+\addcontentsline{toc}{section}{Dictionnaire}\clearpage
+% annexe dictionnaire
+\makeatletter
+    % mise en forme dictionnaire
+    \def\@oddhead{{\small{\hfil\thepage\hfil}}}
+    \def\@evenhead{{\small{\hfil\thepage\hfil}}}\clearpage
+    \makeatother
+        % inclusion dictionnaire
+        \small{\parindent=0mm{\begin{center}\Large\bfseries{Dictionnaire}\end{center}}\par\input{bjc_2014/annexes/dictionnaire}\clearpage}\markboth{}{}
+    \makeatletter
+    % réinitialiser mise en forme
+    \def\@oddhead{\hfil\thepage\hfil}
+    \def\@evenhead{\hfil}
+\makeatother
+% tableaux
+\addcontentsline{toc}{section}{Histoire de la Bible}\clearpage
+\begin{center}Histoire de la Bible 1\end{center}\clearpage
+\begin{center}Histoire de la Bible 2\end{center}\clearpage
+\addcontentsline{toc}{section}{Dénominations}\clearpage
+\begin{center}Dénominations 1\end{center}\clearpage
+\begin{center}Dénominations 2\end{center}\clearpage
+\addcontentsline{toc}{section}{Doctrines}\clearpage
+\begin{center}Doctrines 1\end{center}\clearpage
+\begin{center}Doctrines 2\end{center}\clearpage
+\begin{center}Doctrines 3\end{center}\clearpage
+\begin{center}Doctrines 4\end{center}\clearpage
+\begin{center}Doctrines 5\end{center}\clearpage
+\begin{center}Doctrines 6\end{center}\clearpage
+\begin{center}Doctrines 7\end{center}\clearpage
+\begin{center}Doctrines 8\end{center}\clearpage
+\begin{center}Doctrines 9\end{center}\clearpage
+\begin{center}Doctrines 10\end{center}\clearpage
+\begin{center}Doctrines 11\end{center}\clearpage
+\addcontentsline{toc}{section}{Monnaies}\clearpage
+\begin{center}Monnaies\end{center}\clearpage
+\addcontentsline{toc}{section}{Longueurs / Liquides}\clearpage
+\begin{center}Longueurs / Liquides\end{center}\clearpage
+\addcontentsline{toc}{section}{Poids}\clearpage
+\begin{center}Poids\end{center}\clearpage
+\addcontentsline{toc}{section}{Fêtes de Yahweh}\clearpage
+\begin{center}Fêtes de Yahweh\end{center}\clearpage
+\addcontentsline{toc}{section}{Alphabet hébreu}\clearpage
+\begin{center}Alphabet hébreu\end{center}\clearpage
+\end{document}
