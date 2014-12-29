@@ -25,13 +25,6 @@ pdf/bjc_imprim.pdf: pdf/bjc_imprim_tmp.pdf pdf/annexes/noir-blanc/*.pdf pdf/anne
 		cat 1-r21 \
 		output pdf/bjc_imprim_cut.pdf
 	pdftk \
-		pdf/annexes/couleurs/1_* \
-		pdf/annexes/couleurs/2_* \
-		pdf/annexes/couleurs/3_* \
-		pdf/annexes/couleurs/4_* \
-		pdf/annexes/couleurs/5_* \
-		pdf/annexes/couleurs/6_* \
-		pdf/annexes/couleurs/7_* \
 		pdf/entetes/1_* \
 		pdf/entetes/2_* \
 		pdf/entetes/3_* \
@@ -59,13 +52,6 @@ pdf/bjc_imprim.pdf: pdf/bjc_imprim_tmp.pdf pdf/annexes/noir-blanc/*.pdf pdf/anne
 		pdf/annexes/noir-blanc/18_* \
 		pdf/annexes/noir-blanc/19_* \
 		pdf/annexes/noir-blanc/20_* \
-		pdf/annexes/couleurs/8_* \
-		pdf/annexes/couleurs/9_* \
-		pdf/annexes/couleurs/10_* \
-		pdf/annexes/couleurs/11_* \
-		pdf/annexes/couleurs/12_* \
-		pdf/annexes/couleurs/13_* \
-		pdf/annexes/couleurs/14_* \
 		cat output pdf/bjc_imprim.pdf
 	rm pdf/bjc_imprim_cut.pdf
 
@@ -109,20 +95,6 @@ pdf/bjc_internet.pdf: pdf/bjc_internet_tmp.pdf pdf/annexes/noir-blanc/*.pdf pdf/
 		pdf/annexes/noir-blanc/18_* \
 		pdf/annexes/noir-blanc/19_* \
 		pdf/annexes/noir-blanc/20_* \
-		pdf/annexes/couleurs/1_* \
-		pdf/annexes/couleurs/2_* \
-		pdf/annexes/couleurs/3_* \
-		pdf/annexes/couleurs/4_* \
-		pdf/annexes/couleurs/5_* \
-		pdf/annexes/couleurs/6_* \
-		pdf/annexes/couleurs/7_* \
-		pdf/annexes/couleurs/8_* \
-		pdf/annexes/couleurs/9_* \
-		pdf/annexes/couleurs/10_* \
-		pdf/annexes/couleurs/11_* \
-		pdf/annexes/couleurs/12_* \
-		pdf/annexes/couleurs/13_* \
-		pdf/annexes/couleurs/14_* \
 		cat output pdf/bjc_internet.pdf
 	rm pdf/bjc_internet_cut.pdf
 
