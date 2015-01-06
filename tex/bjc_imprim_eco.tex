@@ -2,7 +2,7 @@
 % type document & taille police
 \documentclass[10pt]{book}
 % package format document
-\usepackage[paperwidth=4.8425in, paperheight=7.0866in, top=0in, bottom=0in, left=0in, right=0in]{geometry}
+\usepackage[paperwidth=5.1141in, paperheight=7.0866in, top=0in, bottom=0in, left=0in, right=0in]{geometry}
 % formatage marges, etc.
 \setlength{\voffset}{-0.7in} % offset haut
 %\setlength{\hoffset}{-0.3in} % offset gauche
@@ -11,7 +11,7 @@
 \setlength{\oddsidemargin}{-0.5in} % marge texte gauche
 \setlength{\evensidemargin}{-0.5in} % marge texte droite
 \setlength{\textheight}{6in} % hauteur du texte
-\setlength{\textwidth}{3.8in} % largeur du texte
+\setlength{\textwidth}{4.1in} % largeur du texte
 \setlength{\columnseprule}{0.4pt} % épaisseur séparateur colonne
 \setlength{\parskip}{0pt} % espace entre paragraphes
 % package pour afficher les cadres
@@ -20,10 +20,10 @@
 \usepackage[francais]{babel}
 % package polices système
 \usepackage{fontspec}
-% package taille police
-%\usepackage{extsizes}
+% package interligne
+\usepackage{setspace}
 % définition police
-\setmainfont[Ligatures=TeX,Scale=0.95]{Liberation Serif}
+\setmainfont[Ligatures=TeX,Scale=0.80]{Liberation Serif}
 \setsansfont{Liberation Sans}
 \setmonofont{Liberation Mono}
 % package titlesec
@@ -54,8 +54,8 @@
 % chapitres
 \newcommand{\Chap}[1]{\def\webchap{#1:}\def\webvs{1}\def\vchap{#1}\ssubsection{\centerline{\textbf{{CHAPITRE\ #1}}}}}
 % versets
-\newcommand{\VerseOne}{\def\webvs{1}{\up{\footnotesize 1}}\markboth{\webbook\ \webchap 1}{\webbook\ \webchap 1}}
-\newcommand{\VS}[1]{\def\webvs{#1}{\up{\footnotesize #1}}\markboth{\webbook\ \webchap #1}{\webbook\ \webchap #1}}
+\newcommand{\VerseOne}{\def\webvs{1}{\up{\scriptsize 1}}\markboth{\webbook\ \webchap 1}{\webbook\ \webchap 1}}
+\newcommand{\VS}[1]{\def\webvs{#1}{\up{\scriptsize #1}}\markboth{\webbook\ \webchap #1}{\webbook\ \webchap #1}}
 \newcommand{\vref}[1]{\NoAutoSpaceBeforeFDP{#1}}
 % commentaires
 %\interfootnotelinepenalty=10000 % longueur max commentaires
@@ -84,6 +84,8 @@
 \newcommand{\PPE}{\par\parindent=4mm}
 % debut document
 \begin{document}
+% réduction interligne
+\begin{spacing}{0.8}
 % en-tête vide
 \makeatletter
     \def\@evenhead{}
@@ -292,4 +294,5 @@
 \begin{center}Fêtes de Yahweh\end{center}\clearpage
 \addcontentsline{toc}{section}{Alphabet hébreu}\clearpage
 \begin{center}Alphabet hébreu\end{center}\clearpage
+\end{spacing}
 \end{document}
