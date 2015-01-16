@@ -2,7 +2,7 @@
 XELATEX ?= cd tex/ ; xelatex --output-directory=../pdf/
 
 # Toutes
-all: martin_1744 bjc_imprim bjc_imprim_eco bjc_internet
+all: martin_1744 bjc_imprim bjc_imprim_123x180 bjc_internet
 
 # Martin 1774
 martin_1744: pdf/martin_1744.pdf
@@ -13,12 +13,12 @@ pdf/martin_1744.pdf: tex/martin_1744.tex tex/martin_1744/*.tex
 	$(XELATEX) martin_1744
 
 # BJC format eco imprim
-bjc_imprim_eco: pdf/bjc_imprim_eco.pdf
+bjc_imprim_123x180: pdf/bjc_imprim_123x180.pdf
 
-pdf/bjc_imprim_eco.pdf: tex/bjc_imprim_eco.tex tex/bjc_2014/*.tex tex/bjc_2014/annexes/*.tex
-	$(XELATEX) bjc_imprim_eco
-	$(XELATEX) bjc_imprim_eco
-	$(XELATEX) bjc_imprim_eco
+pdf/bjc_imprim_123x180.pdf: tex/bjc_imprim_123x180.tex tex/bjc_2014/*.tex tex/bjc_2014/annexes/*.tex
+	$(XELATEX) bjc_imprim_123x180
+	$(XELATEX) bjc_imprim_123x180
+	$(XELATEX) bjc_imprim_123x180
 
 # BJC format imprim
 bjc_imprim: pdf/bjc_imprim.pdf
