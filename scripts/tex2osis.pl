@@ -69,7 +69,7 @@ foreach $src_file (@file_list) {
 	$book = $src_file;
 	$book =~ s/^(\d{2}).*/$1/;
 	
-	print($dst_fh "<div type=\"book\" osisID=\"",@OSISbook[$book-1],"\">\n");
+	print($dst_fh "<div type=\"book\" osisID=\"",$OSISbook[$book-1],"\">\n");
 	
 	
 	# parcours du livre
@@ -108,7 +108,7 @@ foreach $src_file (@file_list) {
 			}
 			$chapter = $line;
 			$chapter =~ s/^\\Chap\{(\d{1,3})\}/$1/;
-			print($dst_fh "\t<chapter osisID=\"",@OSISbook[$book-1],".",$chapter,"\">\n");
+			print($dst_fh "\t<chapter osisID=\"",$OSISbook[$book-1],".",$chapter,"\">\n");
 		}
 		
 		if ($line =~ /^\\TextTitle/) {
@@ -146,7 +146,7 @@ foreach $src_file (@file_list) {
 			$text =~ s/\\FTNT\{(.[^\}]*)\}/<note type="study">$1<\/note>/g;
 			
 			# écrire ligne formatée
-			print($dst_fh "\t\t<verse osisID=\"",@OSISbook[$book-1],".",$chapter,'.',$verse,"\" sID=\"",@OSISbook[$book-1],".",$chapter,'.',$verse,"\"/>",$text,"<verse eID=\"",@OSISbook[$book-1],".",$chapter,'.',$verse,"\"/>\n");
+			print($dst_fh "\t\t<verse osisID=\"",$OSISbook[$book-1],".",$chapter,'.',$verse,"\" sID=\"",$OSISbook[$book-1],".",$chapter,'.',$verse,"\"/>",$text,"<verse eID=\"",$OSISbook[$book-1],".",$chapter,'.',$verse,"\"/>\n");
 		}
 	}
 	
