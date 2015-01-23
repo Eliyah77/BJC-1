@@ -1,0 +1,98 @@
+%& -output-directory="./pdf"
+% type document & taille police
+\documentclass[11pt]{book}
+% package format document
+\usepackage[paperwidth=6.5in, paperheight=9.05in, top=0in, bottom=0in, left=0in, right=0in]{geometry}
+% formatage marges, etc.
+\setlength{\voffset}{-0.7in} % offset haut
+%\setlength{\hoffset}{-0.3in} % offset gauche
+\setlength{\topmargin}{0in} % marge en tête
+\setlength{\headsep}{0.2in} % marge header/body
+\setlength{\oddsidemargin}{-0.5in} % marge texte gauche
+\setlength{\evensidemargin}{-0.5in} % marge texte droite
+\setlength{\textheight}{8in} % hauteur du texte
+\setlength{\textwidth}{5.5in} % largeur du texte
+\setlength{\columnseprule}{0.4pt} % épaisseur séparateur colonne
+\setlength{\parskip}{0pt} % espace entre paragraphes
+% package pour afficher les cadres
+%\usepackage{showframe}
+% package langue
+\usepackage[francais]{babel}
+% package polices système
+\usepackage{fontspec}
+% définition police
+\setmainfont[Ligatures=TeX,Scale=0.95]{Liberation Serif}
+\setsansfont{Liberation Sans}
+\setmonofont{Liberation Mono}
+% package titlesec
+\usepackage{titlesec}
+% package multicolonne
+\usepackage{multicol}
+% package liens cliquables
+\usepackage[xetex]{hyperref}
+% package inclusion copyright (dépandant de hyperref)
+\usepackage{hyperxmp}
+% copyright
+\hypersetup{
+pdfauthor = {ANJC Productions},
+pdftitle = {Bible de Jésus-Christ},
+pdfkeywords = {BJC, Bible, Jesus},
+pdfcopyright = {ANJC Productions. Distribution et Diffusion Libres - Pas d'Utilisation Commerciale - Pas de Dénaturation de l'Œuvre - International},
+pdflicenseurl = {http://www.bibledejesuschrist.org/}
+}
+% ???
+\setcounter{collectmore}{-1}
+% style
+\pagestyle{myheadings}
+% ???
+\sloppy\hyphenpenalty=2000
+% titres de livres
+\newcommand{\ShortTitle}[1]{\def\webbook{#1}\par\goodbreak\bigskip\setcounter{footnote}{0}}
+\newcommand{\BookTitle}[1]{\par\goodbreak\bigskip{\parindent=0mm\begin{center}{\small\bfseries{\LARGE #1\nopagebreak}}\end{center}}\addcontentsline{toc}{subsection}{#1}\nopagebreak\par\nobreak}
+% chapitres
+\newcommand{\Chap}[1]{\def\webchap{#1:}\def\webvs{1}\def\vchap{#1}\ssubsection{\centerline{\textbf{{CHAPITRE\ #1}}}}}
+% versets
+\newcommand{\VerseOne}{\def\webvs{1}{\up{\footnotesize 1}}\markboth{\webbook\ \webchap 1}{\webbook\ \webchap 1}}
+\newcommand{\VS}[1]{\def\webvs{#1}{\up{\footnotesize #1}}\markboth{\webbook\ \webchap #1}{\webbook\ \webchap #1}}
+\newcommand{\vref}[1]{\NoAutoSpaceBeforeFDP{#1}}
+% commentaires
+%\interfootnotelinepenalty=10000 % longueur max commentaires
+\renewcommand{\thefootnote}{\alph{footnote}} % repères alphabetiques
+\renewcommand{\footnoterule}{\hrule width \textwidth} % longueur ligne
+\newcommand{\FTNT}[1]{\ifnum\value{footnote}>25\setcounter{footnote}{0}\fi\footnote{[\NoAutoSpaceBeforeFDP{\webchap\webvs}]\ #1}}
+% commentaire sur les titres
+\newcounter{webvst}
+\newcommand{\FTNTT}[1]{
+% intialisation de l'indice de note
+\ifnum \value{footnote}>25 \setcounter{footnote}{0} \fi
+% initialisation de la référence du numéro de verset
+\setcounter{webvst}{\webvs}
+% si le titre est sur le premier verset, incrémenter de 1
+\ifnum \value{webvst}>1 \addtocounter{webvst}{1} \fi
+% écriture note
+\footnote{[\NoAutoSpaceBeforeFDP{\webchap\thewebvst}]\ #1}
+}
+% titres de paragraphes
+\titlespacing*{\subsection}{0pt}{5pt plus 0pt minus 0pt}{5pt plus 0pt minus 0pt}
+\titlespacing*{\subsubsection}{0pt}{5pt plus 0pt minus 0pt}{5pt plus 0pt minus 0pt}
+\newcommand{\ssubsection}[1]{\subsection*{\centering\footnotesize\normalfont #1}\PP}
+\newcommand{\ssubsubsection}[1]{\subsubsection*{\centering\footnotesize\normalfont #1}\PP}
+\newcommand{\TextTitle}[1]{\ssubsubsection{[\textit{#1}]}}
+\newcommand{\TextDial}[1]{{\scriptsize[\textit{#1}]}}
+% dictionnaire
+\newcommand{\DicoEntry}[1]{\smallskip\parindent=0mm{\textbf{#1}}\markboth{#1}{#1}}
+% commandes diverses
+\newcommand{\BFont}{\normalfont\small}
+\newcommand{\PP}{\par\parindent=0mm}
+\newcommand{\PPE}{\par\parindent=4mm}
+% debut document
+\begin{document}
+% en-tête pages
+\makeatletter
+\def\@evenhead{{\NoAutoSpaceBeforeFDP{\small{\rightmark\hfil\thepage\hfil\leftmark}}}}
+\def\@oddhead{{\NoAutoSpaceBeforeFDP{\small{\rightmark\hfil\thepage\hfil\leftmark}}}}
+\makeatother
+% inclusion des livres
+\pagenumbering{arabic}
+\clearpage\input{../bjc_2014/27-Daniel}
+\end{document}
