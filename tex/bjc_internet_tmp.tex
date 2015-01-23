@@ -62,11 +62,16 @@
 \renewcommand{\thefootnote}{\alph{footnote}} % repères alphabetiques
 \renewcommand{\footnoterule}{\hrule width \textwidth} % longueur ligne
 \newcommand{\FTNT}[1]{\ifnum\value{footnote}>25\setcounter{footnote}{0}\fi\footnote{[\NoAutoSpaceBeforeFDP{\webchap\webvs}]\ #1}}
+% commentaire sur les titres
 \newcounter{webvst}
 \newcommand{\FTNTT}[1]{
-    \ifnum\value{footnote}>25\setcounter{footnote}{0}\fi
-    \setcounter{webvst}{\webvs}\addtocounter{webvst}{1}
-    \ifnum\value{webvst}<1\setcounter{webvst}{1}\fi
+    % intialisation de l'indice de note
+    \ifnum \value{footnote}>25 \setcounter{footnote}{0} \fi
+    % initialisation de la référence du numéro de verset
+    \setcounter{webvst}{\webvs}
+    % si le titre est sur le premier verset, incrémenter de 1
+    \ifnum \value{webvst}>1 \addtocounter{webvst}{1} \fi
+    % écriture note
     \footnote{[\NoAutoSpaceBeforeFDP{\webchap\thewebvst}]\ #1}
 }
 % titres de paragraphes
