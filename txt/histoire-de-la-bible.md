@@ -18,11 +18,25 @@ L'expression « *inspirée de Dieu* » est la traduction du mot grec THEOPNEUSTO
 
 > « *Nous avons aussi la parole des prophètes qui est très ferme, à laquelle vous faites bien d'être attentifs, comme à une lampe qui brille dans un lieu obscur, jusqu'à ce que le jour vienne à paraître et que l'Etoile du matin se lève dans vos cœurs ; sachant premièrement ceci, qu'aucune prophétie de l'Ecriture ne procède d'une interprétation particulière, car la prophétie n'a jamais été autrefois apportée par la volonté humaine, mais les saints hommes de Dieu ont parlé, étant **poussés par le Saint-Esprit**.* » 2 Pierre 1:19-21
 
-C'est ainsi que depuis Moïse jusqu'à Jean, les paroles de Dieu ont été écrites par leurs auteurs sur différents supports tels que le papyrus ou le parchemin (peau d'animal). De ces écrits orignaux, il ne reste aujourd'hui plus aucune trace, mais seulement des copies, copies de copies, etc. ainsi que des traductions anciennes et des citations.
+C'est ainsi que depuis Moïse jusqu'à Jean, les paroles de Dieu ont été écrites par leurs auteurs, ou leurs scribes, sur différents supports tels que le papyrus ou le parchemin (peau d'animal). De ces écrits orignaux, il ne reste aujourd'hui plus aucune trace, mais seulement des copies, copies de copies, etc. ainsi que des traductions anciennes et des citations.
 
 ## Constitution du canon biblique
 
+Le mot « canon », qui vient du grec KANON signifiant « règle, modèle », lui-même emprunté à l'hébreu QANEH « roseau, mesure, canne ». En raison du besoin évident de définir quels écrits étaient inspirés de Dieu ou non, les juifs dans un premier temps, et les chrétiens également par la suite, ont établis des listes de livres reconnus comme tels. C'est ce qui est appelé le « canon biblique ».
 
+### TaNaKh
+
+Pour ce qui est du TaNaKh (ou Bible Hébraïque), appelé de manière erronée « Ancien Testament » dans la plupart des bibles, la tradition juive veut que le canon ait été fixé par Esdras au V<sup>ème</sup> siècle (Né. 8:1), assisté par Néhémie, ainsi que les prophètes Aggée, Zacharie et Malachie.
+
+Toutefois ce n'est que vers l'an 90, au concile juif de Jamnia, que le canon définitif de la Bible Hébraïque fût arrêté. Rejettant au passage les apocryphes inclus dans la Septante (ou LXX, une Bible Hébraïque en grec).
+
+> « *Quel est donc l'avantage du Juif, ou quelle est l'utilité de la circoncision ? Il est grand en toute manière, surtout en ce que les oracles de Dieu leur ont été confiés.* » Romains 3:2
+
+Paul déclare ici que les paroles de Dieu ont été confiées aux juifs, nous devons donc pour le TaNaKh nous baser sur ce que ces derniers ont considéré comme authentique.
+
+Les livres apocryphes (comme Tobit, Judith, I et II Maccabées, Sagesse de Salomon, Ecclésiastique et Baruch) que nous pouvons trouver dans certains versions de Bibles (Jérusalem, TOB, etc.) sont à rejeter car ils ne sont pas inspirés de Dieu. S'il peuvent avoir un intérêt sur le plan historique, ils ne peuvent en aucun cas faire autorité en matière de doctrine. D'autant plus que certains d'entre eux contiennent des erreurs et/ou des contradictions. Pour exemple, la fausse doctrine du purgatoire trouve son origine dans un passage du livre de Maccabées.
+
+### Évangiles et épîtres
 
 ## Transmission
 
@@ -32,4 +46,4 @@ C'est ainsi que depuis Moïse jusqu'à Jean, les paroles de Dieu ont été écri
 
 ### Citations
 
-## Textes majoritaires et minoritaires
+### Textes majoritaires et minoritaires
