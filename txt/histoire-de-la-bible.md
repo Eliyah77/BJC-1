@@ -18,7 +18,7 @@ L'expression « *inspirée de Dieu* » est la traduction du mot grec THEOPNEUSTO
 
 > « *Nous avons aussi la parole des prophètes qui est très ferme, à laquelle vous faites bien d'être attentifs, comme à une lampe qui brille dans un lieu obscur, jusqu'à ce que le jour vienne à paraître et que l'Etoile du matin se lève dans vos cœurs ; sachant premièrement ceci, qu'aucune prophétie de l'Ecriture ne procède d'une interprétation particulière, car la prophétie n'a jamais été autrefois apportée par la volonté humaine, mais les saints hommes de Dieu ont parlé, étant **poussés par le Saint-Esprit**.* » 2 Pierre 1:19-21
 
-C'est ainsi que depuis Moïse jusqu'à Jean, les paroles de Dieu ont été écrites par leurs auteurs, ou leurs scribes, sur différents supports tels que le papyrus ou le parchemin (peau d'animal). De ces écrits orignaux, il ne reste aujourd'hui plus aucune trace, mais seulement des copies, copies de copies, etc. ainsi que des traductions anciennes et des citations.
+C'est ainsi que depuis Moïse jusqu'à Jean, les paroles de Dieu ont été écrites par leurs auteurs, ou leurs scribes, sur différents supports tels que le papyrus, le parchemin (peau d'animal) et le papier. De ces écrits orignaux, il ne reste aujourd'hui plus aucune trace, mais seulement des copies, copies de copies, etc. ainsi que des traductions anciennes et des citations.
 
 ## Constitution du canon biblique
 
@@ -34,11 +34,39 @@ Toutefois ce n'est que vers l'an 90, au concile juif de Jamnia, que le canon dé
 
 Paul déclare ici que les paroles de Dieu ont été confiées aux juifs, nous devons donc pour le TaNaKh nous baser sur ce que ces derniers ont considéré comme authentique.
 
-Les livres apocryphes (comme Tobit, Judith, I et II Maccabées, Sagesse de Salomon, Ecclésiastique et Baruch) que nous pouvons trouver dans certains versions de Bibles (Jérusalem, TOB, etc.) sont à rejeter car ils ne sont pas inspirés de Dieu. S'il peuvent avoir un intérêt sur le plan historique, ils ne peuvent en aucun cas faire autorité en matière de doctrine. D'autant plus que certains d'entre eux contiennent des erreurs et/ou des contradictions. Pour exemple, la fausse doctrine du purgatoire trouve son origine dans un passage du livre de Maccabées.
+Les livres apocryphes (comme Tobit, Judith, I et II Maccabées, Sagesse de Salomon, Ecclésiastique et Baruch) que nous pouvons trouver dans certains versions de Bibles (Jérusalem, TOB, etc.) sont à rejeter car ils ne sont pas inspirés de Dieu. S'il peuvent avoir un intérêt sur le plan historique, ils ne peuvent en aucun cas faire autorité en matière de doctrine. D'autant plus que certains d'entre eux contiennent des erreurs et/ou des contradictions. Pour exemple, la fausse doctrine du purgatoire trouve son origine dans un passage du livre des Maccabées.
 
 ### Évangiles et épîtres
 
+Pour les chrétiens, dès les débuts de l'Église, l'autorité des écrits des apôtres était reconnue. Certains pasages en témoignent :
+
+> « *Je vous en conjure par le Seigneur que cette épître soit lue à tous les saints frères.* » 1 Thessaloniciens 5:27
+
+> « *[…] de ne pas vous laisser subitement ébranler dans votre entendement, ni troubler par une inspiration, ni par une parole, ou **par quelque lettre qu'on dirait venir de nous**, comme si le jour de Christ était déjà là.* » 2 Thessaloniciens 2:2
+
+> « *Et quand cette lettre aura été lue entre vous, faites en sorte qu'elle soit aussi lue dans l'église des Laodicéens, et que vous lisiez aussi celle qui viendra de Laodicée.* » Colossiens 4:16
+
+> « *Et considérez la patience du Seigneur comme une preuve qu'il veut votre salut ; comme Paul, notre frère bien-aimé, vous en a écrit, selon la sagesse qui lui a été donnée; ainsi que dans toutes ses lettres, il parle de ces points, dans lesquels il y a des choses difficiles à comprendre, que les ignorants et les mal affermis tordent, comme ils tordent aussi les autres Ecritures, à leur propre perdition.* » 2 Pierre 3:15-16
+
+Après la mort des apôtres et des témoins direct de la vie de Jésus, le besoin est vite apparu de regrouper et déterminer les écrits considérés comme inspirés de Dieu. Pour l'Église primitive, principalement deux critères ont été considérés comme déterminants :
+
+- l'autorité apostolique, c'est à dire que l'un des apôtres associe son autorité aux écrits ;
+- et la valeur déjà reconnue dans les églises locales qui en étaient destinatrices des écrits.
+
+Ainsi, les grandes étapes de la formation du canon sont les suivantes :
+
+- à la fin du premier siècle, tous les écrits sont reconnus par une partie ou un autre de l'Église ;
+- autour de l'an 200, le « Fragment de Muratori » témoigne que des listes de livres circulent et sont en discussions ;
+- vers 230, les écrits d'Origène donnent une liste des livres reconnus dans les église d'Orient ;
+- vers 340, Eusèbe de Césarée confirme la liste de Origène ;
+- vers 367, Athanase cite également la même liste ;
+- les conciles d'Hippone (343) et de Carthage (397 et 419) ne feront que confirmer cette liste.
+
+La valeur accordées par les chrétiens des premiers siècles aux écritures considérées comme authentiques et inspirées, et le soin qu'ils ont attaché à les recopier et les diffuser, a servie le dessein de Dieu pour préserver sa parole et lui faire traverser les âges.
+
 ## Transmission
+
+Jusqu'à l'invention de l'imprimerie au XV<sup>ème</sup> siècle, la copie des Écritures était le travail de scribes. C'est ainsi que nous possédons plusieurs miliers de manuscrits, dont des bibles plus ou moins complètes, des livres entiers et simples fragments.
 
 ### Manuscrits
 
