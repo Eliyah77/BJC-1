@@ -66,12 +66,16 @@ La valeur accordées par les chrétiens des premiers siècles aux écritures con
 
 ## Transmission
 
-Jusqu'à l'invention de l'imprimerie au XV<sup>ème</sup> siècle, la copie des Écritures était le travail de scribes. C'est ainsi que nous possédons plusieurs miliers de manuscrits, dont des bibles plus ou moins complètes, des livres entiers et simples fragments.
+Jusqu'à l'invention de l'imprimerie au XV<sup>ème</sup> siècle, la copie des Écritures était le travail de scribes. C'est ainsi que nous possédons plusieurs miliers de manuscrits, dont des bibles plus ou moins complètes, des livres entiers et simples fragments. Également, pour témoigner des textes hébreux et grecs originaux, nous pouvons compter sur diverses traductions anciennes, ainsi que sur les citations des Écritures faites par les chrétiens des premiers siècles dans leurs échanges.
 
-### Manuscrits
+Cette multitude de sources nous permet d'être assurés de posséder des textes fidèles aux originaux, les éventuelles variantes et erreurs des uns étant corrigées par la majorité des autres. Quand bien même certaines variantes posent davantage de difficultés que d'autres, aucune ne change la doctrine et le message global de la Bible.
 
-### Versions anciennes
+À titre de comparaison, de « L'Iliade et l'Odysée » d'Homère on dénombre 643 manuscrits et de « Guerres de Gaules » de Jules César une dizaine de manuscrits. Pour les Évangiles et les épîtres, plus de 5 000 manuscrits complets et environ 25 000 portions. On dénombre également plus de 10 000 manuscrits de la traduction latine appelée Vulgate, ainsi que 9 300 copies d'autres traductions diverses. Deplus, il est dit qu'il serait même possible de reconstituer la quasi-totalité des Évangiles et des épîtres uniquement à partir des citations qui en ont été faite. Pourtant, encore aujourd'hui, il y a davantage d'incrédules pour douter de l'authenticité de la Bible que de ces autres livres.
 
-### Citations
+### TaNaKh
 
-### Textes majoritaires et minoritaires
+### Évangiles et épîtres
+
+#### Le Texte Reçu, les textes majoritaires et minoritaires
+
+## Les bibles françaises
