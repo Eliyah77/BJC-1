@@ -26,9 +26,9 @@ Le mot « [canon](https://fr.wikipedia.org/wiki/Canon_%28religion%29) », qui vi
 
 ### TaNaKh
 
-Pour ce qui est du [TaNaKh](https://fr.wikipedia.org/wiki/Tanakh) (ou Bible Hébraïque), appelé de manière erronée « Ancien Testament » dans la plupart des bibles, la tradition juive veut que le canon ait été fixé par Esdras au V<sup>ème</sup> siècle (Né. 8:1), assisté par Néhémie, les prophètes Aggée, Zacharie et Malachie. Toujours selon la tradition juive, Esdras aurait fondé la « [Grande Assemblée](https://fr.wikipedia.org/wiki/Grande_Assemblée) »
+Pour ce qui est du [TaNaKh](https://fr.wikipedia.org/wiki/Tanakh) (ou Bible Hébraïque), appelé de manière erronée « Ancien Testament » dans la plupart des bibles, la tradition juive veut que le canon ait été fixé par [Esdras](https://fr.wikipedia.org/wiki/Esdras) au V<sup>ème</sup> siècle (Né. 8:1), assisté par [Néhémie](https://fr.wikipedia.org/wiki/Néhémie), les prophètes [Aggée](https://fr.wikipedia.org/wiki/Aggée), [Zacharie](https://fr.wikipedia.org/wiki/Zacharie_fils_de_Barachie_fils_de_Iddo) et [Malachie](https://fr.wikipedia.org/wiki/Malachie). Toujours selon la tradition juive, Esdras aurait fondé la « [Grande Assemblée](https://fr.wikipedia.org/wiki/Grande_Assemblée) » réunissant ces derniers et d'autres « [Sages](https://fr.wikipedia.org/wiki/Hazal) », nommés également « [soferim](https://fr.wikipedia.org/wiki/Soferim) » (scribes), dont la mission a été de déterminer quels écrits étaient inspirés, et donc établir un canon.
 
-Toutefois ce n'est que vers l'an 90, au concile juif de [Jamnia](https://fr.wikipedia.org/wiki/Synode_de_Jamnia), que le canon définitif de la Bible Hébraïque fût arrêté. Rejettant au passage les apocryphes inclus dans la [Septante](https://fr.wikipedia.org/wiki/Septante) (ou LXX, une Bible Hébraïque en grec).
+Toutefois ce n'est que vers l'an 90, au [concile juif de Jamnia](https://fr.wikipedia.org/wiki/Synode_de_Jamnia), que le canon définitif de la Bible Hébraïque fût arrêté. Rejettant au passage les apocryphes inclus dans la [Septante](https://fr.wikipedia.org/wiki/Septante) (ou LXX, une Bible Hébraïque en grec).
 
 > « *Quel est donc l'avantage du Juif, ou quelle est l'utilité de la circoncision ? Il est grand en toute manière, surtout en ce que les oracles de Dieu leur ont été confiés.* » Romains 3:2
 
@@ -57,9 +57,9 @@ Ainsi, les grandes étapes de la formation du canon sont les suivantes :
 
 - à la fin du premier siècle, tous les écrits sont reconnus par une partie ou un autre de l'Église ;
 - autour de l'an 200, le « [Fragment de Muratori](https://fr.wikipedia.org/wiki/Fragment_de_Muratori) » témoigne que des listes de livres circulent et sont en discussions ;
-- vers 230, les écrits d'Origène donnent une liste des livres reconnus dans les église d'Orient ;
-- vers 340, Eusèbe de Césarée confirme la liste de Origène ;
-- vers 367, Athanase cite également la même liste ;
+- vers 230, les écrits d'[Origène](https://fr.wikipedia.org/wiki/Origène) donnent une liste des livres reconnus dans les église d'Orient ;
+- vers 340, [Eusèbe de Césarée](https://fr.wikipedia.org/wiki/Eusèbe_de_Césarée) confirme la liste de Origène ;
+- vers 367, [Athanase](https://fr.wikipedia.org/wiki/Athanase_d%27Alexandrie) cite également la même liste ;
 - les [conciles](https://fr.wikipedia.org/wiki/Concile) d'Hippone (343) et de Carthage (397 et 419) ne feront que confirmer cette liste.
 
 La valeur accordées par les chrétiens des premiers siècles aux écritures considérées comme authentiques et inspirées, et le soin qu'ils ont attaché à les recopier et les diffuser, a servie le dessein de Dieu pour préserver sa parole et lui faire traverser les âges.
@@ -70,7 +70,7 @@ Jusqu'à l'invention de l'imprimerie au XV<sup>ème</sup> siècle, la copie des 
 
 Cette multitude de sources nous permet d'être assurés de posséder des textes fidèles aux originaux, les éventuelles variantes et erreurs des uns étant corrigées par la majorité des autres. Quand bien même certaines variantes posent davantage de difficultés que d'autres, aucune ne change la doctrine et le message global de la Bible.
 
-À titre de comparaison, de « L'Iliade et l'Odysée » d'Homère on dénombre 643 manuscrits et de « Guerres de Gaules » de Jules César une dizaine de manuscrits. Pour les Évangiles et les épîtres, plus de 5 000 manuscrits complets et environ 25 000 portions. On dénombre également plus de 10 000 manuscrits de la traduction latine appelée [Vulgate](https://fr.wikipedia.org/wiki/Vulgate), ainsi que 9 300 copies d'autres traductions diverses. Deplus, il est dit qu'il serait même possible de reconstituer la quasi-totalité des Évangiles et des épîtres uniquement à partir des citations qui en ont été faite. Pourtant, encore aujourd'hui, il y a davantage d'incrédules pour douter de l'authenticité de la Bible que de ces autres livres. Le texte biblique est le texte de mieux conservé de toute l'Antiquité.
+À titre de comparaison, de « L'Iliade et l'Odysée » d'Homère on dénombre 643 manuscrits et de « Guerres de Gaules » de Jules César une dizaine de manuscrits. Pour les Évangiles et les épîtres, plus de 5 000 manuscrits complets et environ 25 000 portions. On dénombre également plus de 10 000 manuscrits de la traduction latine appelée [Vulgate](https://fr.wikipedia.org/wiki/Vulgate), ainsi que 9 300 copies d'autres traductions diverses. De plus, il est dit qu'il serait même possible de reconstituer la quasi-totalité des Évangiles et des épîtres uniquement à partir des citations qui en ont été faite. Pourtant, encore aujourd'hui, il y a davantage d'incrédules pour douter de l'authenticité de la Bible que de ces autres livres. Le texte biblique est le texte de mieux conservé de toute l'Antiquité.
 
 ### TaNaKh
 
