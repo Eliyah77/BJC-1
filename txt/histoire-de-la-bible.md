@@ -2,7 +2,7 @@
 
 Dans notre temps, la Bible est le principal témoignage de Dieu adressé à l'Homme. Elle est ainsi la source première de la foi (Ro. 10:17), et l'unique autorité en matière de doctrine (Ap. 22:18-19). Il est donc primordial de s'assurer que la Bible que nous possédons est fidèle aux textes originaux, et telle que Dieu a voulu nous la communiquer.
 
-Le lecteur doit être averti qu'en tout temps l'ennemi a tenté corrompre ou faire disparaître les Écritures. Depuis Néron (I<sup>er</sup> s.) ou Dioclétien (VI<sup>ème</sup> s.), jusqu'aux actuelles sociétés bibliques, dont malheureusement la plupart sont corrompues, en passant par le catholicisme privant le peuple de la Bible.
+Le lecteur doit être averti qu'en tout temps l'ennemi a tenté corrompre ou faire disparaître les Écritures. Depuis [Néron](https://fr.wikipedia.org/wiki/Néron) (I<sup>er</sup> s.) ou [Dioclétien](https://fr.wikipedia.org/wiki/Dioclétien) (VI<sup>ème</sup> s.), jusqu'aux actuelles sociétés bibliques, dont malheureusement la plupart sont corrompues, en passant par le catholicisme privant le peuple de la Bible.
 
 C'est pourquoi nous voulons retracer son Histoire, afin que le lecteur soit en possession des informations lui permettant de discerner les tentatives de falsification, et qu'il puisse être assuré d'avoir entre ses mains une Bible digne de foi, transmettant fidèlement la saine doctrine.
 
@@ -22,19 +22,19 @@ C'est ainsi que depuis Moïse jusqu'à Jean, les paroles de Dieu ont été écri
 
 ## Constitution du canon biblique
 
-Le mot « canon », qui vient du grec KANON signifiant « règle, modèle », lui-même emprunté à l'hébreu QANEH « roseau, mesure, canne ». En raison du besoin évident de définir quels écrits étaient inspirés de Dieu ou non, les juifs dans un premier temps, et les chrétiens également par la suite, ont établis des listes de livres reconnus comme tels. C'est ce qui est appelé le « canon biblique ».
+Le mot « [canon](https://fr.wikipedia.org/wiki/Canon_%28religion%29) », qui vient du grec KANON signifiant « règle, modèle », lui-même emprunté à l'hébreu QANEH « roseau, mesure, canne ». En raison du besoin évident de définir quels écrits étaient inspirés de Dieu ou non, les juifs dans un premier temps, et les chrétiens également par la suite, ont établis des listes de livres reconnus comme tels. C'est ce qui est appelé le « [canon biblique](https://fr.wikipedia.org/wiki/Canon_%28Bible%29) ».
 
 ### TaNaKh
 
-Pour ce qui est du TaNaKh (ou Bible Hébraïque), appelé de manière erronée « Ancien Testament » dans la plupart des bibles, la tradition juive veut que le canon ait été fixé par Esdras au V<sup>ème</sup> siècle (Né. 8:1), assisté par Néhémie, ainsi que les prophètes Aggée, Zacharie et Malachie.
+Pour ce qui est du [TaNaKh](https://fr.wikipedia.org/wiki/Tanakh) (ou Bible Hébraïque), appelé de manière erronée « Ancien Testament » dans la plupart des bibles, la tradition juive veut que le canon ait été fixé par Esdras au V<sup>ème</sup> siècle (Né. 8:1), assisté par Néhémie, les prophètes Aggée, Zacharie et Malachie. Toujours selon la tradition juive, Esdras aurait fondé la « [Grande Assemblée](https://fr.wikipedia.org/wiki/Grande_Assemblée) »
 
-Toutefois ce n'est que vers l'an 90, au concile juif de Jamnia, que le canon définitif de la Bible Hébraïque fût arrêté. Rejettant au passage les apocryphes inclus dans la Septante (ou LXX, une Bible Hébraïque en grec).
+Toutefois ce n'est que vers l'an 90, au concile juif de [Jamnia](https://fr.wikipedia.org/wiki/Synode_de_Jamnia), que le canon définitif de la Bible Hébraïque fût arrêté. Rejettant au passage les apocryphes inclus dans la [Septante](https://fr.wikipedia.org/wiki/Septante) (ou LXX, une Bible Hébraïque en grec).
 
 > « *Quel est donc l'avantage du Juif, ou quelle est l'utilité de la circoncision ? Il est grand en toute manière, surtout en ce que les oracles de Dieu leur ont été confiés.* » Romains 3:2
 
 Paul déclare ici que les paroles de Dieu ont été confiées aux juifs, nous devons donc pour le TaNaKh nous baser sur ce que ces derniers ont considéré comme authentique.
 
-Les livres apocryphes (comme Tobit, Judith, I et II Maccabées, Sagesse de Salomon, Ecclésiastique et Baruch) que nous pouvons trouver dans certains versions de Bibles (Jérusalem, TOB, etc.) sont à rejeter car ils ne sont pas inspirés de Dieu. S'il peuvent avoir un intérêt sur le plan historique, ils ne peuvent en aucun cas faire autorité en matière de doctrine. D'autant plus que certains d'entre eux contiennent des erreurs et/ou des contradictions. Pour exemple, la fausse doctrine du purgatoire trouve son origine dans un passage du livre des Maccabées.
+Les livres [apocryphes](https://fr.wikipedia.org/wiki/Apocryphes_bibliques) (comme Tobit, Judith, I et II Maccabées, Sagesse de Salomon, Ecclésiastique et Baruch) que nous pouvons trouver dans certains versions de Bibles (Jérusalem, TOB, etc.) sont à rejeter car ils ne sont pas inspirés de Dieu. S'il peuvent avoir un intérêt sur le plan historique, ils ne peuvent en aucun cas faire autorité en matière de doctrine. D'autant plus que certains d'entre eux contiennent des erreurs et/ou des contradictions. Pour exemple, la fausse doctrine du purgatoire trouve son origine dans un passage du livre des Maccabées.
 
 ### Évangiles et épîtres
 
@@ -56,11 +56,11 @@ Après la mort des apôtres et des témoins direct de la vie de Jésus, le besoi
 Ainsi, les grandes étapes de la formation du canon sont les suivantes :
 
 - à la fin du premier siècle, tous les écrits sont reconnus par une partie ou un autre de l'Église ;
-- autour de l'an 200, le « Fragment de Muratori » témoigne que des listes de livres circulent et sont en discussions ;
+- autour de l'an 200, le « [Fragment de Muratori](https://fr.wikipedia.org/wiki/Fragment_de_Muratori) » témoigne que des listes de livres circulent et sont en discussions ;
 - vers 230, les écrits d'Origène donnent une liste des livres reconnus dans les église d'Orient ;
 - vers 340, Eusèbe de Césarée confirme la liste de Origène ;
 - vers 367, Athanase cite également la même liste ;
-- les conciles d'Hippone (343) et de Carthage (397 et 419) ne feront que confirmer cette liste.
+- les [conciles](https://fr.wikipedia.org/wiki/Concile) d'Hippone (343) et de Carthage (397 et 419) ne feront que confirmer cette liste.
 
 La valeur accordées par les chrétiens des premiers siècles aux écritures considérées comme authentiques et inspirées, et le soin qu'ils ont attaché à les recopier et les diffuser, a servie le dessein de Dieu pour préserver sa parole et lui faire traverser les âges.
 
@@ -70,9 +70,13 @@ Jusqu'à l'invention de l'imprimerie au XV<sup>ème</sup> siècle, la copie des 
 
 Cette multitude de sources nous permet d'être assurés de posséder des textes fidèles aux originaux, les éventuelles variantes et erreurs des uns étant corrigées par la majorité des autres. Quand bien même certaines variantes posent davantage de difficultés que d'autres, aucune ne change la doctrine et le message global de la Bible.
 
-À titre de comparaison, de « L'Iliade et l'Odysée » d'Homère on dénombre 643 manuscrits et de « Guerres de Gaules » de Jules César une dizaine de manuscrits. Pour les Évangiles et les épîtres, plus de 5 000 manuscrits complets et environ 25 000 portions. On dénombre également plus de 10 000 manuscrits de la traduction latine appelée Vulgate, ainsi que 9 300 copies d'autres traductions diverses. Deplus, il est dit qu'il serait même possible de reconstituer la quasi-totalité des Évangiles et des épîtres uniquement à partir des citations qui en ont été faite. Pourtant, encore aujourd'hui, il y a davantage d'incrédules pour douter de l'authenticité de la Bible que de ces autres livres.
+À titre de comparaison, de « L'Iliade et l'Odysée » d'Homère on dénombre 643 manuscrits et de « Guerres de Gaules » de Jules César une dizaine de manuscrits. Pour les Évangiles et les épîtres, plus de 5 000 manuscrits complets et environ 25 000 portions. On dénombre également plus de 10 000 manuscrits de la traduction latine appelée [Vulgate](https://fr.wikipedia.org/wiki/Vulgate), ainsi que 9 300 copies d'autres traductions diverses. Deplus, il est dit qu'il serait même possible de reconstituer la quasi-totalité des Évangiles et des épîtres uniquement à partir des citations qui en ont été faite. Pourtant, encore aujourd'hui, il y a davantage d'incrédules pour douter de l'authenticité de la Bible que de ces autres livres. Le texte biblique est le texte de mieux conservé de toute l'Antiquité.
 
 ### TaNaKh
+
+Comme il a été dit, malgré les miliers de manuscrits à disposition, il ne reste plus aucune trace des « autographes » (c'est à dire écrits par les auteurs eux-mêmes). À ce jour, le plus ancien manuscrit complet du TaNaKh est le [Codex Leningradensis](https://fr.wikipedia.org/wiki/Codex_de_Léningrad), daté de l'an 1 008. Cependant une multitude de fragments plus anciens, environ 3 000, permettent de comparer et d'attester l'inérence globale des textes à travers les âges, particulièrement les [manuscrits de Qumrân](https://fr.wikipedia.org/wiki/Manuscrits_de_la_mer_Morte) découverts en 1947 et rédigés entre le III<sup>ème</sup> et I<sup>er</sup> siècle avant Jésus-Christ.
+
+Le TaNaKh a été écrit en hébreu, à l'exception de quelques passages en araméens. Originellement l'hébreu ne possède pas de voyelles, faisant que la prononciation de certains mots se perdaient au fil du temps, par exemple, le tétragramme que nous rendons par « Yahweh » s'écrivait « YHWH ». C'est ainsi qu'à partir
 
 ### Évangiles et épîtres
 
