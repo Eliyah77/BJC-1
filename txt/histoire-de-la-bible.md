@@ -82,8 +82,8 @@ Les règles que les massorètes devaient respecter étaient très stricte :
 
 > « *Un rouleau utilisé dans la synagogue doit être écrit sur des peaux d’animaux purs et préparées spécialement par un Juif pour cet usage. Ces peaux doivent être attachées avec des fils pris d’animaux purs. Chaque peau doit porter un certain nombre de colonnes, constant dans tout le codex. La longueur de chaque colonne ne doit pas être de moins de 48 lignes ni plus de 60 lignes. La largeur doit être de 30 lettres. Il faut dans un premier temps tracer des lignes sur toute la copie; si trois mots sont écrits sans une ligne, la copie est nulle. L’encre doit être noire et non rouge, ni verte, ni aucune autre couleur; et elle doit être préparée selon la manière spécifiée. Le scribe doit copier à partir d’une autre copie authentique, sans dévier. Aucun mot, aucune lettre, même pas un yod, ne doit être écrit de mémoire, sans regarder le texte devant soi. (...) Entre les consonnes, le scribe doit mettre un espace de la largeur d’un cheveu ou d’un fil ; entre les mots, de la largeur d’une consonne étroite; entre les parashah, ou sections, de la largeur de neuf consonnes; entre les livres, trois lignes. Le cinquième livre de Moïse doit s’achever exactement à la fin d’une ligne, mais ceci n’est pas obligatoire pour les autres. En plus, pour écrire le scribe doit être assis dans son habillement juif formel, il doit se laver tout le corps, il ne lui est pas permis de commencer d’écrire le nom de Dieu avec une plume nouvellement trempée dans l’encre, et même si un roi lui adresse la parole pendant qu’il écrit ce nom, il ne doit lui prêter aucune attention. (...) Les rouleaux où ces règlements ne sont pas respectés doivent être soit enterrés soit brûlés; ils peuvent néanmoins être relégués aux écoles pour y être utilisés comme livres de lecture.* »
 
-<https://fr.wikipedia.org/wiki/Codex_d%27Alep>
-<https://fr.wikipedia.org/wiki/Biblia_Hebraica_Stuttgartensia>
+<!--https://fr.wikipedia.org/wiki/Codex_d%27Alep-->
+<!--https://fr.wikipedia.org/wiki/Biblia_Hebraica_Stuttgartensia-->
 
 ### Évangiles et épîtres
 
