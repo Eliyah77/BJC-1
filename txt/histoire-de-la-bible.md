@@ -70,7 +70,7 @@ Jusqu'à l'invention de l'imprimerie au XV<sup>ème</sup> siècle, la copie des 
 
 Cette multitude de sources nous permet d'être assurés de posséder des textes fidèles aux originaux, les éventuelles variantes et erreurs des uns étant corrigées par la majorité des autres. Quand bien même certaines variantes posent davantage de difficultés que d'autres, aucune ne change la doctrine et le message global de la Bible.
 
-À titre de comparaison, de « L'Iliade et l'Odysée » d'Homère on dénombre 643 manuscrits et de « Guerres de Gaules » de Jules César une dizaine de manuscrits. Pour les Évangiles et les épîtres, plus de 5 500 manuscrits grecs et environ 20 000 manuscrits de versions. Pourtant, encore aujourd'hui, il y a davantage d'incrédules pour douter de l'authenticité de la Bible que de ces autres livres. Le texte biblique est le texte de mieux conservé de toute l'Antiquité.
+Le texte biblique est le texte de mieux conservé de toute l'Antiquité.
 
 ### TaNaKh
 
@@ -92,6 +92,14 @@ C'est aux massorètes qu'on doit le Codex de Léningrad, ainsi que le [Codex d'A
 
 ### Évangiles et épîtres
 
+Pour les Évangiles et les épîtres, on dénombre plus de 5 500 manuscrits grecs et environ 20 000 manuscrits de versions. À titre de comparaison, de « L'Iliade et l'Odyssée » d'Homère on ne dénombre que 643 manuscrits et de « Guerres de Gaules » de Jules César qu'une dizaine. Pourtant, encore aujourd'hui, il y a davantage d'incrédules pour douter de l'authenticité de la Bible que de ces autres livres.
+
+Comme il a été dit précédemment, dès les débuts de l'Église l'autorité des écrits des apôtres était reconnue, et ils ont très vite été considérés comme inspirés de Dieu. C'est donc avec tout autant de crainte et de soin que les premiers chrétiens ont dû recopier ces textes, dans le but de les préserver et les diffuser. C'est ce dont témoigne le nombre impressionnant de manuscrits à notre disposition, dont certains remonterait au I<sup>er</sup> siècle, comme le « papyrus d'Oxford » (~50 apr. J.-C.) comportant des extraits de l'Évangile de Matthieu.
+
+En plus de l'ensemble des manuscrits grecs, dont la rédaction s'étale du I<sup>er</sup> au XV<sup>ème</sup> siècle, nous pouvons nous appuyer sur des traductions antiques en latin (Codex Bobiensis, Codex Vercellensis), éthiopien, slave, arménien, syriaque (Codex Syro-Sinaïticus, Codex Syro-Curetonianus), copte, etc. Toutes ces versions anciennes, dont certains manuscrits remontent au III<sup>ème</sup> siècle, témoignent de l'immuabilité des textes à travers les âges, et aident aujourd'hui à les traduire correctement dans les langues modernes.
+
+Pour témoigner de l'état des textes originaux, il est également possible de compter sur les citations des « pères de l'Église » qui permettraient à elles-seules de reconstituer 46% des Évangiles et épîtres.
+
 #### Le Texte Reçu, les textes majoritaires et minoritaires
 
 ## Les bibles françaises
@@ -102,6 +110,8 @@ C'est aux massorètes qu'on doit le Codex de Léningrad, ainsi que le [Codex d'A
 « Les Bibles françaises, comment choisir ? »
 http://www.info-bible.org/histoire/manuscrits.htm
 http://www.universdelabible.net/la-bible/transmission-de-la-bible
+http://www.universdelabible.net/les-traductions-de-la-bible/les-manuscrits-originaux/les-textes-de-base
 https://foierudite.wordpress.com/2010/07/17/manuscrits/
 http://www.lueur.org/textes/transmission-bible.html
+https://fr.wikipedia.org/
 -->
