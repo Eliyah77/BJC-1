@@ -70,11 +70,11 @@ Jusqu'à l'invention de l'imprimerie au XV<sup>ème</sup> siècle, la copie des 
 
 Cette multitude de sources nous permet d'être assurés de posséder des textes fidèles aux originaux, les éventuelles variantes et erreurs des uns étant corrigées par la majorité des autres. Quand bien même certaines variantes posent davantage de difficultés que d'autres, aucune ne change la doctrine et le message global de la Bible.
 
-À titre de comparaison, de « L'Iliade et l'Odysée » d'Homère on dénombre 643 manuscrits et de « Guerres de Gaules » de Jules César une dizaine de manuscrits. Pour les Évangiles et les épîtres, plus de 5 000 manuscrits grecs et environ 20 000 manuscrits de versions. Pourtant, encore aujourd'hui, il y a davantage d'incrédules pour douter de l'authenticité de la Bible que de ces autres livres. Le texte biblique est le texte de mieux conservé de toute l'Antiquité.
+À titre de comparaison, de « L'Iliade et l'Odysée » d'Homère on dénombre 643 manuscrits et de « Guerres de Gaules » de Jules César une dizaine de manuscrits. Pour les Évangiles et les épîtres, plus de 5 500 manuscrits grecs et environ 20 000 manuscrits de versions. Pourtant, encore aujourd'hui, il y a davantage d'incrédules pour douter de l'authenticité de la Bible que de ces autres livres. Le texte biblique est le texte de mieux conservé de toute l'Antiquité.
 
 ### TaNaKh
 
-Comme il a été dit, malgré les miliers de manuscrits à disposition, il ne reste plus aucune trace des « autographes » (c'est à dire écrits par les auteurs eux-mêmes). À ce jour, le plus ancien manuscrit complet du TaNaKh est le [Codex de Léningrad](https://fr.wikipedia.org/wiki/Codex_de_Léningrad), daté de l'an 1 008. Cependant une multitude de fragments plus anciens, environ 3 000, permettent de comparer et d'attester l'invariance globale des textes à travers les âges, particulièrement les [manuscrits de Qumrân](https://fr.wikipedia.org/wiki/Manuscrits_de_la_mer_Morte) découverts en 1947 et rédigés entre le III<sup>ème</sup> et I<sup>er</sup> siècle avant Jésus-Christ.
+Comme il a été dit, malgré la multitude de manuscrits à disposition, il ne reste plus aucune trace des « autographes » (c'est à dire écrits par les auteurs eux-mêmes). À ce jour, le plus ancien manuscrit complet du TaNaKh est le [Codex de Léningrad](https://fr.wikipedia.org/wiki/Codex_de_Léningrad), daté de l'an 1 008. Cependant une multitude de fragments plus anciens, environ 3 000, permettent de comparer et d'attester l'invariance globale des textes à travers les âges, particulièrement les [manuscrits de Qumrân](https://fr.wikipedia.org/wiki/Manuscrits_de_la_mer_Morte) découverts en 1947 et rédigés entre le III<sup>ème</sup> et I<sup>er</sup> siècle avant Jésus-Christ.
 
 Le TaNaKh a été écrit en hébreu, à l'exception de quelques passages en araméens. Originellement l'hébreu ne possède pas de voyelles, faisant que la prononciation de certains mots commençait se perdre au fil du temps. Par exemple, le tétragramme que nous rendons par « Yahweh » s'écrivait « YHWH ». C'est ainsi qu'à partir du 6<sup>ème</sup> siècle des écoles de scribes, les [massorètes](https://fr.wikipedia.org/wiki/Massorète), font leur apparition, avec pour objectif de perpétuer la [Massorah](https://fr.wikipedia.org/wiki/Massorah). C'est à dire de préserver le texte original et son sens. Les soferim s'étaient attachés à préserver le contenu et la forme des textes, après eux les [anoraïm](https://fr.wikipedia.org/wiki/Amoraïm) à placer des séparateur entre les mots afin de les distinguer, et quant à eux les massorètes à préserver la prononciation en plaçant des points-voyelles sur chacun des mots.
 
@@ -86,6 +86,8 @@ Il utilisaient également un système de comptage afin de déceler les éventuel
 
 C'est aux massorètes qu'on doit le Codex de Léningrad, ainsi que le [Codex d'Alep](https://fr.wikipedia.org/wiki/Codex_d%27Alep) qui lui est antérieur, qui ont servi à réaliser la « [Biblia Hebraica Stuttgartensia](https://fr.wikipedia.org/wiki/Biblia_Hebraica_Stuttgartensia) ». C'est sur la base de ce fidèle texte massorétique que la plupart des bibles traduisent le TaNaKh.
 
+<!--### Le texte massorétique confirmé par les autres sources-->
+
 <!--### Divergences entre la Septante et le texte massorétique-->
 
 ### Évangiles et épîtres
@@ -93,3 +95,13 @@ C'est aux massorètes qu'on doit le Codex de Léningrad, ainsi que le [Codex d'A
 #### Le Texte Reçu, les textes majoritaires et minoritaires
 
 ## Les bibles françaises
+
+<!-- Sources :
+« L'histoire merveilleuse de la transmission de la Bible, de sa rédaction à nos jours », Éditions Bibles et publications chrétiennes
+« Les manuscrits de la mer Morte », Éditions Perrin
+« Les Bibles françaises, comment choisir ? »
+http://www.info-bible.org/histoire/manuscrits.htm
+http://www.universdelabible.net/la-bible/transmission-de-la-bible
+https://foierudite.wordpress.com/2010/07/17/manuscrits/
+http://www.lueur.org/textes/transmission-bible.html
+-->
