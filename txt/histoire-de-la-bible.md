@@ -82,7 +82,7 @@ Les règles que les massorètes devaient respecter étaient très stricte :
 
 > « *Un rouleau utilisé dans la synagogue doit être écrit sur des peaux d’animaux purs et préparées spécialement par un Juif pour cet usage. Ces peaux doivent être attachées avec des fils pris d’animaux purs. Chaque peau doit porter un certain nombre de colonnes, constant dans tout le codex. La longueur de chaque colonne ne doit pas être de moins de 48 lignes ni plus de 60 lignes. La largeur doit être de 30 lettres. Il faut dans un premier temps tracer des lignes sur toute la copie; si trois mots sont écrits sans une ligne, la copie est nulle. L’encre doit être noire et non rouge, ni verte, ni aucune autre couleur; et elle doit être préparée selon la manière spécifiée. Le scribe doit copier à partir d’une autre copie authentique, sans dévier. Aucun mot, aucune lettre, même pas un yod, ne doit être écrit de mémoire, sans regarder le texte devant soi. (...) Entre les consonnes, le scribe doit mettre un espace de la largeur d’un cheveu ou d’un fil ; entre les mots, de la largeur d’une consonne étroite; entre les parashah, ou sections, de la largeur de neuf consonnes; entre les livres, trois lignes. Le cinquième livre de Moïse doit s’achever exactement à la fin d’une ligne, mais ceci n’est pas obligatoire pour les autres. En plus, pour écrire le scribe doit être assis dans son habillement juif formel, il doit se laver tout le corps, il ne lui est pas permis de commencer d’écrire le nom de Dieu avec une plume nouvellement trempée dans l’encre, et même si un roi lui adresse la parole pendant qu’il écrit ce nom, il ne doit lui prêter aucune attention. (...) Les rouleaux où ces règlements ne sont pas respectés doivent être soit enterrés soit brûlés; ils peuvent néanmoins être relégués aux écoles pour y être utilisés comme livres de lecture.* »
 
-Il utilisaient également un système de comptage afin de déceler les éventuelles erreurs. Par exemple, le nombre de mots dans chaque livre était compté, ainsi que le nombre d'occurences de chaque lettre, ils relevait également la lettre, le mot et le verset médians de chaque livres. De fait, la possibilité de laisser passer une erreur dans leurs manuscrits était très faible.
+Il utilisaient également un système de comptage afin de déceler les éventuelles erreurs. Par exemple, le nombre de versets, de mots et dans lettres dans chaque livre était compté, ils relevaient également la lettre, le mot et le verset médians de chaque livres. De fait, la possibilité de laisser passer une erreur dans leurs manuscrits était très faible.
 
 C'est aux massorètes qu'on doit le Codex de Léningrad, ainsi que le [Codex d'Alep](https://fr.wikipedia.org/wiki/Codex_d%27Alep) qui lui est antérieur, qui ont servi à réaliser la « [Biblia Hebraica Stuttgartensia](https://fr.wikipedia.org/wiki/Biblia_Hebraica_Stuttgartensia) ». C'est sur la base de ce fidèle texte massorétique que la plupart des bibles traduisent le TaNaKh.
 
@@ -92,7 +92,7 @@ C'est aux massorètes qu'on doit le Codex de Léningrad, ainsi que le [Codex d'A
 
 ### Évangiles et épîtres
 
-Pour les Évangiles et les épîtres, on dénombre plus de 5 500 manuscrits grecs et environ 20 000 manuscrits de versions. À titre de comparaison, de « L'Iliade et l'Odyssée » d'Homère on ne dénombre que 643 manuscrits et de « Guerres de Gaules » de Jules César qu'une dizaine. Pourtant, encore aujourd'hui, il y a davantage d'incrédules pour douter de l'authenticité de la Bible que de ces autres livres.
+Pour les Évangiles et les épîtres, on dénombre plus de 5 500 manuscrits grecs et plus de 20 000 manuscrits de versions. À titre de comparaison, de « L'Iliade et l'Odyssée » d'Homère on ne dénombre que 643 manuscrits et de « Guerres de Gaules » de Jules César qu'une dizaine. Pourtant, encore aujourd'hui, il y a davantage d'incrédules pour douter de l'authenticité de la Bible que de ces autres livres.
 
 Comme il a été dit précédemment, dès les débuts de l'Église l'autorité des écrits des apôtres était reconnue, et ils ont très vite été considérés comme inspirés de Dieu. C'est donc avec tout autant de crainte et de soin que les premiers chrétiens ont dû recopier ces textes, dans le but de les préserver et les diffuser. C'est ce dont témoigne le nombre impressionnant de manuscrits à notre disposition, dont certains remonterait au I<sup>er</sup> siècle, comme le « papyrus d'Oxford » (~50 apr. J.-C.) comportant des extraits de l'Évangile de Matthieu.
 
@@ -100,7 +100,17 @@ En plus de l'ensemble des manuscrits grecs, dont la rédaction s'étale du I<sup
 
 Pour témoigner de l'état des textes originaux, il est également possible de compter sur les citations des « pères de l'Église » qui permettraient à elles-seules de reconstituer 46% des Évangiles et épîtres.
 
-#### Le Texte Reçu, les textes majoritaires et minoritaires
+#### Les différences entre manuscrits et versions
+
+Bien que sur l'ensemble des variantes existantes entre les différents manuscrits, aucune ne remet en cause la doctrine globale des Écritures, il existe deux écoles à ce sujet. Parmi les manuscrits on distingue globalement deux sources : les manuscrits majoritaires (ou byzantins), et les manuscrits minoritaires (ou alexandrins). Chaque « école » prenant parti pour un corpus de textes ou un autre. Qu'en est-il ?
+
+##### Le texte minoritaire
+
+
+
+##### Le texte majoritaire
+
+C'est sur celui-ci que les bibles fidèles telles que la Bible de Olivétan, de l'Épée, Martin, Ostervald, etc. se basent.
 
 ## Les bibles françaises
 
@@ -114,4 +124,5 @@ http://www.universdelabible.net/les-traductions-de-la-bible/les-manuscrits-origi
 https://foierudite.wordpress.com/2010/07/17/manuscrits/
 http://www.lueur.org/textes/transmission-bible.html
 https://fr.wikipedia.org/
+https://theosophical.wordpress.com/2012/01/17/modern-myth-all-but-11-verses-of-the-nt-could-be-constructed-from-the-writings-of-the-early-church-fathers/
 -->
