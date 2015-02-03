@@ -70,7 +70,7 @@ Jusqu'à l'invention de l'imprimerie au XV<sup>ème</sup> siècle, la copie des 
 
 Cette multitude de sources nous permet d'être assurés de posséder des textes fidèles aux originaux, les éventuelles variantes et erreurs des uns étant corrigées par la majorité des autres. Quand bien même certaines variantes posent davantage de difficultés que d'autres, aucune ne change la doctrine et le message global de la Bible.
 
-À titre de comparaison, de « L'Iliade et l'Odysée » d'Homère on dénombre 643 manuscrits et de « Guerres de Gaules » de Jules César une dizaine de manuscrits. Pour les Évangiles et les épîtres, plus de 5 000 manuscrits complets et environ 25 000 portions. On dénombre également plus de 10 000 manuscrits de la traduction latine appelée [Vulgate](https://fr.wikipedia.org/wiki/Vulgate), ainsi que 9 300 copies d'autres traductions diverses. De plus, il est dit qu'il serait même possible de reconstituer la quasi-totalité des Évangiles et des épîtres uniquement à partir des citations qui en ont été faite. Pourtant, encore aujourd'hui, il y a davantage d'incrédules pour douter de l'authenticité de la Bible que de ces autres livres. Le texte biblique est le texte de mieux conservé de toute l'Antiquité.
+À titre de comparaison, de « L'Iliade et l'Odysée » d'Homère on dénombre 643 manuscrits et de « Guerres de Gaules » de Jules César une dizaine de manuscrits. Pour les Évangiles et les épîtres, plus de 5 000 manuscrits grecs et environ 20 000 manuscrits de versions. Pourtant, encore aujourd'hui, il y a davantage d'incrédules pour douter de l'authenticité de la Bible que de ces autres livres. Le texte biblique est le texte de mieux conservé de toute l'Antiquité.
 
 ### TaNaKh
 
@@ -85,6 +85,8 @@ Les règles que les massorètes devaient respecter étaient très stricte :
 Il utilisaient également un système de comptage afin de déceler les éventuelles erreurs. Par exemple, le nombre de mots dans chaque livre était compté, ainsi que le nombre d'occurences de chaque lettre, ils relevait également la lettre, le mot et le verset médians de chaque livres. De fait, la possibilité de laisser passer une erreur dans leurs manuscrits était très faible.
 
 C'est aux massorètes qu'on doit le Codex de Léningrad, ainsi que le [Codex d'Alep](https://fr.wikipedia.org/wiki/Codex_d%27Alep) qui lui est antérieur, qui ont servi à réaliser la « [Biblia Hebraica Stuttgartensia](https://fr.wikipedia.org/wiki/Biblia_Hebraica_Stuttgartensia) ». C'est sur la base de ce fidèle texte massorétique que la plupart des bibles traduisent le TaNaKh.
+
+<!--### Divergences entre la Septante et le texte massorétique-->
 
 ### Évangiles et épîtres
 
