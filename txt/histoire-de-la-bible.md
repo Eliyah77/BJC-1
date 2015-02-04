@@ -102,13 +102,25 @@ Pour témoigner de l'état des textes originaux, il est également possible de c
 
 #### Les différences entre manuscrits et versions
 
-Bien que sur l'ensemble des variantes existantes entre les différents manuscrits, aucune ne remet en cause la doctrine globale des Écritures, il existe deux écoles à ce sujet. Parmi les manuscrits on distingue globalement deux sources : les manuscrits majoritaires (ou byzantins), et les manuscrits minoritaires (ou alexandrins). Chaque « école » prenant parti pour un corpus de textes ou un autre. Qu'en est-il ?
+Bien que sur l'ensemble des variantes existantes entre les différents manuscrits, aucune ne remet en cause la doctrine globale des Écritures, il existe deux écoles à ce sujet. Parmi les manuscrits on distingue globalement deux sources : les manuscrits majoritaires (ou byzantins), et les manuscrits minoritaires (ou alexandrins). Chaque « école » prenant parti pour un corpus de textes ou un autre.
+
+À titre d'exemple, pour 1 Timothée 3:16, la version Louis Segond 1910, basée sur le texte minoritaire, porte :
+> « *Et, sans contredit, le mystère de la piété est grand : **celui** qui a été manifesté en chair, justifié par l'Esprit, vu des anges, prêché aux Gentils, cru dans le monde, élevé dans la gloire.* »
+
+Quand la Bible de Jésus-Christ, basée sur le texte majoritaire, porte :
+> « *Et sans contredit, le mystère de la piété est grand : **Dieu** a été manifesté en chair, justifié par l'Esprit, vu des anges, prêché aux Gentils, cru dans le monde, et élevé dans la gloire.* »
+
+Qu'en est-il ?
 
 ##### Le texte minoritaire
 
+Les manuscrits dits « minoritaires » sont appelés ainsi car ils ne représentent que 5% des manuscrits disponibles, on les appelle également « alexandrins » car pour la plupart ils seraient de source égyptienne.
 
+Étonnament c'est c'est sur ceux-ci que la plupart des Bibles modernes se basent.
 
 ##### Le texte majoritaire
+
+Les manuscrits dits « majoritaires » sont appelés ainsi car ils représentent la grande majorité des manuscrits disponibles, on les appelle également « byzantins » car pour la plupart ils sont de source orientale.
 
 C'est sur celui-ci que les bibles fidèles telles que la Bible de Olivétan, de l'Épée, Martin, Ostervald, etc. se basent.
 
