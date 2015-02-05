@@ -12,11 +12,11 @@ La Bible est constituée de 66 livres écrits par environ 40 auteurs différents
 
 Car effectivement, si la Bible a été écrite par des hommes, elle est l'œuvre de Dieu qui leur a inspiré chacun des mots à écrire. Elle est la parole divine écrite par des hommes sous son contrôle.
 
-> « *Toute l'Ecriture est **inspirée de Dieu** et utile pour enseigner, pour convaincre, pour corriger et pour instruire selon la justice, afin que l'homme de Dieu soit accompli et parfaitement instruit pour toute bonne œuvre.* » 2 Timothée 3:16
+> « _Toute l'Ecriture est **inspirée de Dieu** et utile pour enseigner, pour convaincre, pour corriger et pour instruire selon la justice, afin que l'homme de Dieu soit accompli et parfaitement instruit pour toute bonne œuvre._ » 2 Timothée 3:16
 
-L'expression « *inspirée de Dieu* » est la traduction du mot grec THEOPNEUSTOS, THEO signifiant « Dieu » et PNEU signifiant « souffler ».
+L'expression « _inspirée de Dieu_ » est la traduction du mot grec THEOPNEUSTOS, THEO signifiant « Dieu » et PNEU signifiant « souffler ».
 
-> « *Nous avons aussi la parole des prophètes qui est très ferme, à laquelle vous faites bien d'être attentifs, comme à une lampe qui brille dans un lieu obscur, jusqu'à ce que le jour vienne à paraître et que l'Etoile du matin se lève dans vos cœurs ; sachant premièrement ceci, qu'aucune prophétie de l'Ecriture ne procède d'une interprétation particulière, car la prophétie n'a jamais été autrefois apportée par la volonté humaine, mais les saints hommes de Dieu ont parlé, étant **poussés par le Saint-Esprit**.* » 2 Pierre 1:19-21
+> « _Nous avons aussi la parole des prophètes qui est très ferme, à laquelle vous faites bien d'être attentifs, comme à une lampe qui brille dans un lieu obscur, jusqu'à ce que le jour vienne à paraître et que l'Etoile du matin se lève dans vos cœurs ; sachant premièrement ceci, qu'aucune prophétie de l'Ecriture ne procède d'une interprétation particulière, car la prophétie n'a jamais été autrefois apportée par la volonté humaine, mais les saints hommes de Dieu ont parlé, étant **poussés par le Saint-Esprit**._ » 2 Pierre 1:19-21
 
 C'est ainsi que depuis Moïse jusqu'à Jean, les paroles de Dieu ont été écrites par leurs auteurs, ou leurs scribes, sur différents supports tels que le papyrus, le parchemin (peau d'animal) et le papier. De ces écrits orignaux, il ne reste aujourd'hui plus aucune trace, mais seulement des copies, copies de copies, etc. ainsi que des traductions anciennes et des citations.
 
@@ -30,7 +30,7 @@ Pour ce qui est du [TaNaKh](https://fr.wikipedia.org/wiki/Tanakh) (ou Bible Héb
 
 Toutefois ce n'est que vers l'an 90, au [concile juif de Jamnia](https://fr.wikipedia.org/wiki/Synode_de_Jamnia), que le canon définitif de la Bible Hébraïque fût arrêté. Rejettant au passage les apocryphes inclus dans la [Septante](https://fr.wikipedia.org/wiki/Septante) (ou LXX, une Bible Hébraïque en grec).
 
-> « *Quel est donc l'avantage du Juif, ou quelle est l'utilité de la circoncision ? Il est grand en toute manière, surtout en ce que les oracles de Dieu leur ont été confiés.* » Romains 3:2
+> « _Quel est donc l'avantage du Juif, ou quelle est l'utilité de la circoncision ? Il est grand en toute manière, surtout en ce que **les oracles de Dieu leur ont été confiés**._ » Romains 3:2
 
 Paul déclare ici que les paroles de Dieu ont été confiées aux juifs, nous devons donc pour le TaNaKh nous baser sur ce que ces derniers ont considéré comme authentique.
 
@@ -40,13 +40,13 @@ Les livres [apocryphes](https://fr.wikipedia.org/wiki/Apocryphes_bibliques) (com
 
 Pour les chrétiens, dès les débuts de l'Église, l'autorité des écrits des apôtres était reconnue. Certains pasages en témoignent :
 
-> « *Je vous en conjure par le Seigneur que cette épître soit lue à tous les saints frères.* » 1 Thessaloniciens 5:27
+> « _Je vous en conjure par le Seigneur que cette épître soit lue à tous les saints frères._ » 1 Thessaloniciens 5:27
 
-> « *[…] de ne pas vous laisser subitement ébranler dans votre entendement, ni troubler par une inspiration, ni par une parole, ou **par quelque lettre qu'on dirait venir de nous**, comme si le jour de Christ était déjà là.* » 2 Thessaloniciens 2:2
+> « _[…] de ne pas vous laisser subitement ébranler dans votre entendement, ni troubler par une inspiration, ni par une parole, ou **par quelque lettre qu'on dirait venir de nous**, comme si le jour de Christ était déjà là._ » 2 Thessaloniciens 2:2
 
-> « *Et quand cette lettre aura été lue entre vous, faites en sorte qu'elle soit aussi lue dans l'église des Laodicéens, et que vous lisiez aussi celle qui viendra de Laodicée.* » Colossiens 4:16
+> « _Et quand cette lettre aura été lue entre vous, faites en sorte qu'elle soit aussi lue dans l'église des Laodicéens, et que vous lisiez aussi celle qui viendra de Laodicée._ » Colossiens 4:16
 
-> « *Et considérez la patience du Seigneur comme une preuve qu'il veut votre salut ; comme Paul, notre frère bien-aimé, vous en a écrit, selon la sagesse qui lui a été donnée; ainsi que dans toutes ses lettres, il parle de ces points, dans lesquels il y a des choses difficiles à comprendre, que les ignorants et les mal affermis tordent, comme ils tordent aussi les autres Ecritures, à leur propre perdition.* » 2 Pierre 3:15-16
+> « _Et considérez la patience du Seigneur comme une preuve qu'il veut votre salut ; comme Paul, notre frère bien-aimé, vous en a écrit, selon la sagesse qui lui a été donnée; ainsi que dans toutes ses lettres, il parle de ces points, dans lesquels il y a des choses difficiles à comprendre, que les ignorants et les mal affermis tordent, comme ils tordent aussi les autres Ecritures, à leur propre perdition._ » 2 Pierre 3:15-16
 
 Après la mort des apôtres et des témoins direct de la vie de Jésus, le besoin est vite apparu de regrouper et déterminer les écrits considérés comme inspirés de Dieu. Pour l'Église primitive, principalement deux critères ont été considérés comme déterminants :
 
@@ -80,7 +80,7 @@ Le TaNaKh a été écrit en hébreu, à l'exception de quelques passages en aram
 
 Les règles que les massorètes devaient respecter étaient très stricte :
 
-> « *Un rouleau utilisé dans la synagogue doit être écrit sur des peaux d’animaux purs et préparées spécialement par un Juif pour cet usage. Ces peaux doivent être attachées avec des fils pris d’animaux purs. Chaque peau doit porter un certain nombre de colonnes, constant dans tout le codex. La longueur de chaque colonne ne doit pas être de moins de 48 lignes ni plus de 60 lignes. La largeur doit être de 30 lettres. Il faut dans un premier temps tracer des lignes sur toute la copie; si trois mots sont écrits sans une ligne, la copie est nulle. L’encre doit être noire et non rouge, ni verte, ni aucune autre couleur; et elle doit être préparée selon la manière spécifiée. Le scribe doit copier à partir d’une autre copie authentique, sans dévier. Aucun mot, aucune lettre, même pas un yod, ne doit être écrit de mémoire, sans regarder le texte devant soi. (...) Entre les consonnes, le scribe doit mettre un espace de la largeur d’un cheveu ou d’un fil ; entre les mots, de la largeur d’une consonne étroite; entre les parashah, ou sections, de la largeur de neuf consonnes; entre les livres, trois lignes. Le cinquième livre de Moïse doit s’achever exactement à la fin d’une ligne, mais ceci n’est pas obligatoire pour les autres. En plus, pour écrire le scribe doit être assis dans son habillement juif formel, il doit se laver tout le corps, il ne lui est pas permis de commencer d’écrire le nom de Dieu avec une plume nouvellement trempée dans l’encre, et même si un roi lui adresse la parole pendant qu’il écrit ce nom, il ne doit lui prêter aucune attention. (...) Les rouleaux où ces règlements ne sont pas respectés doivent être soit enterrés soit brûlés; ils peuvent néanmoins être relégués aux écoles pour y être utilisés comme livres de lecture.* »
+> « _Un rouleau utilisé dans la synagogue doit être écrit sur des peaux d’animaux purs et préparées spécialement par un Juif pour cet usage. Ces peaux doivent être attachées avec des fils pris d’animaux purs. Chaque peau doit porter un certain nombre de colonnes, constant dans tout le codex. La longueur de chaque colonne ne doit pas être de moins de 48 lignes ni plus de 60 lignes. La largeur doit être de 30 lettres. Il faut dans un premier temps tracer des lignes sur toute la copie; si trois mots sont écrits sans une ligne, la copie est nulle. L’encre doit être noire et non rouge, ni verte, ni aucune autre couleur; et elle doit être préparée selon la manière spécifiée. Le scribe doit copier à partir d’une autre copie authentique, sans dévier. Aucun mot, aucune lettre, même pas un yod, ne doit être écrit de mémoire, sans regarder le texte devant soi. (...) Entre les consonnes, le scribe doit mettre un espace de la largeur d’un cheveu ou d’un fil ; entre les mots, de la largeur d’une consonne étroite; entre les parashah, ou sections, de la largeur de neuf consonnes; entre les livres, trois lignes. Le cinquième livre de Moïse doit s’achever exactement à la fin d’une ligne, mais ceci n’est pas obligatoire pour les autres. En plus, pour écrire le scribe doit être assis dans son habillement juif formel, il doit se laver tout le corps, il ne lui est pas permis de commencer d’écrire le nom de Dieu avec une plume nouvellement trempée dans l’encre, et même si un roi lui adresse la parole pendant qu’il écrit ce nom, il ne doit lui prêter aucune attention. (...) Les rouleaux où ces règlements ne sont pas respectés doivent être soit enterrés soit brûlés; ils peuvent néanmoins être relégués aux écoles pour y être utilisés comme livres de lecture._ »
 
 Il utilisaient également un système de comptage afin de déceler les éventuelles erreurs. Par exemple, le nombre de versets, de mots et dans lettres dans chaque livre était compté, ils relevaient également la lettre, le mot et le verset médians de chaque livres. De fait, la possibilité de laisser passer une erreur dans leurs manuscrits était très faible.
 
@@ -105,10 +105,10 @@ Pour témoigner de l'état des textes originaux, il est également possible de c
 Bien que sur l'ensemble des variantes existantes entre les différents manuscrits, aucune ne remet en cause la doctrine globale des Écritures, il existe deux écoles à ce sujet. Parmi les manuscrits on distingue globalement deux sources : les manuscrits majoritaires (ou byzantins), et les manuscrits minoritaires (ou alexandrins). Chaque « école » prenant parti pour un corpus de textes ou un autre.
 
 À titre d'exemple, pour 1 Timothée 3:16, la version Louis Segond 1910, basée sur le texte minoritaire, porte :
-> « *Et, sans contredit, le mystère de la piété est grand : **celui** qui a été manifesté en chair, justifié par l'Esprit, vu des anges, prêché aux Gentils, cru dans le monde, élevé dans la gloire.* »
+> « _Et, sans contredit, le mystère de la piété est grand : **celui** qui a été manifesté en chair, justifié par l'Esprit, vu des anges, prêché aux Gentils, cru dans le monde, élevé dans la gloire._ »
 
 Quand la Bible de Jésus-Christ, basée sur le texte majoritaire, porte :
-> « *Et sans contredit, le mystère de la piété est grand : **Dieu** a été manifesté en chair, justifié par l'Esprit, vu des anges, prêché aux Gentils, cru dans le monde, et élevé dans la gloire.* »
+> « _Et sans contredit, le mystère de la piété est grand : **Dieu** a été manifesté en chair, justifié par l'Esprit, vu des anges, prêché aux Gentils, cru dans le monde, et élevé dans la gloire._ »
 
 Qu'en est-il ?
 
@@ -125,13 +125,13 @@ Outre [la spiritualité et la doctrine plus que douteuses de Wescott et Hort](ht
 Le plus important d'entre eux, le Codex Vaticanus, est sorti mystérieusement des bibliothèques du Vatican en 1481. Il lui manque la majorité du livre de la Genèse, une partie des Psaumes, Matthieu 6:2-3, les épîtres à Timothée, Tite et Philémon, et l'Apocalypse dans son intégralité. Il fourmille également de multiples erreurs, notamment historiques et scientifiques. Quant à lui, le Codex Sinaïticus a été retrouvé par [Tischendorf](https://fr.wikipedia.org/wiki/Constantin_Tischendorf) dans les poubelles d'un monastère au pied du Mont Sinaï. C'est dire la valeur que les moines accordaient à ce dernier.
 
 John William Burgon, grand défenseur des textes bibliques et particulièrement des textes majoritaires, dira :
-> « *S’ils avaient été des manuscrits valides, il y a longtemps qu’une lecture assidue les aurait réduit en pièces. Nous soupçonnons que ces manuscrits sont redevables pour leur conservation, et ce uniquement à leur côté diabolique; […] Cela démontre que l’Église les a rejetés sans les lire. Autrement, ils auraient été usés par trop de lecture et seraient disparus* »
+> « _S’ils avaient été des manuscrits valides, il y a longtemps qu’une lecture assidue les aurait réduit en pièces. Nous soupçonnons que ces manuscrits sont redevables pour leur conservation, et ce uniquement à leur côté diabolique; […] Cela démontre que l’Église les a rejetés sans les lire. Autrement, ils auraient été usés par trop de lecture et seraient disparus_ »
 
 ##### Le texte majoritaire
 
 Les manuscrits dits « majoritaires » sont appelés ainsi car ils représentent la grande majorité des manuscrits disponibles, on les appelle également « byzantins » car pour la plupart ils sont de source orientale.
 
-C'est de ces manuscrits, précisement sept d'entre eux, qu'en 1516 [Érasme](https://fr.wikipedia.org/wiki/Érasme) va faire une compilation. Celui-ci subira plusieurs révisions en 1519 (Luther basera sa traduction allemande sur cette revision) et 1522. En 1550 et 1551 par [Robert Estienne](https://fr.wikipedia.org/wiki/Robert_Estienne) qui y introduira la division en versets. En 1598 par [Théodore de Bèze](https://fr.wikipedia.org/wiki/Théodore_de_Bèze). Et en 1633 par [les frères Elzévir](https://fr.wikipedia.org/wiki/Elzevier), qui y apposeront la mention « *Textum ergo habes, nunc ab omnibus receptum* », c'est à dire « *Tu as donc le texte maintenant reçu par tous* ». On parle depuis de « Textus Receptus », le **Texte Reçu**.
+C'est de ces manuscrits, précisement sept d'entre eux, qu'en 1516 [Érasme](https://fr.wikipedia.org/wiki/Érasme) va faire une compilation. Celui-ci subira plusieurs révisions en 1519 (Luther basera sa traduction allemande sur cette revision) et 1522. En 1550 et 1551 par [Robert Estienne](https://fr.wikipedia.org/wiki/Robert_Estienne) qui y introduira la division en versets. En 1598 par [Théodore de Bèze](https://fr.wikipedia.org/wiki/Théodore_de_Bèze). Et en 1633 par [les frères Elzévir](https://fr.wikipedia.org/wiki/Elzevier), qui y apposeront la mention « _Textum ergo habes, nunc ab omnibus receptum_ », c'est à dire « _Tu as donc le texte maintenant reçu par tous_ ». On parle depuis de « Textus Receptus », le **Texte Reçu**.
 
 C'est sur celui-ci que les bibles fidèles telles que la Bible de Olivétan, de l'Épée, Martin, Ostervald, etc. se baseront.
 
