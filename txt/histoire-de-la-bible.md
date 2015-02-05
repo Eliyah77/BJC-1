@@ -131,11 +131,13 @@ John William Burgon, grand défenseur des textes bibliques et particulièrement 
 
 Les manuscrits dits « majoritaires » sont appelés ainsi car ils représentent la grande majorité des manuscrits disponibles, on les appelle également « byzantins » car pour la plupart ils sont de source orientale.
 
-C'est de ces manuscrits, précisement sept d'entre eux, qu'en 1516 [Érasme](https://fr.wikipedia.org/wiki/Érasme) va faire une compilation. Celui-ci subira plusieurs révisions en 1519 (Luther basera sa traduction allemande sur cette revision) et 1522. En 1550 et 1551 par [Robert Estienne](https://fr.wikipedia.org/wiki/Robert_Estienne) qui y introduira la division en versets. En 1598 par [Théodore de Bèze](https://fr.wikipedia.org/wiki/Théodore_de_Bèze). Et en 1633 par [les frères Elzévir](https://fr.wikipedia.org/wiki/Elzevier), qui y apposeront la mention « *Textum ergo habes, nunc ab omnibus receptum* », c'est à dire « *Tu as donc le texte maintenant reçu par tous* ». On parle depuis de « Textus Receptus », le Texte Reçu.
+C'est de ces manuscrits, précisement sept d'entre eux, qu'en 1516 [Érasme](https://fr.wikipedia.org/wiki/Érasme) va faire une compilation. Celui-ci subira plusieurs révisions en 1519 (Luther basera sa traduction allemande sur cette revision) et 1522. En 1550 et 1551 par [Robert Estienne](https://fr.wikipedia.org/wiki/Robert_Estienne) qui y introduira la division en versets. En 1598 par [Théodore de Bèze](https://fr.wikipedia.org/wiki/Théodore_de_Bèze). Et en 1633 par [les frères Elzévir](https://fr.wikipedia.org/wiki/Elzevier), qui y apposeront la mention « *Textum ergo habes, nunc ab omnibus receptum* », c'est à dire « *Tu as donc le texte maintenant reçu par tous* ». On parle depuis de « Textus Receptus », le **Texte Reçu**.
 
 C'est sur celui-ci que les bibles fidèles telles que la Bible de Olivétan, de l'Épée, Martin, Ostervald, etc. se baseront.
 
 En plus de suivre la majorité des manuscrits, le Texte Reçu est également s'accorde avec les traductions anciennes comme la Peschitto, la Bible Italique, la Bible Vaudoise et la Vulgate, ainsi que les citations des Écritures faites par les « Pères de l'Église ». C'est donc de loin le texte le plus fiable et le plus proche des originaux que nous possédons.
+
+<!--Le texte « majoritaire » de Hodges et Farstad-->
 
 ## Les bibles françaises
 
