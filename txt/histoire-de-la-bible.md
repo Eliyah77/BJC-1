@@ -2,7 +2,7 @@
 
 Dans notre temps, la Bible est le principal témoignage de Dieu adressé à l'Homme. Elle est ainsi la source première de la foi (Ro. 10:17), et l'unique autorité en matière de doctrine (Ap. 22:18-19). Il est donc primordial de s'assurer que la Bible que nous possédons est fidèle aux textes originaux, et telle que Dieu a voulu nous la communiquer.
 
-Le lecteur doit être averti qu'en tout temps l'ennemi a tenté corrompre ou faire disparaître les Écritures. Depuis [Néron](https://fr.wikipedia.org/wiki/Néron) (I<sup>er</sup> s.) ou [Dioclétien](https://fr.wikipedia.org/wiki/Dioclétien) (VI<sup>ème</sup> s.), jusqu'aux actuelles sociétés bibliques, dont malheureusement la plupart sont corrompues, en passant par le catholicisme privant le peuple de la Bible.
+Le lecteur doit être averti qu'en tout temps l'ennemi a tenté de corrompre ou faire disparaître les Écritures. Depuis [Néron](https://fr.wikipedia.org/wiki/Néron) (I<sup>er</sup> s.) ou [Dioclétien](https://fr.wikipedia.org/wiki/Dioclétien) (VI<sup>ème</sup> s.), jusqu'aux actuelles sociétés bibliques, dont malheureusement la plupart sont corrompues, en passant par le catholicisme privant le peuple de la Bible.
 
 C'est pourquoi nous voulons retracer son Histoire, afin que le lecteur soit en possession des informations lui permettant de discerner les tentatives de falsification, et qu'il puisse être assuré d'avoir entre ses mains une Bible digne de foi, transmettant fidèlement la saine doctrine.
 
