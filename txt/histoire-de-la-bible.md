@@ -98,7 +98,7 @@ Comme il a été dit précédemment, dès les débuts de l'Église l'autorité d
 
 En plus de l'ensemble des manuscrits grecs, dont la rédaction s'étale du I<sup>er</sup> au XV<sup>ème</sup> siècle, nous pouvons nous appuyer sur des traductions antiques en latin (Codex Bobiensis, Codex Vercellensis), éthiopien, slave, arménien, syriaque (Codex Syro-Sinaïticus, Codex Syro-Curetonianus), copte, etc. Toutes ces versions anciennes, dont certains manuscrits remontent au III<sup>ème</sup> siècle, témoignent de l'immuabilité des textes à travers les âges, et aident aujourd'hui à les traduire correctement dans les langues modernes.
 
-Pour témoigner de l'état des textes originaux, il est également possible de compter sur les citations des « pères de l'Église » qui permettraient à elles-seules de reconstituer 46% des Évangiles et épîtres.
+Pour témoigner de l'état des textes originaux, il est également possible de compter sur les citations des « Pères de l'Église » qui permettraient à elles-seules de reconstituer 46% des Évangiles et épîtres.
 
 #### Les différences entre manuscrits et versions
 
@@ -116,13 +116,26 @@ Qu'en est-il ?
 
 Les manuscrits dits « minoritaires » sont appelés ainsi car ils ne représentent que 5% des manuscrits disponibles, on les appelle également « alexandrins » car pour la plupart ils seraient de source égyptienne.
 
-Étonnament c'est c'est sur ceux-ci que la plupart des Bibles modernes se basent.
+Étonnament, malgré leur infériorité numérique, c'est sur ceux-ci que la plupart des Bibles modernes se basent. En effet, ces manuscrits sont plus anciens, et également mieux conservés, que les « majoritaires ». Par exemple, le Codex Vaticanus est daté du milieu du IV<sup>ème</sup> siècle, le Codex Sinaïticus également, et le Codex Alexandrinus du V<sup>ème</sup> siècle.
+
+En raison de cette ancienneté, la critique moderne pense donc qu'ils sont plus proche des manuscrits originaux et lui accorde davantage de crédit. C'est ainsi que, suivant cette pensée, [Westcott et Hort](https://en.wikipedia.org/wiki/Westcott-Hort) ont compilé ces manuscrits pour publier en 1881 le texte grec sur lequel la plupart des bibles modernes se basent. Plus tard, [Eberhard Nestle](https://fr.wikipedia.org/wiki/Eberhard_Nestle) et après lui [Kurt Aland](https://fr.wikipedia.org/wiki/Kurt_Aland) en feront une [révision](https://en.wikipedia.org/wiki/Novum_Testamentum_Graece) qui lui restera cependant très proche.
+
+Outre [la spiritualité et la doctrine plus que douteuses de Wescott et Hort](http://www.jesus-is-lord.com/hort.htm), les textes minoritaires prétendument meilleurs sont en vérité de piètre qualité.
+
+Le plus important d'entre eux, le Codex Vaticanus, est sorti mystérieusement des bibliothèques du Vatican en 1481. Il lui manque la majorité du livre de la Genèse, une partie des Psaumes, Matthieu 6:2-3, les épîtres à Timothée, Tite et Philémon, et l'Apocalypse dans son intégralité. Quant à lui, le Codex Sinaïticus a été retrouvé par [Tischendorf](https://fr.wikipedia.org/wiki/Constantin_Tischendorf) dans les poubelles d'un monastère au pied du Mont Sinaï. C'est dire la valeur que les moines accordaient à ce dernier.
+
+John William Burgon, grand défenseur des textes bibliques et particulièrement des textes majoritaires, dira :
+> « *S’ils avaient été des manuscrits valides, il y a longtemps qu’une lecture assidue les aurait réduit en pièces. Nous soupçonnons que ces manuscrits sont redevables pour leur conservation, et ce uniquement à leur côté diabolique; […] Cela démontre que l’Église les a rejetés sans les lire. Autrement, ils auraient été usés par trop de lecture et seraient disparus* »
 
 ##### Le texte majoritaire
 
 Les manuscrits dits « majoritaires » sont appelés ainsi car ils représentent la grande majorité des manuscrits disponibles, on les appelle également « byzantins » car pour la plupart ils sont de source orientale.
 
-C'est sur celui-ci que les bibles fidèles telles que la Bible de Olivétan, de l'Épée, Martin, Ostervald, etc. se basent.
+C'est de ces manuscrits, précisement sept d'entre eux, qu'en 1516 [Érasme](https://fr.wikipedia.org/wiki/Érasme) va faire une compilation. Celui-ci subira plusieurs révisions en 1519 (Luther basera sa traduction allemande sur cette revision) et 1522. En 1550 et 1551 par [Robert Estienne](https://fr.wikipedia.org/wiki/Robert_Estienne) qui y introduira la division en versets. En 1598 par [Théodore de Bèze](https://fr.wikipedia.org/wiki/Théodore_de_Bèze). Et en 1633 par [les frères Elzévir](https://fr.wikipedia.org/wiki/Elzevier), qui y apposeront la mention « *Textum ergo habes, nunc ab omnibus receptum* », c'est à dire « *Tu as donc le texte maintenant reçu par tous* ». On parle depuis de « Textus Receptus », le Texte Reçu.
+
+C'est sur celui-ci que les bibles fidèles telles que la Bible de Olivétan, de l'Épée, Martin, Ostervald, etc. se baseront.
+
+En plus de suivre la majorité des manuscrits, le Texte Reçu est également s'accorde avec les traductions anciennes comme la Peschitto, la Bible Italique, la Bible Vaudoise et la Vulgate, ainsi que les citations des Écritures faites par les « Pères de l'Église ». C'est donc de loin le texte le plus fiable et le plus proche des originaux que nous possédons.
 
 ## Les bibles françaises
 
@@ -137,4 +150,7 @@ https://foierudite.wordpress.com/2010/07/17/manuscrits/
 http://www.lueur.org/textes/transmission-bible.html
 https://fr.wikipedia.org/
 https://theosophical.wordpress.com/2012/01/17/modern-myth-all-but-11-verses-of-the-nt-could-be-constructed-from-the-writings-of-the-early-church-fathers/
+http://www.nestle-aland.com/en/history/
+http://www.messie2vie.fr/wp-content/uploads/BiblesFalsifiees.pdf
+http://solascriptura-tt.org/Bibliologia-PreservacaoTT/MajorityTextMovingAwayFromPreservedScripture-Cloud.htm
 -->
