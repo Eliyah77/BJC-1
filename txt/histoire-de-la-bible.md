@@ -135,7 +135,7 @@ C'est de ces manuscrits, précisement sept d'entre eux, qu'en 1516 [Érasme](htt
 
 C'est sur celui-ci que les bibles fidèles telles que la Bible de Olivétan, de l'Épée, Martin, Ostervald, etc. se baseront.
 
-En plus de suivre la majorité des manuscrits, le Texte Reçu est également s'accorde avec les traductions anciennes comme la Peschitto, la Bible Italique, la Bible Vaudoise et la Vulgate, ainsi que les citations des Écritures faites par les « Pères de l'Église ». C'est donc de loin le texte le plus fiable et le plus proche des originaux que nous possédons.
+En plus de suivre la majorité des manuscrits, le Texte Reçu s'accorde également avec les traductions anciennes comme la Peschitto, la Bible Italique, la Bible Vaudoise et la Vulgate, ainsi que les citations des Écritures faites par les « Pères de l'Église ». C'est donc de loin le texte le plus fiable et le plus proche des originaux que nous possédons.
 
 <!--Le texte « majoritaire » de Hodges et Farstad-->
 
