@@ -92,7 +92,7 @@ C'est aux massorètes qu'on doit le Codex de Léningrad, ainsi que le [Codex d'A
 
 ### Évangiles et épîtres
 
-Pour les Évangiles et les épîtres, on dénombre plus de 5 500 manuscrits grecs et plus de 20 000 manuscrits de versions (traductions) anciennes. À titre de comparaison, de « L'Iliade et l'Odyssée » d'Homère on ne dénombre que 643 manuscrits et de « Guerres de Gaules » de Jules César qu'une dizaine. Pourtant, encore aujourd'hui, il y a davantage d'incrédules pour douter de l'authenticité de la Bible que de ces autres livres.
+Pour les Évangiles et les épîtres, on dénombre plus de 5 500 manuscrits grecs et plus de 20 000 manuscrits de versions (traductions) anciennes. À titre de comparaison, pour « L'Iliade et l'Odyssée » d'Homère on ne dénombre que 643 manuscrits et pour « Guerres de Gaules » de Jules César qu'une dizaine. Pourtant, encore aujourd'hui, il y a davantage d'incrédules pour douter de l'authenticité de la Bible que de ces autres livres.
 
 Comme il a été dit précédemment, dès les débuts de l'Église l'autorité des écrits des apôtres était reconnue, et ils ont très vite été considérés comme inspirés de Dieu. C'est donc avec tout autant de crainte et de soin que les premiers chrétiens ont dû recopier ces textes, dans le but de les préserver et les diffuser. C'est ce dont témoigne le nombre impressionnant de manuscrits à notre disposition, dont certains remonterait au I<sup>er</sup> siècle, comme le « papyrus d'Oxford » (~50 apr. J.-C.) comportant des extraits de l'Évangile de Matthieu.
 
