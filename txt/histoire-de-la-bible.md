@@ -135,11 +135,21 @@ C'est de ces manuscrits, précisement sept d'entre eux, qu'en 1516 [Érasme](htt
 
 C'est sur celui-ci que les bibles fidèles telles que la Bible de Olivétan, de l'Épée, Martin, Ostervald, etc. se baseront.
 
-En plus de suivre la majorité des manuscrits, le Texte Reçu s'accorde également avec les traductions anciennes comme la Peschitto, la Bible Italique, la Bible Vaudoise et la Vulgate, ainsi que les citations des Écritures faites par les « Pères de l'Église ». C'est donc de loin le texte le plus fiable et le plus proche des originaux que nous possédons.
+En plus de suivre la majorité des manuscrits, le Texte Reçu s'accorde également avec les traductions anciennes comme la [Peshitta](https://fr.wikipedia.org/wiki/Peshitta), la Bible Italique, la Bible Vaudoise et la Vulgate, ainsi que les citations des Écritures faites par les « Pères de l'Église ». C'est donc de loin le texte le plus fiable et le plus proche des originaux que nous possédons.
 
 <!--Le texte « majoritaire » de Hodges et Farstad-->
 
 ## Les bibles françaises
+
+La pratique de la traduction des Écritures était quelque chose d'admis et pratiqué déjà chez les juifs. La Septante, traduction grecque du Tanakh en est un témoignage. De même chez les chrétiens de premiers siècles avec la Peshitta et la Vulgate. Cependant, au fil du temps le Catholicisme va priver le peuple de la Bible, et imposer la Vulgate latine comme la seule version autorisée et reconnue comme inspirée.
+
+Il va falloir attendre le XII<sup>ème</sup> siècle pour voir émerger de nouvelles tentatives de traductions en langue populaire. C'est [Vaudès](https://fr.wikipedia.org/wiki/Vaudès) (ou Pierre Valdo), un riche marchand lyonnais qui, désirant se consacrer au Seigneur suite à la mort d'un ami, vendit tous ses biens et finança la traduction de plusieurs livres de la Bible en francoprovençal. Vaudès s'opposait également à la distinction entre clergé et laïc, la doctrine de la [transsubstantiation](https://fr.wikipedia.org/wiki/Transsubstantiation) dans l'[eucharistie](https://fr.wikipedia.org/wiki/Eucharistie), l'attachement de l'Église au biens temporels, etc. Ce qui valu, à lui et ses disciples, d'être excomuniés en 1184 par le concile de Vérone. Il donna naissance à un mouvement appelé à ses débuts les « Pauvres de Lyon » et plus tard les « [Vaudois](https://fr.wikipedia.org/wiki/Église_évangélique_vaudoise) ».
+
+Ce sont ces mêmes vaudois qui, au XVI<sup>ème</sup> siècle, en se joignant à la Réforme protestante, vont également financer la première traduction française de la Bible basée sur les textes hébreux et grecs. C'est [Pierre Robert Olivétan](https://fr.wikipedia.org/wiki/Pierre_Robert_Olivétan), qui réalisera ce travail en se basant principalement sur les textes hébreux des Massorètes et le texte grec de Érasme. Elle sera publié en 1535.
+
+Cette Bible d'Olivétan accompagnera les réformateurs français, et sera révisée par Jean-Calvin et Théodore de Bèze en 1560 (Bible de l'Épée), par les frères Elzévir et des pasteurs de Genève en 1669 (Bible de Genève), par [David Martin](https://fr.wikipedia.org/wiki/David_Martin_%28théologien%29) en 1707 (Bible Martin), et par [Jean-Frédéric Ostervald](https://fr.wikipedia.org/wiki/Jean-Frédéric_Osterwald) en 1744.
+
+Parallèlement à ces Bibles authentiques, seront publiées des Bibles corrompues basées sur les manuscrits minoritaires. La plus connue et répandue étant celle du théologien libéral et impie, [Louis Segond](https://fr.wikipedia.org/wiki/Louis_Segond). Une autre version notable est celle de [John Nelson Darby](https://fr.wikipedia.org/wiki/John_Nelson_Darby) qui, malgré une traduction précise et littérale, se laissera influencer par la critique favorable aux texte minoritaires.
 
 <!-- Sources :
 « L'histoire merveilleuse de la transmission de la Bible, de sa rédaction à nos jours », Éditions Bibles et publications chrétiennes
