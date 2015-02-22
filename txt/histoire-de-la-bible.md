@@ -149,7 +149,7 @@ Ce sont ces mêmes vaudois qui, au XVI<sup>ème</sup> siècle, en se joignant à
 
 Cette Bible d'Olivétan accompagnera les réformateurs français, et sera révisée par Jean-Calvin et Théodore de Bèze en 1560 (Bible de l'Épée), par les frères Elzévir et des pasteurs de Genève en 1669 (Bible de Genève), par [David Martin](https://fr.wikipedia.org/wiki/David_Martin_%28théologien%29) en 1707 (Bible Martin), et par [Jean-Frédéric Ostervald](https://fr.wikipedia.org/wiki/Jean-Frédéric_Osterwald) en 1744.
 
-Parallèlement à ces Bibles authentiques, seront publiées des Bibles corrompues basées sur les manuscrits minoritaires. La plus connue et répandue étant celle du théologien libéral et impie, [Louis Segond](https://fr.wikipedia.org/wiki/Louis_Segond). Une autre version notable est celle de [John Nelson Darby](https://fr.wikipedia.org/wiki/John_Nelson_Darby) qui, malgré une traduction précise et littérale, se laissera influencer par la critique favorable aux texte minoritaires.
+<!--Parallèlement à ces Bibles authentiques, seront publiées des Bibles corrompues basées sur les manuscrits minoritaires. La plus connue et répandue étant celle du théologien libéral et impie, [Louis Segond](https://fr.wikipedia.org/wiki/Louis_Segond). Une autre version notable est celle de [John Nelson Darby](https://fr.wikipedia.org/wiki/John_Nelson_Darby) qui, malgré une traduction précise et littérale, se laissera influencer par la critique favorable aux texte minoritaires.-->
 
 <!-- Sources :
 « L'histoire merveilleuse de la transmission de la Bible, de sa rédaction à nos jours », Éditions Bibles et publications chrétiennes
