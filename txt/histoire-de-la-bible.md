@@ -22,7 +22,7 @@ C'est ainsi que depuis Moïse jusqu'à Jean, les paroles de Dieu ont été écri
 
 ## Constitution du canon biblique
 
-Le mot « [canon](https://fr.wikipedia.org/wiki/Canon_%28religion%29) », qui vient du grec KANON signifiant « règle, modèle », lui-même emprunté à l'hébreu QANEH « roseau, mesure, canne ». En raison du besoin évident de définir quels écrits étaient inspirés de Dieu ou non, les juifs dans un premier temps, et les chrétiens également par la suite, ont établis des listes de livres reconnus comme tels. C'est ce qui est appelé le « [canon biblique](https://fr.wikipedia.org/wiki/Canon_%28Bible%29) ».
+Le mot « [canon](https://fr.wikipedia.org/wiki/Canon_%28religion%29) », qui vient du grec KANON signifiant « règle, modèle », lui-même emprunté à l'hébreu QANEH « roseau, mesure, canne » (Philippiens 3:16). En raison du besoin évident de définir quels écrits étaient inspirés de Dieu ou non, les juifs dans un premier temps, et les chrétiens également par la suite, ont établis des listes de livres reconnus comme tels. C'est ce qui est appelé le « [canon biblique](https://fr.wikipedia.org/wiki/Canon_%28Bible%29) ».
 
 ### TaNaKh
 
