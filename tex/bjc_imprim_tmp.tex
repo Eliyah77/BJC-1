@@ -89,11 +89,11 @@
 \begin{document}
 % en-tête vide
 \makeatletter
-    \def\@evenhead{}
-    \def\@oddhead{}
+\def\@evenhead{}
+\def\@oddhead{}
 \makeatother
 % inclusion intro
-\input{bjc_2014/annexes/introduction}
+\clearpage\input{bjc_2014/annexes/introduction}
 % formatage sommaire
 \makeatletter
 \renewcommand\tableofcontents{
@@ -255,28 +255,34 @@
 \clearpage\input{bjc_2014/66-Apocalypse}
 \clearpage\input{bjc_2014/annexes/notes}
 % inclusion des annexes
-\addcontentsline{toc}{chapter}{Aide}\clearpage
+\addcontentsline{toc}{chapter}{Annexes}\clearpage
+% dictionnaire
 \addcontentsline{toc}{section}{Dictionnaire}\clearpage
-% annexe dictionnaire
 \makeatletter
-    % mise en forme dictionnaire
-    \def\@oddhead{{\small{\hfil\thepage\hfil}}}
-    \def\@evenhead{{\small{\hfil\thepage\hfil}}}\clearpage
-    \makeatother
-        % inclusion dictionnaire
-        \small{\parindent=0mm{\begin{center}\Large\bfseries{Dictionnaire}\end{center}}\par\input{bjc_2014/annexes/dictionnaire}\clearpage}\markboth{}{}
-    \makeatletter
-    % réinitialiser mise en forme
-    \def\@oddhead{\hfil\thepage\hfil}
-    \def\@evenhead{\hfil}
+% mise en forme dictionnaire
+\def\@oddhead{{\small{\hfil\thepage\hfil}}}
+\def\@evenhead{{\small{\hfil\thepage\hfil}}}\clearpage
 \makeatother
-% tableaux
+\small{\parindent=0mm{\begin{center}\Large\bfseries{Dictionnaire}\end{center}}\par
+\input{bjc_2014/annexes/dictionnaire}\clearpage
+}\markboth{}{}
+\makeatletter
+% réinitialiser mise en forme
+\def\@oddhead{{\small\hfil\thepage\hfil}}
+\def\@evenhead{{\small\hfil\thepage\hfil}}
+\makeatother
+% histoire bible
 \addcontentsline{toc}{section}{Histoire de la Bible}\clearpage
-\begin{center}Histoire de la Bible 1\end{center}\clearpage
-\begin{center}Histoire de la Bible 2\end{center}\clearpage
+\input{bjc_2014/annexes/histoire-bible}\clearpage
+\begin{center}Tableau Bibles\end{center}\clearpage
+% nom de dieu tetragramme
+\addcontentsline{toc}{section}{Le Nom de Dieu, le tétragramme YHWH}\clearpage
+\input{bjc_2014/annexes/tetragramme}\clearpage
+% denominations
 \addcontentsline{toc}{section}{Dénominations}\clearpage
 \begin{center}Dénominations 1\end{center}\clearpage
 \begin{center}Dénominations 2\end{center}\clearpage
+% doctrines
 \addcontentsline{toc}{section}{Doctrines}\clearpage
 \begin{center}Doctrines 1\end{center}\clearpage
 \begin{center}Doctrines 2\end{center}\clearpage
@@ -289,14 +295,19 @@
 \begin{center}Doctrines 9\end{center}\clearpage
 \begin{center}Doctrines 10\end{center}\clearpage
 \begin{center}Doctrines 11\end{center}\clearpage
+% monnaies
 \addcontentsline{toc}{section}{Monnaies}\clearpage
 \begin{center}Monnaies\end{center}\clearpage
+% longueurs / liquides
 \addcontentsline{toc}{section}{Longueurs / Liquides}\clearpage
 \begin{center}Longueurs / Liquides\end{center}\clearpage
+% poids
 \addcontentsline{toc}{section}{Poids}\clearpage
 \begin{center}Poids\end{center}\clearpage
+% fetes
 \addcontentsline{toc}{section}{Fêtes de Yahweh}\clearpage
 \begin{center}Fêtes de Yahweh\end{center}\clearpage
+% alphabet hebreu
 \addcontentsline{toc}{section}{Alphabet hébreu}\clearpage
 \begin{center}Alphabet hébreu\end{center}\clearpage
 \end{document}
