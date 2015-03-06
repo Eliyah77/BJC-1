@@ -255,11 +255,11 @@
 \clearpage\input{bjc_2014/66-Apocalypse}
 \clearpage\input{bjc_2014/annexes/notes}
 % inclusion des annexes
-\addcontentsline{toc}{chapter}{Annexes}\clearpage
+\addcontentsline{toc}{chapter}{Aides}\clearpage
 % dictionnaire
 \addcontentsline{toc}{section}{Dictionnaire}\clearpage
-\makeatletter
 % mise en forme dictionnaire
+\makeatletter
 \def\@oddhead{{\small{\hfil\thepage\hfil}}}
 \def\@evenhead{{\small{\hfil\thepage\hfil}}}\clearpage
 \makeatother
@@ -271,6 +271,11 @@
 \def\@oddhead{{\small\hfil\thepage\hfil}}
 \def\@evenhead{{\small\hfil\thepage\hfil}}
 \makeatother
+% concordance
+\addcontentsline{toc}{section}{Concordance}\clearpage
+\begin{center}Concordance\end{center}\clearpage
+% inclusion des annexes
+\addcontentsline{toc}{chapter}{Annexes}\pagenumbering{roman}\clearpage
 % histoire bible
 \addcontentsline{toc}{section}{Histoire de la Bible}\clearpage
 \input{bjc_2014/annexes/histoire-bible}\clearpage
