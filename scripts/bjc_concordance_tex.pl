@@ -22,7 +22,7 @@ my ($classe_mot,$conjug,$context);
 my $conjug_er = "(?:";
 	$conjug_er = $conjug_er."[est]|es|ai[est]?|[i]?ons|[i]?ez|(?:ai)?ent";
 	$conjug_er = $conjug_er."|é[e]?[s]?|ant[s]?|er(?:a(?:i|s)?[st]?|[i]?on[st]|[i]?ez|aient)?";
-	$conjug_er = $conjug_er."|(?:a(?:i|s)?|â(m|t)es|èrent)";
+	$conjug_er = $conjug_er."|(?:a(?:i|s)?|â(m|t)(?:es)?|èrent)";
 	$conjug_er = $conjug_er.")";
 	
 my $conjug_ir = "(?:";
