@@ -15,7 +15,7 @@ pdf/martin_1744.pdf: tex/martin_1744.tex tex/martin_1744/*.tex
 # BJC format eco imprim
 bjc_123x180: pdf/bjc_123x180.pdf
 
-pdf/bjc_123x180.pdf: tex/bjc_123x180.tex tex/bjc_2014/*.tex tex/bjc_2014/annexes/*.tex
+pdf/bjc_123x180.pdf: tex/bjc_123x180.tex tex/bjc/*.tex tex/bjc/annexes/*.tex
 	$(XELATEX) bjc_123x180
 	$(XELATEX) bjc_123x180
 	$(XELATEX) bjc_123x180
@@ -23,12 +23,17 @@ pdf/bjc_123x180.pdf: tex/bjc_123x180.tex tex/bjc_2014/*.tex tex/bjc_2014/annexes
 # BJC
 bjc: pdf/bjc.pdf
 
-pdf/bjc_tmp.pdf: tex/bjc.tex tex/bjc_2014/*.tex tex/bjc_2014/annexes/*.tex
+pdf/bjc_tmp.pdf: tex/bjc.tex tex/bjc/*.tex tex/bjc/annexes/*.tex
 	$(XELATEX) -jobname=bjc_tmp bjc
 	$(XELATEX) -jobname=bjc_tmp bjc
 	$(XELATEX) -jobname=bjc_tmp bjc
 
-pdf/bjc.pdf: pdf/bjc_tmp.pdf pdf/annexes/*.pdf
+pdf/bjc_tmp_annexes.pdf: tex/bjc_annexes.tex tex/bjc/annexes/*.tex
+	$(XELATEX) -jobname=bjc_tmp_annexes bjc_annexes
+	$(XELATEX) -jobname=bjc_tmp_annexes bjc_annexes
+	$(XELATEX) -jobname=bjc_tmp_annexes bjc_annexes
+
+pdf/bjc.pdf: pdf/bjc_tmp.pdf pdf/bjc_tmp_annexes.pdf pdf/annexes/*.pdf
 	pdftk \
 		pdf/entetes/1_* \
 		pdf/entetes/2_* \
@@ -65,7 +70,7 @@ pdf/bjc.pdf: pdf/bjc_tmp.pdf pdf/annexes/*.pdf
 		pdf/bjc_tmp.pdf \
 		cat 1280 output pdf/bjc_tmp_10_concordance.pdf
 	pdftk \
-		pdf/bjc_tmp.pdf \
+		pdf/bjc_tmp_annexes.pdf \
 		cat r33-r26 output pdf/bjc_tmp_11_annexes1.pdf
 	pdftk \
 		pdf/annexes/10_* \
@@ -119,8 +124,7 @@ pdf/bjc.pdf: pdf/bjc_tmp.pdf pdf/annexes/*.pdf
 		pdf/bjc_tmp.pdf \
 		update_info_utf8 pdf/bjc_toc.info \
 		output pdf/bjc.pdf
-	rm pdf/bjc_tmp_*
-	rm pdf/bjc_tmp.pdf
+	rm pdf/bjc_tmp*
 
 # supprime les fichiers généré par xelatex
 clean: pdf/*.aux pdf/*.log  pdf/*.toc

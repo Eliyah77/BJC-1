@@ -1,0 +1,110 @@
+%& -output-directory="../pdf"
+% type document & taille police
+\documentclass[11pt]{book}
+% package format document
+\usepackage[paperwidth=6.5in, paperheight=9.05in, top=0in, bottom=0in, left=0in, right=0in]{geometry}
+% formatage marges, etc.
+\setlength{\voffset}{-1in} % offset haut
+%\setlength{\hoffset}{-0.3in} % offset gauche
+\setlength{\topmargin}{0in} % marge en tête
+\setlength{\headsep}{0.2in} % marge header/body
+\setlength{\oddsidemargin}{-0.5in} % marge texte gauche
+\setlength{\evensidemargin}{-0.5in} % marge texte droite
+\setlength{\textheight}{8in} % hauteur du texte
+\setlength{\textwidth}{5.5in} % largeur du texte
+\setlength{\columnseprule}{0.4pt} % épaisseur séparateur colonne
+\setlength{\parskip}{0pt} % espace entre paragraphes
+% package pour afficher les cadres
+%\usepackage{showframe}
+% package langue
+\usepackage[francais]{babel}
+% package polices système
+\usepackage{fontspec}
+% définition police
+\setmainfont[Ligatures=TeX,Scale=0.95]{Liberation Serif}
+\setsansfont{Liberation Sans}
+\setmonofont{Liberation Mono}
+% package titlesec
+\usepackage{titlesec}
+% package multicolonne
+\usepackage{multicol}
+% package liens cliquables
+\usepackage[xetex]{hyperref}
+% package inclusion copyright (dépandant de hyperref)
+\usepackage{hyperxmp}
+% copyright
+\hypersetup{
+pdfauthor = {ANJC Productions},
+pdftitle = {Bible de Jésus-Christ},
+pdfkeywords = {BJC, Bible, Jesus},
+pdfcopyright = {ANJC Productions. Distribution et Diffusion Libre - Pas d'Utilisation Commerciale - Pas de Dénaturation de l'Œuvre - International},
+pdflicenseurl = {http://www.bibledejesuschrist.org/}
+}
+% ???
+\setcounter{collectmore}{-1}
+% style
+\pagestyle{myheadings}
+% ???
+\sloppy\hyphenpenalty=2000
+% debut document
+\begin{document}
+% réinitialiser mise en forme
+\makeatletter
+\def\@oddhead{\hfil}
+\def\@evenhead{\hfil}
+\def\@oddfoot{{\small\hfil\thepage\hfil}}
+\def\@evenfoot{{\small\hfil\thepage\hfil}}
+\makeatother
+% inclusion des annexes
+\addcontentsline{toc}{chapter}{Annexes}\pagenumbering{Roman}\clearpage
+\begin{center}Annexes\end{center}\clearpage
+% nom de dieu tetragramme
+\addcontentsline{toc}{section}{Le Nom de Dieu, le tétragramme YHWH}\clearpage
+\input{bjc/annexes/tetragramme}\clearpage
+% histoire bible
+\addcontentsline{toc}{section}{Histoire de la Bible}\clearpage
+\input{bjc/annexes/histoire-bible}\clearpage
+\begin{center}Tableau Bibles\end{center}\clearpage
+% conciles & pères
+\addcontentsline{toc}{section}{Conciles et Pères de l'Eglise}\clearpage
+\begin{center}Conciles et Pères de l'Eglise 1\end{center}\clearpage
+\begin{center}Conciles et Pères de l'Eglise 2\end{center}\clearpage
+\begin{center}Conciles et Pères de l'Eglise 3\end{center}\clearpage
+\begin{center}Conciles et Pères de l'Eglise 4\end{center}\clearpage
+\begin{center}Conciles et Pères de l'Eglise 5\end{center}\clearpage
+% denominations
+\addcontentsline{toc}{section}{Dénominations}\clearpage
+\begin{center}Dénominations 1\end{center}\clearpage
+\begin{center}Dénominations 2\end{center}\clearpage
+% doctrines
+\addcontentsline{toc}{section}{Fausses doctrines}\clearpage
+\begin{center}Doctrines 1\end{center}\clearpage
+\begin{center}Doctrines 2\end{center}\clearpage
+\begin{center}Doctrines 3\end{center}\clearpage
+\begin{center}Doctrines 4\end{center}\clearpage
+\begin{center}Doctrines 5\end{center}\clearpage
+\begin{center}Doctrines 6\end{center}\clearpage
+\begin{center}Doctrines 7\end{center}\clearpage
+\begin{center}Doctrines 8\end{center}\clearpage
+\begin{center}Doctrines 9\end{center}\clearpage
+\begin{center}Doctrines 10\end{center}\clearpage
+\begin{center}Doctrines 11\end{center}\clearpage
+% monnaies
+\addcontentsline{toc}{section}{Monnaies}\clearpage
+\begin{center}Monnaies\end{center}\clearpage
+% longueurs / liquides
+\addcontentsline{toc}{section}{Longueurs / Liquides}\clearpage
+\begin{center}Longueurs / Liquides\end{center}\clearpage
+% poids
+\addcontentsline{toc}{section}{Poids}\clearpage
+\begin{center}Poids\end{center}\clearpage
+% fetes
+\addcontentsline{toc}{section}{Fêtes de Yahweh}\clearpage
+\begin{center}Fêtes de Yahweh\end{center}\clearpage
+% alphabet hebreu
+\addcontentsline{toc}{section}{Alphabet hébreu}\clearpage
+\begin{center}Alphabet hébreu\end{center}\clearpage
+% chrono jesus
+\addcontentsline{toc}{section}{Chronologie autour de Jésus-Christ}\clearpage
+\begin{center}Chronologie autour de Jésus-Christ\end{center}\clearpage
+\end{document}
