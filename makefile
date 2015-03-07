@@ -1,8 +1,8 @@
 # options de compilation
 XELATEX ?= cd tex/ ; xelatex --output-directory=../pdf/
 
-# Toutes
-all: martin_1744 bjc bjc_123x180
+# Toutes (limité à la BJC seule)
+all: bjc
 
 # Martin 1774
 martin_1744: pdf/martin_1744.pdf
@@ -20,7 +20,7 @@ pdf/bjc_123x180.pdf: tex/bjc_123x180.tex tex/bjc_2014/*.tex tex/bjc_2014/annexes
 	$(XELATEX) bjc_123x180
 	$(XELATEX) bjc_123x180
 
-# BJC format imprim
+# BJC
 bjc: pdf/bjc.pdf
 
 pdf/bjc_tmp.pdf: tex/bjc.tex tex/bjc_2014/*.tex tex/bjc_2014/annexes/*.tex
@@ -29,9 +29,6 @@ pdf/bjc_tmp.pdf: tex/bjc.tex tex/bjc_2014/*.tex tex/bjc_2014/annexes/*.tex
 	$(XELATEX) -jobname=bjc_tmp bjc
 
 pdf/bjc.pdf: pdf/bjc_tmp.pdf pdf/annexes/*.pdf
-	pdftk pdf/bjc_tmp.pdf \
-		cat 1-r26 \
-		output pdf/bjc_cut.pdf
 	pdftk \
 		pdf/entetes/1_* \
 		pdf/entetes/2_* \
@@ -39,7 +36,38 @@ pdf/bjc.pdf: pdf/bjc_tmp.pdf pdf/annexes/*.pdf
 		pdf/entetes/4_* \
 		pdf/entetes/5_* \
 		pdf/entetes/6_* \
-		pdf/bjc_cut.pdf \
+		cat output pdf/bjc_tmp_1_entetes.pdf
+	pdftk \
+		pdf/bjc_tmp.pdf \
+		cat 1-2 output pdf/bjc_tmp_2_intro.pdf
+	pdftk \
+		pdf/bjc_tmp.pdf \
+		cat 3 output pdf/bjc_tmp_3_sommaire.pdf
+	pdftk \
+		pdf/bjc_tmp.pdf \
+		cat 5-219 output pdf/bjc_tmp_4_torah.pdf
+	pdftk \
+		pdf/bjc_tmp.pdf \
+		cat 221-631 output pdf/bjc_tmp_5_neviim.pdf
+	pdftk \
+		pdf/bjc_tmp.pdf \
+		cat 633-908 output pdf/bjc_tmp_6_ketouvim.pdf
+	pdftk \
+		pdf/bjc_tmp.pdf \
+		cat 910-1042 output pdf/bjc_tmp_7_evangiles.pdf
+	pdftk \
+		pdf/bjc_tmp.pdf \
+		cat 1044-1238 output pdf/bjc_tmp_8_testament.pdf
+	pdftk \
+		pdf/bjc_tmp.pdf \
+		cat 1241-1279 output pdf/bjc_tmp_9_dico.pdf
+	pdftk \
+		pdf/bjc_tmp.pdf \
+		cat 1280 output pdf/bjc_tmp_10_concordance.pdf
+	pdftk \
+		pdf/bjc_tmp.pdf \
+		cat r33-r26 output pdf/bjc_tmp_11_annexes1.pdf
+	pdftk \
 		pdf/annexes/10_* \
 		pdf/annexes/11_* \
 		pdf/annexes/12_* \
@@ -65,12 +93,37 @@ pdf/bjc.pdf: pdf/bjc_tmp.pdf pdf/annexes/*.pdf
 		pdf/annexes/32_* \
 		pdf/annexes/33_* \
 		pdf/annexes/34_* \
-		cat output pdf/bjc.pdf
-	rm pdf/bjc_cut.pdf
+		cat output pdf/bjc_tmp_12_annexes2.pdf
+	pdftk \
+		pdf/bjc_tmp_1_* \
+		pdf/bjc_tmp_2_* \
+		pdf/bjc_tmp_3_* \
+		pdf/entetes/Torah.pdf \
+		pdf/bjc_tmp_4_* \
+		pdf/entetes/Neviim.pdf \
+		pdf/bjc_tmp_5_* \
+		pdf/entetes/Ketouvim.pdf \
+		pdf/bjc_tmp_6_* \
+		pdf/entetes/Evangiles.pdf \
+		pdf/bjc_tmp_7_* \
+		pdf/entetes/Testament_de_Jesus.pdf \
+		pdf/bjc_tmp_8_* \
+		pdf/entetes/Aide.pdf \
+		pdf/bjc_tmp_9_* \
+		pdf/bjc_tmp_10_* \
+		pdf/entetes/Annexes.pdf \
+		pdf/bjc_tmp_11_* \
+		pdf/bjc_tmp_12_* \
+		cat output pdf/bjc_tmp.pdf
+	pdftk \
+		pdf/bjc_tmp.pdf \
+		update_info_utf8 pdf/bjc_toc.info \
+		output pdf/bjc.pdf
+	rm pdf/bjc_tmp_*
 	rm pdf/bjc_tmp.pdf
 
 # supprime les fichiers généré par xelatex
-clean: pdf/*.aux pdf/*.log pdf/*.out pdf/*.toc
+clean: pdf/*.aux pdf/*.log  pdf/*.toc
 	rm -rf pdf/*.aux
 	rm -rf pdf/*.log
 	rm -rf pdf/*.out
