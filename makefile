@@ -65,13 +65,13 @@ pdf/bjc.pdf: pdf/bjc_tmp.pdf pdf/bjc_tmp_annexes.pdf pdf/annexes/*.pdf
 		cat 1044-1238 output pdf/bjc_tmp_8_testament.pdf
 	pdftk \
 		pdf/bjc_tmp.pdf \
-		cat 1241-1279 output pdf/bjc_tmp_9_dico.pdf
+		cat 1240-1279 output pdf/bjc_tmp_9_dico.pdf
 	pdftk \
 		pdf/bjc_tmp.pdf \
 		cat 1280 output pdf/bjc_tmp_10_concordance.pdf
 	pdftk \
 		pdf/bjc_tmp_annexes.pdf \
-		cat r33-r26 output pdf/bjc_tmp_11_annexes1.pdf
+		cat r34-r27 output pdf/bjc_tmp_11_annexes1.pdf
 	pdftk \
 		pdf/annexes/10_* \
 		pdf/annexes/11_* \
