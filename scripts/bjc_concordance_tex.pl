@@ -7,7 +7,7 @@ use utf8;
 # use 5.016;
 
 # Fichiers
-my $name = 'bjc_2014';
+my $name = 'bjc';
 my $entree = "../unb/".$name.".txt";
 my $sortie = "../tex/concordance/".$name."_concordance.tex";
 my $liste_mots = "../txt/mots.txt";
