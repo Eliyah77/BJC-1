@@ -1,6 +1,5 @@
 #!/usr/bin/perl
 
-
 use strict;
 use warnings;
 use utf8;
@@ -9,7 +8,7 @@ use utf8;
 # Fichiers
 my $name = 'bjc';
 my $entree = "../unb/".$name.".txt";
-my $sortie = "../tex/concordance/".$name."_concordance.tex";
+my $sortie = "../tex/bjc/annexes/concordance.tex";
 my $liste_mots = "../txt/mots.txt";
 my $notmatched = "../txt/wordsnotmatched.txt";
 my (%concordance, @BJCbooks, @mots, @verserefs);
