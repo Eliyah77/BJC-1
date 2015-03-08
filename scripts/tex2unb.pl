@@ -5,7 +5,7 @@ use strict;
 use warnings;
 
 # variables
-my $name = 'bjc_2014';
+my $name = 'bjc';
 my $src_dir = '../tex/'.$name;
 my $dst_file = '../unb/'.$name.'.txt';
 my ($src_dh, $src_fh, $dst_fh, $output);
