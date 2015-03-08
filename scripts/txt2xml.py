@@ -83,7 +83,7 @@ chdir(src_dir)
 list_files = sorted(glob('*.txt'))
 
 # output file
-out_file = '../../xml/bjc_2014.xml'
+out_file = '../../xml/bjc.xml'
 data_w = open(out_file,'w')
 
 # print header

@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 # lister chaque fichiers tex
-my @books = <../tex/bjc_2014/*.tex>;
+my @books = <../tex/bjc/*.tex>;
 
 # parcourir chaque livre listé
 foreach my $book (@books) {

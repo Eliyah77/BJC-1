@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TEX='../tex/bjc_2014/*.tex'
+TEX='../tex/bjc/*.tex'
 
 # guillemets
 sed -i 's/« /«~/g' $TEX
