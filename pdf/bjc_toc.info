@@ -234,7 +234,7 @@ BookmarkPageNumber: 1124
 BookmarkBegin
 BookmarkTitle: Romains
 BookmarkLevel: 2
-BookmarkPageNumber: 1134
+BookmarkPageNumber: 1135
 BookmarkBegin
 BookmarkTitle: Ephésiens
 BookmarkLevel: 2
@@ -310,56 +310,60 @@ BookmarkPageNumber: 1286
 BookmarkBegin
 BookmarkTitle: Annexes
 BookmarkLevel: 1
-BookmarkPageNumber: 1287
+BookmarkPageNumber: 1429
 BookmarkBegin
 BookmarkTitle: Le Nom de Dieu, le tétragramme YHWH
 BookmarkLevel: 2
-BookmarkPageNumber: 1288
+BookmarkPageNumber: 1430
 BookmarkBegin
 BookmarkTitle: Histoire de la Bible
 BookmarkLevel: 2
-BookmarkPageNumber: 1290
+BookmarkPageNumber: 1432
+BookmarkBegin
+BookmarkTitle: Les différentes traductions de la Bible
+BookmarkLevel: 2
+BookmarkPageNumber: 1438
 BookmarkBegin
 BookmarkTitle: Conciles et Pères de l'Eglise
 BookmarkLevel: 2
-BookmarkPageNumber: 1297
+BookmarkPageNumber: 1439
 BookmarkBegin
 BookmarkTitle: Dénominations
 BookmarkLevel: 2
-BookmarkPageNumber: 1302
+BookmarkPageNumber: 1444
 BookmarkBegin
 BookmarkTitle: Fausses doctrines
 BookmarkLevel: 2
-BookmarkPageNumber: 1304
+BookmarkPageNumber: 1446
 BookmarkBegin
 BookmarkTitle: Monnaies
 BookmarkLevel: 2
-BookmarkPageNumber: 1315
+BookmarkPageNumber: 1457
 BookmarkBegin
 BookmarkTitle: Longueurs / Liquides
 BookmarkLevel: 2
-BookmarkPageNumber: 1316
+BookmarkPageNumber: 1458
 BookmarkBegin
 BookmarkTitle: Poids
 BookmarkLevel: 2
-BookmarkPageNumber: 1317
+BookmarkPageNumber: 1459
 BookmarkBegin
 BookmarkTitle: Fêtes de Yahweh
 BookmarkLevel: 2
-BookmarkPageNumber: 1318
+BookmarkPageNumber: 1460
 BookmarkBegin
 BookmarkTitle: Alphabet hébreu
 BookmarkLevel: 2
-BookmarkPageNumber: 1319
+BookmarkPageNumber: 1461
 BookmarkBegin
 BookmarkTitle: Chronologie autour de Jésus-Christ
 BookmarkLevel: 2
-BookmarkPageNumber: 1320
+BookmarkPageNumber: 1462
 PageLabelBegin
 PageLabelNewIndex: 1
 PageLabelStart: 1
 PageLabelNumStyle: DecimalArabicNumerals
 PageLabelBegin
-PageLabelNewIndex: 1287
+PageLabelNewIndex: 1429
 PageLabelStart: 1
 PageLabelNumStyle: UppercaseRomanNumerals

@@ -23,17 +23,16 @@ pdf/bjc_123x180.pdf: tex/bjc_123x180.tex tex/bjc/*.tex tex/bjc/annexes/*.tex
 # BJC
 bjc: pdf/bjc.pdf
 
-pdf/bjc_tmp.pdf: tex/bjc.tex tex/bjc/*.tex tex/bjc/annexes/*.tex
-	$(XELATEX) -jobname=bjc_tmp bjc
-	$(XELATEX) -jobname=bjc_tmp bjc
-	$(XELATEX) -jobname=bjc_tmp bjc
+bjc_concordance: tex/bjc/*.tex
+	perl scripts/bjc_concordance_tex.pl
 
-pdf/bjc_tmp_annexes.pdf: tex/bjc_annexes.tex tex/bjc/annexes/*.tex
-	$(XELATEX) -jobname=bjc_tmp_annexes bjc_annexes
-	$(XELATEX) -jobname=bjc_tmp_annexes bjc_annexes
-	$(XELATEX) -jobname=bjc_tmp_annexes bjc_annexes
-
-pdf/bjc.pdf: pdf/bjc_tmp.pdf pdf/bjc_tmp_annexes.pdf pdf/annexes/*.pdf
+pdf/bjc.pdf: tex/bjc.tex tex/bjc/*.tex tex/bjc/entetes/*.tex tex/bjc/aides/*.tex tex/bjc/annexes/*.tex pdf/entetes/*.pdf pdf/annexes/*.pdf
+	$(XELATEX) -jobname=bjc_tmp bjc
+	$(XELATEX) -jobname=bjc_tmp bjc
+	$(XELATEX) -jobname=bjc_tmp bjc
+	$(XELATEX) -jobname=bjc_tmp_annexes bjc/annexes/bjc_annexes
+	$(XELATEX) -jobname=bjc_tmp_annexes bjc/annexes/bjc_annexes
+	$(XELATEX) -jobname=bjc_tmp_annexes bjc/annexes/bjc_annexes
 	pdftk \
 		pdf/entetes/1_* \
 		pdf/entetes/2_* \
@@ -68,7 +67,7 @@ pdf/bjc.pdf: pdf/bjc_tmp.pdf pdf/bjc_tmp_annexes.pdf pdf/annexes/*.pdf
 		cat 1240-1279 output pdf/bjc_tmp_9_dico.pdf
 	pdftk \
 		pdf/bjc_tmp.pdf \
-		cat 1280 output pdf/bjc_tmp_10_concordance.pdf
+		cat 1280-r35 output pdf/bjc_tmp_10_concordance.pdf
 	pdftk \
 		pdf/bjc_tmp_annexes.pdf \
 		cat r34-r27 output pdf/bjc_tmp_11_annexes1.pdf
@@ -124,6 +123,7 @@ pdf/bjc.pdf: pdf/bjc_tmp.pdf pdf/bjc_tmp_annexes.pdf pdf/annexes/*.pdf
 		pdf/bjc_tmp.pdf \
 		update_info_utf8 pdf/bjc_toc.info \
 		output pdf/bjc.pdf
+	mv pdf/bjc_tmp_9_dico.pdf pdf/bjc_dico.pdf
 	rm pdf/bjc_tmp*
 
 # supprime les fichiers généré par xelatex

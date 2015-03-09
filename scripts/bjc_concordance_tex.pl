@@ -4,13 +4,15 @@ use strict;
 use warnings;
 use utf8;
 # use 5.016;
+use File::Basename;
 
 # Fichiers
 my $name = 'bjc';
-my $entree = "../unb/".$name.".txt";
-my $sortie = "../tex/bjc/annexes/concordance.tex";
-my $liste_mots = "../txt/mots.txt";
-my $notmatched = "../txt/wordsnotmatched.txt";
+my $dirname = dirname(__FILE__);
+my $entree = "$dirname/../unb/".$name.".txt";
+my $sortie = "$dirname/../tex/bjc/aides/concordance.tex";
+my $liste_mots = "$dirname/../txt/mots.txt";
+my $notmatched = "$dirname/../txt/wordsnotmatched.txt";
 my (%concordance, @BJCbooks, @mots, @verserefs);
 my $int_after;
 my $int_before;

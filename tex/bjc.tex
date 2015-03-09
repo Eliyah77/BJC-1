@@ -28,6 +28,9 @@
 \usepackage{titlesec}
 % package multicolonne
 \usepackage{multicol}
+% package utiles à la concordance
+\usepackage{enumitem}
+\usepackage{calc}
 % package liens cliquables
 \usepackage[xetex]{hyperref}
 % package inclusion copyright (dépandant de hyperref)
@@ -81,6 +84,12 @@
 \newcommand{\TextDial}[1]{{\scriptsize[\textit{#1}]}}
 % dictionnaire
 \newcommand{\DicoEntry}[1]{\smallskip\parindent=0mm{\textbf{#1}}\markboth{#1}{#1}}
+% concordance
+\newcommand{\ConcordanceEntry}[1]{\smallskip\parindent=0mm{\textbf{#1}\newline}\markboth{#1}{#1}}
+\newlist{listverse}{description}{1}
+\setlist[listverse]{nosep, noitemsep, topsep=0pt,leftmargin=!,labelwidth=\widthof{1 Ch 33:10},font=\normalfont}
+\newlist{legend}{itemize}{1}
+\setlist[legend]{label=.,font=\small,nosep, noitemsep, topsep=0pt, leftmargin=*,align=left}
 % commandes diverses
 \newcommand{\BFont}{\normalfont\small}
 \newcommand{\PP}{\par\parindent=0mm}
@@ -113,147 +122,147 @@
 % inclusion des livres
 \addcontentsline{toc}{chapter}{Tanakh}\pagenumbering{arabic}\clearpage
 \addcontentsline{toc}{section}{Torah (Loi)}\clearpage
-\clearpage\input{bjc/annexes/torah}
+\clearpage\input{bjc/entetes/torah}
 \clearpage\input{bjc/01-Genese}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/02-Exode}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/03-Levitique}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/04-Nombres}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/05-Deuteronome}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \addcontentsline{toc}{section}{Nevi'im (Prophètes)}\clearpage
-\clearpage\input{bjc/annexes/neviim}
+\clearpage\input{bjc/entetes/neviim}
 \clearpage\input{bjc/06-Josue}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/07-Juges}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/09-1Samuel}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/10-2Samuel}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/11-1Rois}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/12-2Rois}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/23-Esaie}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/24-Jeremie}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/26-Ezechiel}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/28-Osee}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/29-Joel}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/30-Amos}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/31-Abdias}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/32-Jonas}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/33-Michee}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/34-Nahum}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/35-Habakuk}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/36-Sophonie}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/37-Aggee}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/38-Zacharie}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/39-Malachie}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \addcontentsline{toc}{section}{Ketouvim (Ecrits)}\clearpage
-\clearpage\input{bjc/annexes/ketouvim}
+\clearpage\input{bjc/entetes/ketouvim}
 \clearpage\input{bjc/19-Psaumes}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/20-Proverbes}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/18-Job}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/22-Cantiques}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/08-Ruth}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/25-Lamentations}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/21-Ecclesiaste}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/17-Esther}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/27-Daniel}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/15-Esdras}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/16-Nehemie}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/13-1Chroniques}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/14-2Chroniques}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \addcontentsline{toc}{chapter}{Evangiles}\clearpage
-\clearpage\input{bjc/annexes/evangiles}
+\clearpage\input{bjc/entetes/evangiles}
 \clearpage\input{bjc/40-Matthieu}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/41-Marc}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/42-Luc}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/43-Jean}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \addcontentsline{toc}{chapter}{Testament de Jésus}\clearpage
-\clearpage\input{bjc/annexes/testament}
+\clearpage\input{bjc/entetes/testament}
 \clearpage\input{bjc/44-Actes}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/59-Jacques}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/48-Galates}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/52-1Thessaloniciens}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/53-2Thessaloniciens}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/46-1Corinthiens}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/47-2Corinthiens}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/45-Romains}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/49-Ephesiens}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/50-Philippiens}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/51-Colossiens}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/57-Philemon}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/54-1Timothee}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/56-Tite}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/60-1Pierre}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/61-2Pierre}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/55-2Timothee}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/65-Jude}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/58-Hebreux}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/62-1Jean}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/63-2Jean}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/64-3Jean}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 \clearpage\input{bjc/66-Apocalypse}
-\clearpage\input{bjc/annexes/notes}
+\clearpage\input{bjc/entetes/notes}
 % inclusion des annexes
 \addcontentsline{toc}{chapter}{Aides}\clearpage
 \begin{center}Aides\end{center}\clearpage
@@ -265,16 +274,23 @@
 \def\@evenhead{{\small{\hfil\thepage\hfil}}}\clearpage
 \makeatother
 \small{\parindent=0mm{\begin{center}\Large\bfseries{Dictionnaire}\end{center}}\par
-\input{bjc/annexes/dictionnaire}\clearpage
+\input{bjc/aides/dictionnaire}\clearpage
+}\markboth{}{}
+% concordance
+\addcontentsline{toc}{section}{Concordance}\clearpage
+% mise en forme concordance
+\makeatletter
+\def\@oddhead{{\small{Concordance\hfil\thepage\hfil\rightmark---\leftmark}}}
+\def\@evenhead{{\small{\rightmark---\leftmark\hfil\thepage\hfil Concordance}}}
+\makeatother
+\small{\parindent=0mm{\begin{center}\Large\bfseries{Concordance}\end{center}}\par
+\input{bjc/aides/concordance}\clearpage
 }\markboth{}{}
 % réinitialiser mise en forme
 \makeatletter
 \def\@oddhead{{\small\hfil\thepage\hfil}}
 \def\@evenhead{{\small\hfil\thepage\hfil}}
 \makeatother
-% concordance
-\addcontentsline{toc}{section}{Concordance}\clearpage
-\begin{center}Concordance\end{center}\clearpage
 % inclusion des annexes
 \addcontentsline{toc}{chapter}{Annexes}\pagenumbering{Roman}\clearpage
 \begin{center}Annexes\end{center}\clearpage
@@ -284,6 +300,7 @@
 % histoire bible
 \addcontentsline{toc}{section}{Histoire de la Bible}\clearpage
 \input{bjc/annexes/histoire-bible}\clearpage
+\addcontentsline{toc}{section}{Les différentes traductions de la Bible}\clearpage
 \begin{center}Tableau Bibles\end{center}\clearpage
 % conciles & pères
 \addcontentsline{toc}{section}{Conciles et Pères de l'Eglise}\clearpage
