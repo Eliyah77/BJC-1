@@ -30,6 +30,9 @@ pdf/bjc.pdf: tex/bjc.tex tex/bjc/*.tex tex/bjc/entetes/*.tex tex/bjc/aides/*.tex
 	$(XELATEX) -jobname=bjc_tmp bjc
 	$(XELATEX) -jobname=bjc_tmp bjc
 	$(XELATEX) -jobname=bjc_tmp bjc
+	$(XELATEX) -jobname=bjc_tmp_10_concordance bjc/aides/bjc_concordance
+	$(XELATEX) -jobname=bjc_tmp_10_concordance bjc/aides/bjc_concordance
+	$(XELATEX) -jobname=bjc_tmp_10_concordance bjc/aides/bjc_concordance
 	$(XELATEX) -jobname=bjc_tmp_annexes bjc/annexes/bjc_annexes
 	$(XELATEX) -jobname=bjc_tmp_annexes bjc/annexes/bjc_annexes
 	$(XELATEX) -jobname=bjc_tmp_annexes bjc/annexes/bjc_annexes
@@ -49,25 +52,22 @@ pdf/bjc.pdf: tex/bjc.tex tex/bjc/*.tex tex/bjc/entetes/*.tex tex/bjc/aides/*.tex
 		cat 3 output pdf/bjc_tmp_3_sommaire.pdf
 	pdftk \
 		pdf/bjc_tmp.pdf \
-		cat 5-219 output pdf/bjc_tmp_4_torah.pdf
+		cat 5-214 output pdf/bjc_tmp_4_torah.pdf
 	pdftk \
 		pdf/bjc_tmp.pdf \
-		cat 221-631 output pdf/bjc_tmp_5_neviim.pdf
+		cat 216-605 output pdf/bjc_tmp_5_neviim.pdf
 	pdftk \
 		pdf/bjc_tmp.pdf \
-		cat 633-908 output pdf/bjc_tmp_6_ketouvim.pdf
+		cat 607-869 output pdf/bjc_tmp_6_ketouvim.pdf
 	pdftk \
 		pdf/bjc_tmp.pdf \
-		cat 910-1042 output pdf/bjc_tmp_7_evangiles.pdf
+		cat 871-999 output pdf/bjc_tmp_7_evangiles.pdf
 	pdftk \
 		pdf/bjc_tmp.pdf \
-		cat 1044-1238 output pdf/bjc_tmp_8_testament.pdf
+		cat 1001-1173 output pdf/bjc_tmp_8_testament.pdf
 	pdftk \
 		pdf/bjc_tmp.pdf \
-		cat 1240-1279 output pdf/bjc_tmp_9_dico.pdf
-	pdftk \
-		pdf/bjc_tmp.pdf \
-		cat 1280-r35 output pdf/bjc_tmp_10_concordance.pdf
+		cat 1175-r36 output pdf/bjc_tmp_9_dico.pdf
 	pdftk \
 		pdf/bjc_tmp_annexes.pdf \
 		cat r34-r27 output pdf/bjc_tmp_11_annexes1.pdf
@@ -114,7 +114,7 @@ pdf/bjc.pdf: tex/bjc.tex tex/bjc/*.tex tex/bjc/entetes/*.tex tex/bjc/aides/*.tex
 		pdf/bjc_tmp_8_* \
 		pdf/entetes/Aide.pdf \
 		pdf/bjc_tmp_9_* \
-		pdf/bjc_tmp_10_* \
+		pdf/bjc_tmp_10_*.pdf \
 		pdf/entetes/Annexes.pdf \
 		pdf/bjc_tmp_11_* \
 		pdf/bjc_tmp_12_* \
@@ -123,7 +123,7 @@ pdf/bjc.pdf: tex/bjc.tex tex/bjc/*.tex tex/bjc/entetes/*.tex tex/bjc/aides/*.tex
 		pdf/bjc_tmp.pdf \
 		update_info_utf8 pdf/bjc_toc.info \
 		output pdf/bjc.pdf
-	mv pdf/bjc_tmp_9_dico.pdf pdf/bjc_dico.pdf
+#	mv pdf/bjc_tmp_9_dico.pdf pdf/bjc_dico.pdf
 	rm pdf/bjc_tmp*
 
 # supprime les fichiers généré par xelatex
