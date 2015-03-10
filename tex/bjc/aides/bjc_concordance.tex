@@ -1,0 +1,75 @@
+%& -output-directory="../../../pdf"
+% type document & taille police
+\documentclass[11pt]{book}
+% package format document
+\usepackage[paperwidth=6.5in, paperheight=9.05in, top=0in, bottom=0in, left=0in, right=0in]{geometry}
+% formatage marges, etc.
+\setlength{\voffset}{-0.7in} % offset haut
+%\setlength{\hoffset}{-0.3in} % offset gauche
+\setlength{\topmargin}{0in} % marge en tête
+\setlength{\headsep}{0.2in} % marge header/body
+\setlength{\oddsidemargin}{-0.7in} % marge texte gauche
+\setlength{\evensidemargin}{-0.7in} % marge texte droite
+\setlength{\textheight}{8in} % hauteur du texte
+\setlength{\textwidth}{5.9in} % largeur du texte
+\setlength{\columnseprule}{0.4pt} % épaisseur séparateur colonne
+\setlength{\parskip}{0pt} % espace entre paragraphes
+% package pour afficher les cadres
+%\usepackage{showframe}
+% package langue
+\usepackage[francais]{babel}
+% package polices système
+\usepackage{fontspec}
+% définition police
+\setmainfont[Ligatures=TeX,Scale=0.95]{Liberation Serif}
+\setsansfont{Liberation Sans}
+\setmonofont{Liberation Mono}
+% package titlesec
+\usepackage{titlesec}
+% package multicolonne
+\usepackage{multicol}
+% package liens cliquables
+\usepackage[xetex]{hyperref}
+% package inclusion copyright (dépandant de hyperref)
+\usepackage{hyperxmp}
+% copyright
+\hypersetup{
+pdfauthor = {ANJC Productions},
+pdftitle = {Bible de Jésus-Christ},
+pdfkeywords = {BJC, Bible, Jesus},
+pdfcopyright = {ANJC Productions. Distribution et Diffusion Libre - Pas d'Utilisation Commerciale - Pas de Dénaturation de l'Œuvre - International},
+pdflicenseurl = {http://www.bibledejesuschrist.org/}
+}
+% ???
+\setcounter{collectmore}{-1}
+% style
+\pagestyle{myheadings}
+% ???
+\sloppy\hyphenpenalty=2000
+% commandes concordance
+\usepackage{enumitem}
+\usepackage{calc}
+\newcommand{\ConcordanceEntry}[1]{\smallskip\parindent=0mm{\textbf{#1}\newline}\markboth{#1}{#1}}
+\newlist{listverse}{description}{1}
+\setlist[listverse]{nosep, noitemsep, topsep=0pt,leftmargin=!,labelwidth=\widthof{1 Ch 33:10},font=\normalfont}
+\newlist{legend}{itemize}{1}
+\setlist[legend]{label=.,font=\small,nosep, noitemsep, topsep=0pt, leftmargin=*,align=left}
+\newcommand{\vref}[1]{\NoAutoSpaceBeforeFDP{#1}}
+% debut document
+\begin{document}
+% numéro de page de départ (défini à partir du sommaire généré par bjc.tex)
+\setcounter{page}{1212}
+% mise en forme concordance
+\makeatletter
+\def\@oddhead{{\small{Concordance\hfil\thepage\hfil\rightmark---\leftmark}}}
+\def\@evenhead{{\small{\rightmark---\leftmark\hfil\thepage\hfil Concordance}}}
+\makeatother
+\small{\parindent=0mm{\begin{center}\Large\bfseries{Concordance}\end{center}}\par
+\input{bjc/aides/concordance}\clearpage
+}\markboth{}{}
+% réinitialiser mise en forme
+\makeatletter
+\def\@oddhead{{\small\hfil\thepage\hfil}}
+\def\@evenhead{{\small\hfil\thepage\hfil}}
+\makeatother
+\end{document}
