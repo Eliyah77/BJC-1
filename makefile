@@ -125,6 +125,19 @@ pdf/bjc.pdf: tex/bjc.tex tex/bjc/*.tex tex/bjc/entetes/*.tex tex/bjc/aides/*.tex
 		output pdf/bjc.pdf
 	rm pdf/bjc_tmp*
 
+bjc_imprim: pdf/bjc_imprim.pdf
+
+pdf/bjc_imprim.pdf: pdf/bjc.pdf
+	pdftk \
+		pdf/bjc.pdf \
+		cat 1-1372 1373-1385east 1386-end \
+		output pdf/bjc_tmp_imprim.pdf
+	pdftk \
+		pdf/bjc_tmp_imprim.pdf \
+		update_info_utf8 pdf/bjc_toc.info \
+		output pdf/bjc_imprim.pdf
+		rm pdf/bjc_tmp*
+
 # supprime les fichiers généré par xelatex
 clean: pdf/*.aux pdf/*.log  pdf/*.toc
 	rm -rf pdf/*.aux
