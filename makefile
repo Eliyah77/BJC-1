@@ -123,7 +123,6 @@ pdf/bjc.pdf: tex/bjc.tex tex/bjc/*.tex tex/bjc/entetes/*.tex tex/bjc/aides/*.tex
 		pdf/bjc_tmp.pdf \
 		update_info_utf8 pdf/bjc_toc.info \
 		output pdf/bjc.pdf
-#	mv pdf/bjc_tmp_9_dico.pdf pdf/bjc_dico.pdf
 	rm pdf/bjc_tmp*
 
 # supprime les fichiers généré par xelatex
