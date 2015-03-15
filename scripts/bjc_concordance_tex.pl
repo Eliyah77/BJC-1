@@ -54,7 +54,7 @@ open(WRITE, '>:utf8', $sortie);
 open(NOTFOUND, '>:utf8', $notmatched);
 
 print (WRITE "\\begin{multicols}{3}\n");
-print (WRITE "{\\fontsize{6pt}{0.7em}\\selectfont\n");
+print (WRITE "{\\fontsize{8pt}{0.7em}\\selectfont\n");
 # print (WRITE "\\renewcommand{\\descriptionlabel}[1]%\n");
 # print (WRITE "{\\hspace{\\labelsep}\\textsf{#1}}");
 
