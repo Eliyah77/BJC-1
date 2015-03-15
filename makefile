@@ -130,7 +130,7 @@ bjc_imprim: pdf/bjc_imprim.pdf
 pdf/bjc_imprim.pdf: pdf/bjc.pdf
 	pdftk \
 		pdf/bjc.pdf \
-		cat 1-1372 1373-1385east 1386-end \
+		cat 1-r20 r19-r7east r6-end \
 		output pdf/bjc_tmp_imprim.pdf
 	pdftk \
 		pdf/bjc_tmp_imprim.pdf \
