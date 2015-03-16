@@ -24,6 +24,7 @@ pdf/bjc_123x180.pdf: tex/bjc_123x180.tex tex/bjc/*.tex tex/bjc/annexes/*.tex
 bjc: pdf/bjc.pdf
 
 bjc_concordance: tex/bjc/*.tex
+	perl scripts/tex2unb.pl
 	perl scripts/bjc_concordance_tex.pl
 
 pdf/bjc.pdf: tex/bjc.tex tex/bjc/*.tex tex/bjc/entetes/*.tex tex/bjc/aides/*.tex tex/bjc/annexes/*.tex pdf/entetes/*.pdf pdf/annexes/*.pdf
