@@ -1,1 +1,0 @@
-Michel => nb ref=3, nb occurrences trouvées=2, 1 erreurs, refs=Da 10:13 (Nicolas : comprend pas l'erreur...??? corrigé dans le fichier tex manuellement)

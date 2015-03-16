@@ -338,7 +338,7 @@ Beth-Schémesch	Beth-Schémesch	np	1 S 6:9;1 S 6:19;2 R 14:11;2 R 14:13
 Bethuel	Bethuel	np	Ge 22:23	
 Betsaleel	Betsaleel	np	Ex 31:2;Ex 36:1;Ex 37:1;Ex 38:22	
 Biche	Biche	n	Ge 49:21;2 S 22:34;Job 39:4;Ps 42:2;Pr 5:19;Ca 2:17;Jé 14:5;Ha 3:19	
-Bien	Bien	n	Ge 12:5;Ge 24:10;De 30:9;Ru 1:21;Ps 17:14;Ps 65:12;Pr 8:21;Pr 12:27;Pr 15:16;Mt 12:29;Mt 19:22;Mt 24:47;Lu 8:3;Lu 15:12;Lu 16:1;Lu 19:8;Ac 2:45;1 Co 9:11;2 Co 12:14;Col 1:5;Hé 9:11;Hé 10:34;Hé 13:16;1 Jn 3:17;Ge 2:9;Ge 3:5;Ge 4:7;Ge 44:4;De 30:15;1 S 24:18;Job 2:10;Ps 34:15;Ps 35:12;Es 5:20;Es 7:15;Am 5:15;Lu 6:9;Ro 7:21;2 Co 5:10;1 Pi 2:20;1 Pi 3:6;3 Jn 1:11;Ge 32:9;Ge 50:20;Ex 1:20;Ex 18:17;De 8:16;1 S 17:27;2 S 16:12;1 R 22:13;2 R 7:9;Né 6:19;Est 10:3;Ps 14:3;Ps 16:2;Ps 34:11;Pr 11:17;Pr 12:2;Ec 9:18;Es 48:7;Za 8:15;Lu 6:26;Ro 7:19;Ro 8:28;Ga 6:9;Ga 6:10;Ep 6:8;1 Pi 2:15;1 Pi 3:11	
+Bien	Bien	n	Ge 12:5;Ge 24:10;De 30:9;Ru 1:21;Ps 17:14;Ps 65:12;Pr 8:21;Pr 12:27;Pr 15:16;Mt 12:29;Mt 19:22;Mt 24:47;Lu 8:3;Lu 15:12;Lu 16:1;Lu 19:8;Ac 2:45;1 Co 9:11;2 Co 12:14;Col 1:5;Hé 9:11;Hé 10:34;Hé 13:16;1 Jn 3:17;Ge 2:9;Ge 3:5;Ge 4:7;Ge 44:4;De 30:15;1 S 24:18;Job 2:10;Ps 34:15;Ps 35:12;Es 5:20;Es 7:15;Am 5:15;Lu 6:9;Ro 7:21;2 Co 5:10;1 Pi 2:20;1 Pi 3:6;3 Jn 1:11;Ge 32:9;Ge 50:20;Ex 1:20;Ex 18:17;De 8:16;1 S 17:27;2 S 16:12;2 R 7:9;Né 6:19;Est 10:3;Ps 14:3;Ps 16:2;Ps 34:11;Pr 11:17;Pr 12:2;Ec 9:18;Es 48:7;Za 8:15;Lu 6:26;Ro 7:19;Ro 8:28;Ga 6:9;Ga 6:10;Ep 6:8;1 Pi 2:15;1 Pi 3:11	
 Bienfait	Bienfait	n	Jg 9:16;1 S 12:7;2 Ch 32:25;Job 37:13;Ps 5:8;Ps 51:20;Ps 103:2;Ps 116:12;Es 63:7;Pr 19:17;Ac 4:9	
 Bienheureux	Bienheureux	n	Job 29:11;Ps 146:5;Es 30:18;Tit 2:13	
 Bienveillance	Bienveillance	n	1 R 2:7;1 R 3:6;2 Ch 1:8;Esd 9:9;Est 2:17;Ps 5:13;Ps 106:4;Pr 14:9;Es 49:8;Ac 27:3;1 Co 7:3;Ga 5:22;Ep 6:7	
@@ -362,7 +362,7 @@ Boisson	Boisson	n	Lé 10:9;No 6:3;No 28:7;1 S 1:15;Ps 102:10;Pr 20:1;Pr 31:4;Es 
 Boiter	Boiter	v	Ge 32:31	
 Boiteux	Boiteux	n	2 S 5:8;2 S 9:13;Job 29:15;Pr 26:7;Es 35:6;Mi 4:6;Mi 4:7;Mal 1:13;Mt 11:5;Mt 15:31;Mt 18:8;Mt 21:14;Jn 5:3;Ac 3:2;Ac 8:7;Ac 14:8;Hé 12:13	
 Bon	Bon	adj	Ge 1:10;Ge 2:18;Ge 3:6;Jg 19:24;1 S 3:18;2 S 22:26;1 R 22:8;1 R 22:18;Ps 18:26;Ps 22:9;Ps 25:8;Ps 34:9;Ps 119:68;Pr 24:23;Pr 25:27;Pr 31:13;Ec 2:1;Ec 6:12;Es 55:2;Es 62:4;Jé 33:11;So 3:7;Za 11:12;Mt 7:17;Mt 12:35;Mt 17:4;Mt 19:16;Mt 19:17;Jn 1:46;Jn 10:11;Jn 16:33;Ac 2:41;Ro 7:18;Ro 12:2;Ep 1:5;1 Th 5:21;1 Ti 2:3;1 Ti 3:7;1 Ti 4:4;1 Ti 6:12;Hé 11:2;1 Pi 2:3	
-Bonheur	Bonheur	n	Ge 30:11;De 30:9;Est 8:16;Job 7:7;Job 22:21;Job 36:11;Ps 4:7;Ps 25:13;Ps 34:13;Ps 81:16;Ps 122:9;Pr 18:22;Pr 19:8;Pr 28:10;Ec 8:12;Ec 8:13;Ga 4:15	
+Bonheur	Bonheur	n	Ge 30:11;De 30:9;1 R 22:13;Est 8:16;Job 7:7;Job 22:21;Job 36:11;Ps 4:7;Ps 25:13;Ps 34:13;Ps 81:16;Ps 122:9;Pr 18:22;Pr 19:8;Pr 28:10;Ec 8:12;Ec 8:13;Ga 4:15	
 Bonté	Bonté	n	Ge 47:29;Ex 33:19;Ex 34:6;No 14:18;Né 9:17;Ps 17:7;Ps 27:13;Ps 31:20;Ps 36:6;Ps 51:3;Ps 63:4;Ps 66:20;Ps 77:9;Ps 85:11;Ps 89:3;Ps 90:14;Ps 92:3;Ps 94:18;Ps 98:3;Ps 100:5;Ps 136:7;Pr 3:3;Pr 14:22;Pr 20:6;Es 54:8;Es 63:7;Jé 31:3;Ro 2:4;Ro 11:22;Ep 5:9;Col 3:12;2 Th 1:11;Tit 3:4	
 Bouc	Bouc	n	Lé 9:3;Lé 16:8;Lé 16:22;Lé 16:26;Pr 30:31;Ez 43:22;Da 8:5;Da 8:21	
 Bouche	Bouche	n	Ge 4:11;Ex 4:10;Ex 4:16;No 12:8;No 16:30;1 R 22:22;2 Ch 35:22;Ps 8:3;Ps 39:2;Ps 40:4;Ps 62:5;Ps 78:2;Ps 141:3;Pr 13:3;Pr 30:20;Pr 31:8;Ec 5:5;Es 34:16;Es 51:16;Es 52:15;Es 53:7;Es 55:11;Da 7:8;Os 2:19;Mal 2:7;Mt 12:34;Mt 15:8;Mt 15:11;Mt 15:18;Mt 17:27;Mt 18:16;Mt 21:16;Mt 22:12;Lu 21:15;Ro 3:19;Ep 4:29;Col 3:8;2 Th 2:8;Tit 1:11;Ja 3:10;1 Pi 2:15;Ap 3:16;Ap 13:6;Ap 14:5;Ap 19:15	
@@ -457,7 +457,7 @@ Chasser	Chasser	v	Ge 3:23;Ge 27:3;Ex 6:1;Ex 23:30;Lé 18:24;De 7:1;Jos 24:18;2 S
 Châtier	Châtier	v	Lé 26:18;De 8:5;1 Ch 16:21;2 Ch 10:14;Job 5:17;Job 33:19;Ps 6:2;Ps 9:6;Ps 39:12;Pr 3:12;Pr 13:24;Pr 19:18;Es 26:14;Jé 2:19;Jé 30:11;Jé 46:28;Za 10:3;Lu 23:16;2 Co 6:9;Hé 12:7;Ap 3:19	
 Châtiment	Châtiment	n	Ge 19:15;De 11:2;2 R 7:9;2 R 19:3;Job 5:17;Ps 73:14;Pr 15:10;Es 10:3;Es 53:5;Jé 30:14;Ez 25:17;Mt 25:46;2 Th 1:9;Hé 12:5;Hé 12:11;1 Jn 4:18	
 Chauve	Chauve	adj	Lé 13:40;De 14:1;2 R 2:23;Es 3:17;Ez 27:31;Am 8:10	
-Chef	Chef	n	Ge 17:16;Ge 39:21;Ge 39:22;Ge 40:2;Ge 47:6;No 1:4;No 14:4;Jg 11:6;1 S 22:2;2 S 6:21;Né 9:17;Pr 25:15;Es 1:23;Es 3:4;Jé 30:21;Da 8:11;Mt 2:6;Mt 9:18;Jn 7:18;Jn 12:42;1 Co 11:3;1 Co 11:4;Ep 1:22;Ep 4:15;Ep 5:23;Col 1:18;Col 2:10;Col 2:19;Hé 12:2	
+Chef	Chef	n	Ge 17:16;Ge 39:21;Ge 39:22;Ge 40:2;Ge 47:6;No 1:4;No 14:4;Jg 11:6;1 S 22:2;2 S 6:21;Né 9:17;Pr 25:15;Es 1:23;Es 3:4;Jé 30:21;Da 8:11;Os 4:18;Mt 2:6;Mt 9:18;Jn 7:18;Jn 12:42;1 Co 11:3;1 Co 11:4;Ep 1:22;Ep 4:15;Ep 5:23;Col 1:18;Col 2:10;Col 2:19;Hé 12:2	
 Chemin	Chemin	n	Ge 3:24;Ex 13:17;Ex 13:21;Ex 23:20;No 22:22;De 8:2;De 11:28;De 17:16;De 28:7;Jos 23:14;1 S 12:23;2 S 22:37;1 R 13:26;Né 9:12;Job 28:23;Ps 18:37;Ps 25:12;Ps 84:6;Ps 107:7;Ps 143:8;Pr 6:23;Pr 8:20;Pr 10:17;Pr 16:17;Es 30:21;Es 35:8;Es 40:3;Es 57:14;Es 59:8;Jé 21:8;Jé 50:5;Mal 3:1;Mt 7:14;Mt 13:4;Mc 6:8;Lu 3:5;Jn 14:4;Jn 14:6;Ac 8:26;Ac 25:3;1 Th 3:11;Hé 9:8;Hé 10:20;2 Pi 2:15	
 Chercher	Chercher	v	Ge 37:16;Ex 2:15;Ex 4:24;De 4:29;Jg 14:4;Ru 3:1;1 S 16:16;1 S 28:7;1 Ch 15:13;1 Ch 16:10;1 Ch 16:11;1 Ch 28:9;2 Ch 15:4;2 Ch 15:12;Né 7:64;Est 3:6;Ps 7:2;Ps 9:11;Ps 34:5;Ps 63:2;Ps 78:34;Ps 119:2;Pr 1:28;Pr 8:17;Pr 15:14;Pr 28:5;Ec 3:6;Ca 3:1;Es 45:19;Es 55:6;Es 65:1;Jé 29:7;Jé 29:13;La 3:25;Da 9:3;Os 10:12;Mt 6:33;Mt 7:7;Mt 28:5;Mc 1:37;Lu 17:33;Lu 19:10;Lu 24:5;Jn 1:38;Jn 5:30;Jn 6:26;Jn 8:50;Jn 18:8;Ac 17:27;1 Co 7:27;1 Co 10:24;Ga 5:26;Col 3:1;2 Ti 4:3;Hé 11:6;Hé 13:14;1 Pi 5:8;Ap 9:6	
 Chérubin	Chérubin	n	Ge 3:24;Ex 25:18;Ex 26:1;Ex 37:9;1 S 4:4;2 S 22:11;1 R 6:27;2 R 19:15;1 Ch 13:6;Ps 18:11;Ps 80:2;Ps 99:1;Ez 9:3;Ez 28:14;Hé 9:5	
@@ -467,7 +467,7 @@ Chèvre	Chèvre	n	Ge 15:9;Ge 31:38;Ex 26:7;Lé 3:12;De 14:4;1 S 19:13;Pr 27:27;D
 Chien	Chien	n	Jg 7:5;1 S 17:43;2 S 9:8;1 R 21:19;1 R 21:23;Ps 22:21;Pr 26:11;Pr 26:17;Ec 9:4;Es 56:11;Mt 7:6;Mt 15:27;Lu 16:21;Ph 3:2;2 Pi 2:22;Ap 22:15	
 Choisir	Choisir	v	Ge 13:11;Ex 17:9;No 17:5;De 7:6;De 12:11;De 30:19;Jos 24:15;1 S 12:13;1 R 8:16;Ps 4:4;Ps 25:12;Ps 65:5;Ps 78:70;Ps 132:13;Es 7:15;Es 14:1;Es 44:1;Lu 10:42;Jn 6:70;Jn 15:16;Ac 15:14;Ga 1:15;1 Pi 2:4	
 Chorazin	Chorazin	np	Mt 11:21;Lu 10:13	
-Chose	Chose	n	Ge 41:32;Lé 22:20;De 4:9;De 29:29;1 Ch 21:7;Job 9:10;Job 39:35;Ps 33:9;Ps 87:3;Ps 92:2;Ps 126:3;Ps 131:1;Ps 133:1;Pr 4:7;Pr 16:4;Pr 25:2;Ec 7:8;Es 16:14;Es 40:26;Es 43:9;Es 43:19;Es 64:3;Jé 32:27;Jé 33:3;Mt 7:11;Mt 9:33;Mt 11:27;Mt 13:52;Mt 19:26;Mt 23:23;Mt 25:21;Mc 10:21;Lu 5:26;Lu 10:42;Lu 24:48;Jn 1:3;Jn 1:50;Jn 3:27;Jn 3:35;Jn 8:26;Jn 14:25;Jn 19:28;Ac 2:37;Ro 4:17;Ro 8:28;Ro 8:32;1 Co 1:27;1 Co 2:9;1 Co 2:11;1 Co 2:15;2 Co 4:18;2 Co 5:17;Ga 3:12;Ep 3:9;Ph 1:10;Ph 3:14;Ph 4:13;Col 1:17;Col 2:17;Col 3:2;1 Th 5:21;Tit 2:15;Hé 3:4;Hé 6:9;Hé 11:1;1 Pi 1:18;1 Jn 2:15;Ap 1:1;Ap 2:4;Ap 21:5	
+Chose	Chose	n	Ge 41:32;Lé 22:20;De 4:9;De 29:29;1 Ch 21:7;Job 9:10;Job 39:35;Ps 33:9;Ps 87:3;Ps 92:2;Ps 126:3;Ps 131:1;Ps 133:1;Pr 4:7;Pr 16:4;Pr 25:2;Ec 7:8;Es 16:14;Es 40:26;Es 43:9;Es 43:19;Es 64:3;Jé 32:27;Jé 33:3;Mt 7:11;Mt 9:33;Mt 11:27;Mt 13:52;Mt 19:26;Mt 23:23;Mt 25:21;Mc 10:21;Lu 5:26;Lu 10:42;Lu 24:48;Jn 1:3;Jn 1:50;Jn 3:27;Jn 3:35;Jn 8:26;Jn 14:25;Jn 19:28;Ac 2:37;Ro 4:17;Ro 8:28;Ro 8:32;1 Co 1:27;1 Co 2:9;1 Co 2:11;1 Co 2:15;2 Co 4:18;2 Co 5:17;Ga 3:12;Ep 3:9;Ph 1:10;Ph 3:14;Ph 4:13;Col 1:17;Col 2:17;Col 3:2;1 Th 5:21;Tit 2:15;Hé 3:4;Hé 11:1;1 Pi 1:18;1 Jn 2:15;Ap 1:1;Ap 2:4;Ap 21:5	
 Chrétien	Chrétien	n	Ac 11:26;Ac 26:28;Ro 14:4;1 Pi 4:16	
 Chrysolithe	Chrysolithe	n	Ex 28:20;Ca 5:14;Ez 1:16;Ez 10:9;Ez 28:13;Da 10:6;Ap 21:20	
 Chute	Chute	n	2 Ch 28:23;Ps 56:14;Ps 64:9;Ps 116:8;Jé 49:21;Mt 5:29;Mt 13:57;Mt 18:8;Mc 9:43;Lu 2:34;Ro 11:9;Ro 11:11;Ro 14:21;Jud 1:24	
@@ -498,7 +498,7 @@ Commandement	Commandement	n	Ex 16:28;Lé 22:31;De 4:40;De 7:11;De 8:6;De 30:11;E
 Commander	Commander	v	Ge 42:6;De 12:32;Job 38:12;Ps 148:5;Jé 7:23;Mt 15:35;Mc 1:27;Mc 6:8;Lu 5:14;Lu 8:29;Lu 9:54;Jn 14:31;Jn 15:17	
 Commencement	Commencement	n	Ge 1:1;De 21:17;Pr 8:22;Pr 9:10;Ec 7:8;Za 4:10;Mt 19:4;Jn 1:1;Jn 1:2;Col 1:18;2 Th 2:13;Hé 7:3;2 Pi 3:4;1 Jn 3:8;Ap 1:8;Ap 3:14;Ap 21:6;Ap 22:13	
 Commencer	Commencer	v	Ge 6:1;Ge 11:6;Jos 3:7;Jg 13:5;2 Ch 29:17;Esd 5:2;Ps 22:26;Ez 9:6;Mc 14:19;Lu 21:28;Lu 24:47;Ac 2:4;1 Co 11:21;2 Co 8:6;Ga 3:3;Ph 1:6;Hé 2:3;1 Pi 4:17;Ap 10:7	
-Commun	Commun	adj	Ex 19:8;Jos 22:24;1 R 10:27;1 R 22:13;So 3:9;Ac 1:14;Ac 2:44;Ac 4:32;Ac 15:25;Ac 18:12;Ro 1:12;1 Co 12:7;1 Co 14:23;Tit 1:4;Jud 1:3	
+Commun	Commun	adj	Ex 19:8;Jos 22:24;1 R 10:27;So 3:9;Ac 1:14;Ac 2:44;Ac 4:32;Ac 15:25;Ac 18:12;Ro 1:12;1 Co 12:7;1 Co 14:23;Tit 1:4;Jud 1:3	
 Communion	Communion	n	Ac 2:42;1 Co 1:9;1 Co 10:16;1 Co 10:20;2 Co 6:14;Ga 6:6;Ep 3:9;Ph 2:1;Ph 3:10;1 Jn 1:3;1 Jn 1:6;1 Jn 1:7	
 Compagnon	Compagnon	n	Ex 31:6;De 19:5;Jg 7:13;Ps 45:8;Ps 88:19;Pr 28:24;Ec 4:10;Ez 37:19;Da 2:13;Ha 2:15;Za 13:7;Mt 11:16;Mt 18:28;Mt 24:49;Ro 16:21;2 Co 8:23;Phm 1:1;Ap 6:11;Ap 19:10;Ap 22:9	
 Comparaître	Comparaître	v	Ex 34:23;De 19:17;Job 9:19;Job 11:10;Ac 4:7;Ac 12:4;Ac 24:19;Ro 14:10;2 Co 4:14;2 Co 5:10;Hé 9:24	
@@ -531,10 +531,10 @@ Connaître	conn(?:a(?:ît(?:r(?:i?ez?|a[is]?|on[st])|)?|i(?:s(?:sai?[st]?(?:ent)
 Consacrer	Consacrer	v	Ex 13:12;Ex 28:41;Ex 32:29;No 6:8;De 15:19;Jg 11:31;Jg 17:12;1 S 7:1;1 S 21:5;2 S 8:11;2 R 23:11;Esd 8:28;Ps 2:6;Es 13:3;Es 27:9;Jé 1:5;Jé 31:40;Ez 43:26;Os 9:10;Mi 4:13;Za 14:21;Mal 2:11;Ac 15:14;Hé 2:10;Hé 5:9	
 Conscience	Conscience	n	Jn 8:9;Ac 24:16;Ro 2:15;Ro 13:5;1 Co 8:7;1 Co 10:25;1 Co 10:29;2 Co 1:12;2 Co 4:2;2 Co 5:11;1 Ti 1:5;1 Ti 3:9;1 Ti 4:2;2 Ti 1:3;Tit 1:15;Hé 10:2;Hé 13:18;1 Pi 2:19;1 Pi 3:16;1 Pi 3:21	
 Consécration	Consécration	n	Ex 29:22;Lé 7:37;Lé 8:28;No 6:7	
-Conseil	Conseil(?!\sde paix)	n	Ge 49:6;Ex 18:19;2 S 15:31;2 Ch 10:8;2 Ch 22:3;Esd 10:3;Job 12:13;Job 26:3;Ps 1:1;Ps 33:10;Ps 33:11;Ps 73:24;Ps 81:13;Ps 89:8;Ps 107:11;Pr 1:25;Pr 8:14;Pr 12:15;Pr 20:5;Pr 21:30;Es 5:19;Es 19:11;Es 44:26;Es 45:21;Es 46:10;Jé 7:24;Jé 32:19;Ez 11:2;Da 4:27;Mi 6:5;Mt 5:22;Jn 18:14;Ac 4:28;Ac 20:27;1 Co 7:6;Ep 1:11	
+Conseil	Conseil(?!\sde paix)	n	Ge 49:6;Ex 18:19;2 S 15:31;2 Ch 10:8;2 Ch 22:3;Esd 10:3;Job 12:13;Job 26:3;Ps 1:1;Ps 33:10;Ps 33:11;Ps 73:24;Ps 81:13;Ps 89:8;Ps 107:11;Pr 1:25;Pr 8:14;Pr 12:15;Pr 20:5;Pr 21:30;Es 5:19;Es 19:11;Es 44:26;Es 45:21;Jé 7:24;Jé 32:19;Ez 11:2;Da 4:27;Mi 6:5;Mt 5:22;Jn 18:14;Ac 4:28;Ac 20:27;Ep 1:11	
 Conseil de paix	Conseil de paix	expr	Za 6:13	
 Conseiller (un)	Conseiller	n	1 Ch 27:33;2 Ch 22:4;Esd 4:5;Esd 7:15;Job 3:14;Job 12:17;Ps 119:24;Pr 11:14;Pr 15:22;Pr 24:6;Es 9:5;Mi 4:9;Mc 15:43;Ro 11:34	
-Considérer	consid[éè]r(?:ée?s?|e[rz]?)	vi	Ge 30:33;Ex 16:29;2 R 5:1;Né 13:13;Job 1:8;Ps 73:17;Ec 3:10;Es 53:4;Jé 2:31;Ag 1:5;Mt 6:26;Ac 7:31;Ro 1:20;Ro 6:11;1 Co 1:26;2 Co 10:7;Ga 2:2;1 Th 2:4;Hé 3:1;Hé 7:4;Hé 12:3;Hé 13:7;2 Pi 3:15	
+Considérer	consid[éè]r(?:ée?s?|e[rz]?)	vi	Ge 30:33;Ex 16:29;2 R 5:1;Né 13:13;Job 1:8;Ps 73:17;Ec 3:10;Es 53:4;Jé 2:31;Ag 1:5;Mt 6:26;Ac 7:31;Ro 1:20;Ro 6:11;1 Co 1:26;2 Co 10:7;Ga 2:2;Hé 3:1;Hé 7:4;Hé 12:3;Hé 13:7;2 Pi 3:15	
 Consolateur	Consolateur	n	2 S 10:3;Job 16:2;Ps 69:21;Ec 4:1;La 1:16;Na 3:7;Jn 14:16;Jn 14:26;Jn 15:26;Jn 16:7	
 Consolation	Consolation	n	Job 15:11;Ps 94:19;Ps 119:76;Ec 4:1;Lu 2:25;Ac 15:31;Ac 20:12;Ro 15:4;2 Co 1:3;2 Co 1:6;2 Co 7:13;Ph 2:1;1 Th 3:7;2 Th 2:16;Hé 6:18	
 Consoler	Consoler	v	Ge 5:29;Ge 24:67;Ge 37:35;Ge 50:21;Ru 2:13;2 S 12:24;Job 2:11;Job 42:11;Ps 23:4;Ps 71:21;Ps 86:17;Es 12:1;Es 40:1;Es 51:3;Es 51:12;Es 61:2;Es 66:13;Jé 31:15;La 1:2;Za 1:17;Za 10:2;Mt 2:18;Mt 5:4;Lu 16:25;Jn 11:19;1 Co 14:3;1 Co 14:31;2 Co 1:4;2 Co 7:6;2 Co 13:11;Ep 6:22;Col 2:2;1 Th 4:18;1 Th 5:14;2 Th 2:17	
@@ -688,10 +688,10 @@ Déshonorer	Déshonorer	v	Ge 34:5;Lé 21:7;Jg 19:24;1 S 17:36;2 S 13:12;Pr 14:31
 Désir	Désir	n	Ge 3:16;No 15:39;1 S 23:20;Ps 38:10;Ps 45:12;Ps 112:10;Ps 119:20;Ps 145:19;Pr 13:4;Ca 7:11;Es 26:8;Jn 17:24;Ro 8:19;Ga 5:17;Ga 5:24;Col 3:5;1 Ti 6:9;Ap 18:14	
 Désirer	Désirer	v	De 5:21;Ps 20:5;Ps 27:4;Ps 40:7;Pr 10:24;Pr 19:22;Es 26:9;Mal 3:1;Mt 13:17;Lu 22:15;Lu 17:22;Ac 20:33;Hé 11:16;1 Pi 2:2;Ap 9:6	
 Désobéissance	Désobéissance	n	Ro 5:19;2 Co 10:6;Hé 2:2	
-Désolation	Désolation	n	De 32:10;Est 4:3;Ps 106:14;Es 51:3;Es 62:4;Jé 50:13;Da 9:2;Da 12:11;Mt 24:15;Lu 21:20	
+Désolation	Désolation	n	De 32:10;Est 4:3;Ps 106:14;Es 62:4;Jé 50:13;Da 9:2;Da 12:11;Mt 24:15;Lu 21:20	
 Désordre	Désordre	v	2 Ch 28:19;1 Th 5:14;2 Th 3:7;2 Th 3:11;Ja 3:16	
 Dessécher	dess[éè]ch[ée]e?s?	vi	Ez 37:4;Ps 22:16;Ps 63:2;Ps 69:4;Pr 17:22;Za 11:17	
-Dessein	Dessein	n	Ge 31:20;De 31:21;1 S 23:9;Job 42:3;Ps 20:5;Ps 33:10;Ps 33:11;Ps 40:6;Ps 146:4;Es 29:15;Es 48:15;Da 11:24;Mi 4:12;Lu 1:51;Lu 7:30;Ac 2:23;Ac 5:4;Ac 13:36;1 Co 4:5;Ro 8:28;Ep 3:11;2 Ti 1:9;Ap 17:17	
+Dessein	Dessein	n	Ge 31:20;De 31:21;1 S 23:9;Job 42:3;Ps 20:5;Ps 33:10;Ps 33:11;Ps 40:6;Ps 146:4;Es 29:15;Es 46:10;Es 48:15;Da 11:24;Mi 4:12;Lu 1:51;Lu 7:30;Ac 2:23;Ac 5:4;Ac 13:36;1 Co 4:5;Ro 8:28;Ep 3:11;2 Ti 1:9;Ap 17:17	
 Destinée	Destinée	n	Ps 31:16;Hé 9:9	
 Destiner	Destiner	v	Ge 24:14;Jé 43:11;Ps 44:23;Pr 31:8;Ac 13:48;Ac 22:14;1 Th 5:9;1 Pi 1:10	
 Destructeur	Destructeur	n	Ex 12:23;Job 15:21;Pr 28:24;Es 54:16;Jé 4:7;1 Co 10:10;Hé 11:28	
@@ -704,7 +704,7 @@ Dette	Dette	n	2 R 4:7;Né 5:10;Pr 22:26;Mt 6:12;Mt 18:25;Mt 18:27;Mt 18:30;Mt 18
 Deuil	Deuil	n	Ge 50:11;No 14:39;De 34:8;2 S 1:12;Ec 7:2;Jé 6:26;Jé 31:13;Da 10:2;Ez 27:31;Za 12:11;Lu 6:25;1 Co 5:2;Ja 4:9;Ap 18:8;Ap 18:19;Ap 21:4	
 Dévastateur	Dévastateur	n	Es 16:4;Jé 6:26;Jé 48:8;Na 2:3	
 Dévastation	Dévastation	n	Job 5:21;Es 16:4;Os 9:6;Da 9:26	
-Dévaster	Dévaster	v	Lé 26:32;2 Ch 36:21;Es 64:10;Jé 4:27;Ez 6:4;Os 10:1;Da 9:17	
+Dévaster	Dévaster	v	Lé 26:32;2 Ch 36:21;Es 51:3;Es 64:10;Jé 4:27;Ez 6:4;Os 10:1;Da 9:17	
 Devin	Devin	n	Lé 19:31;No 22:7;De 18:14;1 S 28:3;Es 3:2;Es 44:25;Jé 29:8;Mi 3:7;Za 10:2	
 Dévorer	Dévorer	v	Ge 37:20;No 13:32;Ps 27:2;Ps 69:10;Pr 20:25;Ec 4:5;Jé 15:16;Jé 30:16;Jé 51:34;Os 5:7;Ha 1:13;Hé 10:27;Mt 23:14;Ga 5:15;1 Pi 5:8;Ap 12:4	
 Dévouer	Dévouer	v	Ex 22:20;Lé 27:28;No 21:2;De 13:17;De 20:17;Jos 6:17;1 S 15:9;1 R 9:21;1 R 20:42	
@@ -930,7 +930,7 @@ Ethiopie	Ethiopie[n]?	np	2 Ch 14:8;2 R 19:9;Est 1:1;Ps 68:32;Es 18:1;Jé 13:23;N
 Etienne	Etienne	np	Ac 6:5;Ac 6:8;Ac 6:9;Ac 7:55;Ac 7:59	
 Etoile	[Eé]toile[s]?	n	Ge 1:16;Ge 15:5;Ge 37:9;No 24:17;De 4:19;Job 9:9;Job 25:5;Job 38:7;Ps 147:4;Es 14:13;Da 12:3;Mt 2:2;Mt 24:29;1 Co 15:41;2 Pi 1:19;Jud 1:13;Ap 1:16;Ap 1:20;Ap 6:13;Ap 8:10;Ap 12:1;Ap 22:16	
 Etonnement	[Eé]tonnement	n	Ge 43:33;Mc 6:2;Mt 9:8;Mc 9:15;Mc 11:18;Lu 1:63;Lu 2:18;Lu 2:48;Lu 11:38;Lu 24:12;2 Co 11:15;Ac 3:10;Ap 17:6	
-Etonner	[Eé]tonner	v	Ps 97:4;Ec 5:7;Es 41:10;Es 63:5;Jé 2:12;Da 8:27;Ha 1:5;Mt 8:10;Mt 13:54;Mt 19:25;Mc 15:5;Lu 20:26;Ac 4:13;Ac 10:45;Ac 12:16;Ac 13:41;Ga 1:6;1 Jn 3:13;Ap 17:8	
+Etonner	[Eé]tonner	v	Ps 97:4;Ec 5:7;Es 63:5;Jé 2:12;Da 8:27;Ha 1:5;Mt 8:10;Mt 13:54;Mt 19:25;Mc 15:5;Lu 20:26;Ac 4:13;Ac 10:45;Ac 12:16;Ac 13:41;Ga 1:6;1 Jn 3:13;Ap 17:8	
 Etourdissement	[Eé]tourdissement	n	Ps 60:5;Es 51:17;Es 51:22;Da 8:18;Da 10:9;Za 12:2;Za 12:4	
 Etrange	[Eé]trange	adj	Ps 139:14;Da 11:36;Lu 5:26;Jn 9:30;Ac 17:20;1 Pi 4:4;1 Pi 4:12	
 Etranger	[Eé]trang[eè]r	n	Ge 15:13;Ge 17:8;Ge 23:4;Ex 22:21;Lé 24:22;De 10:19;De 24:17;Jos 8:35;Ru 2:10;1 R 11:1;1 Ch 16:19;1 Ch 29:15;Job 31:32;Ps 69:9;Ps 119:19;Pr 27:2;Es 14:1;Es 56:3;Os 5:7;Os 7:9;Mt 25:35;Mt 27:7;Lu 17:18;Jn 10:5;Ac 7:29;Ac 17:18;Ep 2:12;Ep 2:19;Col 1:21;Hé 11:13;Hé 13:9;1 Pi 2:11	
@@ -1041,7 +1041,7 @@ Fonction	Fonction	n	No 8:24;No 18:7;1 Ch 9:26;1 Ch 24:3;2 Ch 8:14;2 Ch 13:10;Ro 
 Fondation	Fondation	n	Mt 13:35;Mt 25:34;Jn 17:24;Ep 1:4;Hé 4:3;1 Pi 1:20;Ap 13:8;Ap 17:8	
 Fondement	Fondement	n	Esd 3:10;Esd 5:16;Job 19:28;Ps 11:3;Ps 82:5;Ps 119:160;Pr 8:29;Pr 10:25;Es 28:16;Jé 51:26;Ez 41:8;Lu 6:48;Ro 15:20;1 Co 3:10;1 Co 3:11;1 Co 3:12;Ep 2:20;1 Ti 6:19;2 Ti 2:19;Hé 6:1;Ap 21:14	
 Fonder	Fonder	v	Es 51:16;Jé 10:12;Ps 8:3;Ps 102:26;Job 38:4;Esd 3:8;Col 1:23;Hé 1:10	
-Force	Force	n	Ex 15:2;De 8:17;De 8:18;Jg 6:14;1 S 2:10;2 S 22:3;2 S 22:40;2 R 18:20;1 Ch 16:11;1 Ch 29:12;2 Ch 20:12;Né 8:10;Job 12:13;Ps 6:3;Ps 18:2;Ps 28:8;Ps 31:11;Ps 33:16;Ps 33:17;Ps 81:2;Ps 84:8;Ps 118:14;Pr 20:29;Pr 24:10;Ec 9:16;Es 12:2;Es 14:10;Es 30:3;Es 40:29;Es 40:30;Es 40:31;Es 51:9;Da 12:7;Mi 3:8;Mi 5:3;Ha 1:11;Ha 3:19;Za 4:6;Za 12:5;Mt 5:41;Mc 5:30;Lu 6:19;Ac 8:3;Ac 10:38;Ro 5:6;1 Co 15:43;Ep 4:16;2 Ti 1:7;2 Ti 3:5;Hé 9:17;Hé 11:11;Hé 11:34	
+Force	Force	n	Ex 15:2;De 8:17;De 8:18;Jg 6:14;1 S 2:10;2 S 22:3;2 S 22:40;2 R 18:20;1 Ch 16:11;1 Ch 29:12;2 Ch 20:12;Né 8:10;Job 12:13;Ps 6:3;Ps 18:2;Ps 28:8;Ps 31:11;Ps 33:16;Ps 33:17;Ps 81:2;Ps 84:8;Ps 118:14;Pr 20:29;Pr 24:10;Ec 9:16;Es 12:2;Es 14:10;Es 40:29;Es 40:30;Es 40:31;Es 51:9;Da 12:7;Mi 3:8;Mi 5:3;Ha 1:11;Ha 3:19;Za 4:6;Za 12:5;Mt 5:41;Mc 5:30;Lu 6:19;Ac 8:3;Ac 10:38;Ro 5:6;1 Co 15:43;Ep 4:16;2 Ti 1:7;2 Ti 3:5;Hé 9:17;Hé 11:11;Hé 11:34	
 Forgeron	Forgeron	n	Es 44:12;Es 54:16;Za 1:20;2 Ti 4:14	
 Forme	Forme	n	Job 38:14;Es 44:13;Mc 3:23;Mc 16:12;Lu 3:22;Ro 6:17;Ga 3:15;Ph 2:6;Ph 2:7	
 Former	Former	v	Job 10:8;Job 33:6;Ps 94:9;Ec 11:5;Es 22:11;Es 43:10;Es 45:7;Es 45:18;2 Co 5:5;Ga 4:19;Ep 2:16;1 Ti 2:13;Hé 10:5;Ap 17:17	
@@ -1091,7 +1091,7 @@ Géhenne	Géhenne	n	Mt 5:22;Mt 5:29;Mt 5:30;Mt 10:28;Mt 18:9;Mt 23:15;Mt 23:33;M
 Gémir	Gémir	v	Job 24:12;Ps 6:7;Ps 32:3;Ps 55:18;Ps 77:4;Pr 5:11;Es 59:11;Ez 24:17;Ja 5:1;2 Co 5:2	
 Généalogie	Généalogie	n	1 Ch 4:33;1 Ch 5:1;1 Ch 5:17;1 Ch 7:5;1 Ch 7:9;1 Ch 9:1;1 Ch 9:22;Esd 8:3;Mt 1:1;Hé 7:3;1 Ti 1:4	
 Génération	Génération	n	Ge 15:16;Ex 20:5;No 32:13;1 Ch 16:15;Jg 2:10;Job 8:8;Ps 22:31;Ec 1:4;Mt 11:16;Mt 12:39;Mt 23:36;Ac 2:40;Ph 2:15	
-Génézareth	Génézareth	np	Mt 14:34;Lu 5:1	
+Génésareth	Génésareth	np	Mt 14:34;Mc 6:53;Lu 5:1	
 Genou	Genou	n	1 R 18:42;1 R 19:18;Ps 95:6;Es 35:3;Es 45:23;Es 46:1;Ez 47:4;Da 6:10;Mt 17:14;Mc 15:19;Lu 22:41;Ac 9:40;Ac 20:36;Ro 11:4;Ro 14:11;Ep 3:14;Ph 2:10;Hé 12:12	
 Gentils	Gentil[s]?	n	Es 8:23;Mc 10:33;Ac 11:1;Ac 18:6;Ro 2:24;Ro 11:25;Ro 15:9;Ga 3:8;Ep 2:11	
 Geôlier	Geôlier	n	Ac 16:23;Ac 16:27;Ac 16:29;Ac 16:35	
@@ -1179,7 +1179,7 @@ Honneur	Honneur	n	Ge 50:10;No 22:17;2 S 6:22;2 R 23:21;Est 6:3;Ps 49:13;Ez 16:21
 Honorable	Honorable	adj	Es 3:5;Es 43:4;Es 58:13;Es 60:13;Za 11:13;Mc 15:43;Lu 14:8;1 Co 12:23;1 Ti 3:2;1 Ti 3:13;Tit 2:10;Hé 13:4;Ph 4:8	
 Honorer	Honorer	v	Ex 20:12;1 S 2:30;1 S 15:30;2 S 10:3;1 Ch 19:3;Esd 7:27;Est 1:20;Est 6:6;Est 6:9;Est 6:11;Ps 15:4;Pr 3:9;Es 29:13;Es 49:5;Mal 1:6;Jn 5:23;Jn 8:49;1 Pi 2:14;1 Pi 2:17	
 Honte	Honte	n	Ge 2:25;2 Ch 32:21;Esd 9:6;Job 8:22;Ps 35:26;Ps 44:16;Ps 69:8;Ps 119:80;Pr 10:5;Es 30:5;Es 54:4;Jé 3:24;Jé 8:12;Jé 20:11;Os 4:19;Mi 7:10;Mc 8:38;Lu 9:26;Ro 1:16;Ro 6:21;1 Co 11:14;2 Th 3:14;2 Ti 1:8;2 Ti 1:16;Hé 11:16;Hé 12:2;Ap 16:15	
-Honteux	Honteu(?:x|se[s]?)	adji	Job 6:20;Ps 83:18;Es 45:17;Es 50:7;Jé 12:13;Jé 51:17;2 Co 4:2;Ep 5:12	
+Honteux	Honteu(?:x|se[s]?)	adji	Job 6:20;Ps 83:18;Es 45:17;Jé 12:13;Jé 51:17;2 Co 4:2;Ep 5:12	
 Hophni	Hophni	np	1 S 1:3;1 S 2:34;1 S 4:4;1 S 4:11;1 S 4:17	
 Horeb	Horeb	np	Ex 3:1;Ex 17:6;Ex 33:6;De 1:6;De 4:10;De 5:2;1 R 8:9;1 R 19:8;Ps 106:19;Mal 4:4	
 Horreur	Horreur	n	Job 6:21;Ez 16:5	
@@ -1242,7 +1242,7 @@ Indigner	Indigner	v	Job 1:22;Job 24:12;Pr 24:24;Es 41:11;Mt 20:24;Mt 21:15;Mt 26
 Inébranlable	Inébranlable	adj	1 Co 15:58;Hé 10:22;Hé 12:27	
 Inexcusable	Inexcusable	adj	Ro 1:20;Ro 2:1	
 Infâme	Infâme	adj	Lé 7:18;Lé 20:17;Jg 19:24;Ez 22:5;Os 9:10;Lu 6:22;Ro 1:26;Ro 1:27;2 Pi 2:7	
-Inférieur	Inférieur	adj	1 R 6:6;1 R 6:8;Job 12:3;Job 13:2;Ps 8:6;Es 22:9;Ez 40:18;Ez 41:7;Ez 43:14;2 Co 12:11	
+Inférieur	Inférieur	adj	1 R 6:6;1 R 6:8;Job 12:3;Job 13:2;Ps 8:6;Es 22:9;Ez 40:18;Ez 41:7;Ez 43:14;2 Co 12:11;Hé 2:7	
 Infidèle	Infidèle	n	Ex 21:8;No 5:12;Ps 43:1;Ps 78:57;Jé 3:20;Jé 3:8;Jé 3:12;Mal 2:11;Lu 12:46;Lu 16:8;2 Co 6:15;2 Ti 2:13;1 Ti 5:8	
 Infidélité	Infidélité	n	Ex 22:9;Jos 22:16;Jos 22:20;Jos 22:22;Jos 22:31;Esd 9:4;Jé 5:6;Ez 14:13;Ez 15:8	
 Infirme	Infirme	n	Lu 13:11;1 Co 11:30	
@@ -1262,7 +1262,7 @@ Inquiéter	inqui(?:é|è)t(?:ons|e(?:r|z|s))	vi	1 R 22:3;Mt 6:25;Mt 6:28;Mt 6:31
 Inquiétude	Inquiétude	n	Ez 12:18;Mt 6:27;1 Co 7:32;Ga 4:20;1 Th 3:5	
 Insatiable	Insatiable	adj	Pr 30:15;Ha 2:5	
 Inscription	Inscription	n	Mt 22:20;Mc 12:16;Lu 20:24	
-Insensé	Insensé	n	Ge 31:28;De 32:6;1 S 26:21;2 S 3:33;Job 2:10;Job 5:2;Ps 14:1;Pr 3:35;Pr 10:8;Pr 10:23;Pr 12:16;Pr 14:9;Pr 15:5;Pr 26:4;Pr 26:5;Pr 26:11;Ec 2:14;Ec 5:3;Ec 7:17;Jé 4:22;Jé 17:11;Za 11:15;Mt 5:22;Mt 7:26;Mt 23:17;Lu 12:20;1 Co 15:36;2 Co 11:16;2 Co 11:21;2 Co 12:11;Tit 3:3;1 Pi 2:15	
+Insensé	Insensé	n	Ge 31:28;De 32:6;1 S 26:21;2 S 3:33;Job 2:10;Job 5:2;Ps 14:1;Pr 3:35;Pr 10:8;Pr 10:23;Pr 12:16;Pr 14:9;Pr 15:5;Pr 26:4;Pr 26:5;Pr 26:11;Ec 2:14;Ec 5:3;Ec 7:17;Jé 4:22;Jé 17:11;Za 11:15;Mt 5:22;Mt 7:26;Mt 23:17;Lu 12:20;1 Co 15:36;2 Co 11:16;2 Co 11:21;2 Co 12:11;Ep 5:15;Tit 3:3;1 Pi 2:15	
 Insensible	Insensible	adj	Ps 119:70;Ac 28:27	
 Insister	Insister	v	2 R 5:23;Lu 23:5;Lu 23:23;Ac 21:14;2 Ti 4:2	
 Insondable	Insondable	adj	Job 36:26;Ro 11:33	
@@ -1389,7 +1389,7 @@ Jude	Jude	np	Jn 14:22;Jud 1:1
 Judée	Judée	np	Mt 2:5	
 Juge	Juge	n	Ge 16:5;Ex 2:14;De 16:18;Jg 2:16;1 S 8:1;Ps 2:10;Ps 7:12;Ps 50:6;Ps 94:2;Mi 4:14;Mt 12:27;Lu 18:2;Lu 18:6;Jn 5:22;Ac 10:42;Ac 13:20;Ac 17:34;Ro 14:3;1 Co 4:4;2 Ti 4:8;Hé 4:12;Hé 12:23;Ja 4:11;Ja 5:9;1 Pi 1:17;1 Pi 2:23;Ap 19:11	
 Jugement	Jugement	n	Ex 12:12;Ex 28:30;Lé 19:15;Ps 10:5;Ps 72:1;Ps 110:6;Ps 119:75;Ps 143:2;Ec 12:1;Es 5:16;Es 26:9;Es 42:1;Ha 1:4;Ha 1:12;So 3:5;Jn 5:22;Jn 5:30;Jn 8:16;Jn 9:39;Jn 12:31;Jn 16:8;Ro 2:2;Ro 2:3;Ro 11:33;2 Th 1:5;1 Ti 3:6;Hé 6:2;Hé 9:27;Hé 10:27;1 Pi 4:17;2 Pi 2:4;Jud 1:6;Jud 1:9;Ap 14:7;Ap 17:1	
-Juger	Juger	v	Ge 18:25;Ex 18:13;Lé 19:15;De 16:18;Ps 35:24;Ps 58:2;Ps 58:12;Ps 67:5;Ps 75:3;Ec 3:16;Ec 3:17;Es 3:13;Es 11:3;Ez 21:35;Joë 3:12;Mt 7:1;Lu 22:30;Jn 5:22;Jn 5:27;Jn 7:24;Jn 12:47;Jn 12:48;Ac 17:31;Ro 2:1;Ro 14:10;1 Co 2:15;1 Co 4:4;1 Co 4:5;1 Co 5:12;1 Co 6:2;1 Co 6:5;1 Co 11:31;2 Ti 4:1;Hé 4:12;Ja 4:11;1 Pi 2:23;1 Pi 4:6;Jud 1:15;Ap 6:10;Ap 11:18;Ap 19:11;Ap 20:4;Ap 20:13	
+Juger	Juger	v	Ge 18:25;Ex 18:13;Lé 19:15;De 16:18;Ps 35:24;Ps 58:2;Ps 58:12;Ps 67:5;Ps 75:3;Ec 3:16;Ec 3:17;Es 3:13;Es 11:3;Ez 21:35;Joë 3:12;Mt 7:1;Lu 22:30;Jn 5:22;Jn 5:27;Jn 7:24;Jn 12:47;Jn 12:48;Ac 17:31;Ro 2:1;Ro 14:10;1 Co 2:15;1 Co 4:4;1 Co 4:5;1 Co 5:12;1 Co 6:2;1 Co 6:5;1 Co 11:31;1 Th 2:4;2 Ti 4:1;Hé 4:12;Ja 4:11;1 Pi 2:23;1 Pi 4:6;Jud 1:15;Ap 6:10;Ap 11:18;Ap 19:11;Ap 20:4;Ap 20:13	
 Juif	jui(?:f|ve)(?:s)?	np	Est 6:13;Est 8:7;Za 8:23;Jn 4:9;Jn 18:35;Ac 21:39;Ro 2:9;Ro 2:29;Ro 10:12;1 Co 9:20;Ga 2:14;Ga 3:28;Col 3:11	
 Julius	Julius	np	Ac 27:1;Ac 27:3	
 Jumeaux	Jumeaux	n	Ge 25:24;Ge 38:27;Ca 4:5;Ca 7:4	
@@ -1608,7 +1608,7 @@ Miséricordieux	Miséricordieux	adj	Ex 22:27;Ex 34:6;De 4:31;Né 9:17;Ps 130:7;P
 Mitspa, Mitspé	Mitsp[aé]	np	Ge 31:49;Jos 18:26;Jg 10:17;Jg 11:11;1 S 7:5;1 S 10:17	
 Moab, Moabites	Moab(?:ite[s]?)?	np	Ge 19:37;Ex 15:15;No 25:1;De 2:8;2 S 8:2;2 R 1:1;Es 15:1	
 Modèle	Modèle	n	Ex 25:9;1 Ch 28:11;Ph 3:17;1 Th 1:7;2 Th 3:9;1 Ti 4:12;2 Ti 1:13;Tit 2:7;Hé 8:5;1 Pi 2:21;1 Pi 5:3	
-Moindre	Moindre	adj	Es 60:22;Da 2:39;Lu 12:26;1 Co 15:9;2 Co 11:5;Ep 3:8;Hé 2:7;Hé 7:7	
+Moindre	Moindre	adj	Es 60:22;Da 2:39;Lu 12:26;1 Co 15:9;2 Co 11:5;Ep 3:8;Hé 7:7	
 Mois	Mois	n	Ge 7:11;Ex 12:2;Lé 16:29;No 11:20;Jn 4:35;Ga 4:10;Ap 13:5;Ap 22:2	
 Moïse	Moïse	np	Ex 2:10;1 Ch 6:3	Naissance de M : Ex 2:2-10; Ac 7:20; Hé 11:23\\Recueillit par la fille de pharaon : Ac 7:20-22\\Sa foi : Hé 11:24-26\\Sa fuite : Ex 2:15\\Yahweh se révèle dans le buisson ardent : Ex 3\\Retour en Egypte : Ex 4:19-20\\Pharaon s'oppose à M : Ex 5:1-4; 11:5-8\\La première Pâque : Ex 12:3,11; Hé 11:28\\Israël sort d'Egypte : Ex 12:37-42; Hé 11:27\\Les dix paroles : Ex 20\\Yahweh fait monter M sur la montagne de Sinaï : Ex 24:15-18; 34:2,28\\Le tabernacle : Ex 26:1; 40:1-2\\M. implore Yahweh pour le peuple : Ex 32:11; No 11:2; 14:13-19; Ps 106:23\\La gloire de Yahweh sur son visage : Ex 34:29; 2 Co 3:7-13\\L'homme le plus doux de la terre : No 12:3\\Un homme fidèle : No 12:7; Hé 3:2-5\\Incrédule à Meriba : No 20:8-12; De 32:50-51\\Le serpent d'airain : No 21:8-9; Jn 3:14\\Josué, successeur de M : De 3:28\\Sa mort : De 34:5-8; Jud 1:9\\Yahweh parle face à face à M : No 12:7-8; De 34:10-12\\Apparition durant la transfiguration : Mt 17:3\\Annonce la venue du Messie : De 18:15-18\\Autres: Ps 90:1; 103:7; Lu 16:29; 24:27
 Moisi	Moisi	adj	Jos 9:5;Jos 9:12	
@@ -1715,7 +1715,7 @@ Opposer	Opposer	v	No 22:32;Ac 11:17;Ac 13:45;Ga 5:17;2 Ti 4:15
 Opposition	Opposition	n	Hé 12:3	
 Oppresseur	Oppresseur	n	Ex 3:7;Est 7:6;Ps 107:2;Pr 29:13;Es 3:12;Za 9:8	
 Oppression	Oppression	n	Ex 3:9;De 26:7;Ps 119:134;Ec 7:7;Es 30:12;Es 54:14;Es 59:13;Ro 8:35	
-Opprimé	Opprimé 	adj	Ps 9:10;Ps 10:18;Ps 119:122;Es 38:14;Es 53:7;Es 58:6;Lu 4:19	
+Opprimé	Opprimé 	adj	Ps 9:10;Ps 10:18;Ps 119:122;Ec 5:7;Es 38:14;Es 53:7;Es 58:6;Lu 4:19	
 Opprimer	Opprimer	v	Ge 15:13;Ex 22:21;Jg 2:18;Ps 73:8;Ps 105:14;Ps 129:2;Pr 22:22;Ja 2:6	
 Opprobre	Opprobre	n	Jos 5:9;Ps 22:7;Ps 69:8;Ps 89:51;Ps 119:22;Ps 119:39;Pr 25:10;Es 25:8;Es 51:7;Jé 6:10;Jé 23:40;Jé 31:19;Mi 6:16;Lu 1:25;1 Ti 3:7;Hé 11:26;Hé 13:13	
 Or	Or	n	Ex 25:11;Job 22:24;Job 31:24;Ps 19:11;Ps 119:127;Pr 11:22;Pr 25:12;Da 2:38;Ag 2:8;Mt 10:9;Ac 3:6;1 Co 3:12;Ja 5:3;1 Pi 1:18;Ap 1:12;Ap 3:18	
@@ -1924,7 +1924,7 @@ Poutre	Poutre	n	Ca 1:17;Ha 2:11;Mt 7:3;Lu 6:42
 Pouvoir (le)	Pouvoir 	n	No 14:16;De 28:32;Job 1:12;Ps 22:21;Ps 49:16;Pr 18:21;Ec 8:8;Es 59:1;Es 63:1;Jé 10:23;Da 3:27;Mt 9:6;Jn 1:12;Jn 10:18;Jn 19:10;Jn 19:11;Ac 8:19;Ro 6:9;Ro 7:1;2 Co 13:8;Ep 6:13;Hé 2:14;Ap 11:6;Ap 13:5	
 Pratique	Pratique	n	De 5:1;Ez 33:31;Mt 7:24;Ac 19:19;Ja 1:22	
 Pratiquer	Pratiquer	v	Lé 18:5;Né 9:34;Ps 119:40;Ez 36:27;Os 7:1;Mt 6:1;Jn 13:17;Ga 5:3;1 Ti 4:15;Tit 3:8;Ja 1:25;Ap 22:11;Ap 22:15	
-Précéder	Précéder	v	Ps 18:13;Mt 26:32;Jn 1:15;1 Th 4:15;Hé 7:18	
+Précéder	Précéder	v	Ps 18:13;Mt 26:32;Jn 1:15;1 Th 4:15	
 Précepte	Précepte[s]?	n	De 6:20;Ps 93:5;Ps 119:36;Ps 119:129;Es 28:10;Es 28:13;1 Th 4:2	
 Prêcher	Prêcher	v	Ps 40:10;Mt 3:1;Mt 4:17;Mc 1:38;Mc 3:15;Mc 16:20;Ac 8:25;Ac 9:20;Ac 15:21;Ac 21:28;Ro 10:14;Ro 15:20;1 Co 9:27;2 Co 4:5;2 Co 11:4;Ph 1:15;1 Ti 3:16;2 Ti 4:2;1 Pi 1:12;1 Pi 3:19	
 Précieux	Précieu(?:x|se[s]?)	adji	1 S 26:21;Ps 36:8;Ps 72:14;Pr 3:15;Pr 6:26;Pr 16:16;Jé 15:19;1 Pi 1:7;1 Pi 1:19	
@@ -1997,8 +1997,8 @@ Prosterner	Prosterner	v	Ge 47:31;Ex 20:5;De 17:3;Ps 72:11;Ps 95:6;Ps 99:9;Es 44:
 Prostitué, prostituée	Prostitué	n	Ge 38:15;Lé 21:7;Lé 21:14;De 23:17;De 23:18;Jos 2:1;Jg 11:1;Jg 16:1;1 R 3:16;1 R 14:24;2 R 23:7;Pr 6:26;Pr 29:3;Es 1:21;Jé 3:13;Ez 23:30;Os 1:2;Joë 3:3;Mi 1:7;Na 3:4;Mt 21:31;1 Co 6:16;Hé 11:31;Ja 2:25;Ap 17:1;Ap 19:2	
 Prostituer	Prostituer	v	Ex 34:15;Lé 18:23;De 31:16;Jg 8:33;2 Ch 21:13;Ps 106:39;Es 23:17;Jé 3:1;Ez 16:16;Os 2:7;Os 9:1;Am 7:17	
 Prostitution	Prostitution	n	No 15:39;Jg 8:27;2 R 9:22;Es 23:17;Jé 3:2;Ez 6:9;Ez 23:17;Os 1:2;Os 3:3;Mi 1:7;Na 3:4;Ap 2:21;Ap 17:2;Ap 18:3	
-Protecteur	Protecteur	n	Ps 5:12;Ps 31:3;Ps 43:2;Ez 28:16;Os 4:18;Za 9:15;Za 12:8	
-Protection	Protection	n	No 14:9;Ps 52:9;Ps 60:9;Ez 28:14;Lu 1:54	
+Protecteur	Protecteur	n	Ps 5:12;Ps 31:3;Ps 43:2;Ez 28:16;Za 9:15;Za 12:8	
+Protection	Protection	n	No 14:9;Ps 52:9;Ps 60:9;Es 30:3;Ez 28:14;Lu 1:54	
 Protéger	prot[éè]g[eé](?:r[ae]i?|a(?:it)?|s)?	vi	De 33:12;2 S 8:6;2 R 19:34;2 R 20:6;2 Ch 32:22;Ps 20:2;Pr 4:6;Es 37:35;So 2:3	
 Prouver	Prouver	v	Né 7:61;Ac 9:22;Ac 25:7;Ro 3:9;Ro 5:8	
 Prudence	Prudence	n	Ps 119:99;Pr 1:5;Pr 3:4;Pr 11:14;Pr 12:8;Pr 15:5;Pr 16:16;Pr 19:11;Pr 20:18;Pr 24:6;Es 36:5;Ac 24:3	
@@ -2121,6 +2121,7 @@ Renouveler	Renouveler	v	2 Ch 24:4;Ps 103:5;2 Co 4:16;Ep 4:23
 Renouvellement	Renouvellement	n	Mt 19:28;Ro 12:2;Tit 3:5	
 Renverser	Renverser	v	De 7:5;Né 1:3;Job 5:13;Job 8:3;Mt 21:12;Lu 1:52;Jn 2:15;Ac 13:10;Ga 1:7;2 Ti 2:18;Tit 1:11	
 Renvoyer	Renvoyer	v	Ge 21:14;Esd 10:19;Mt 15:32;Lu 1:53;Ac 23:22;Hé 11:31	
+Repaire	Repaire	n	Jé 9:11;Jé 51:37;Ap 18:2
 Répandre	Répandre	v	Ge 8:17;Ex 9:10;Ex 29:7;1 S 1:15;Ps 51:20;Ps 119:136;Pr 1:16;Es 54:3;Mc 5:14;Ro 3:15;Hé 12:4	
 Réparer	Réparer	v	1 R 18:30;Ps 60:4;Am 9:11;Mt 4:21;Ac 15:16	
 Repas	Repas	n	Pr 15:17;Mt 15:2;Mc 3:20;1 Co 11:20;2 Pi 2:13;Jud 1:12	
@@ -2160,7 +2161,7 @@ Retenir	ret(?:en(?:ir|us?|)|iend?)(?:i?ons|r?ez|t|ne)?	vi	Pr 4:4;Pr 27:16;Ec 8:8
 Retirer	Retirer	v	Ge 8:3;Ex 4:6;Jg 16:20;1 S 16:14;Job 21:14;Ps 113:7;Es 1:4;Mt 4:10;Mt 4:12;Mt 7:23;Lu 5:8;Hé 10:38	
 Retomber	Retomber	v	Lé 20:9;Ac 5:28;Ac 18:6	
 Retourner	Retourner	v	Ge 3:19;Ge 8:12;Ge 16:9;No 35:28;De 4:30;Ps 114:5;Es 55:7;Es 55:11;Jé 3:1;Os 2:9;Mt 12:44;Mt 21:18;1 Co 7:5;Ga 4:9;Hé 11:15;1 Pi 2:25;2 Pi 2:22	
-Retraite	Retraite	n	2 S 22:3;Ps 46:8;Ps 48:4;Pr 18:10;Ap 18:2	
+Retraite	Retraite	n	2 S 22:3;Ps 46:8;Ps 48:4;Pr 18:10	
 Retrancher	Retrancher	v	Ex 12:15;Pr 2:22;Ec 3:14;Es 53:8;Da 9:26;Jn 15:2;Ro 11:22;1 Co 5:2;Ap 22:19	
 Rétribution	Rétribution	n	De 32:35;Ps 91:8;Pr 11:31;Es 35:4;Es 40:10;Hé 2:2;Ap 22:12	
 Retrouver	Retrouver	v	Ec 11:1;Mt 10:39;Lu 15:24	
@@ -2224,7 +2225,7 @@ Sacrifier	Sacrifier	v	Ex 3:18;De 32:17;Né 4:2;1 Co 5:7;1 Co 8:1;1 Co 10:19;Ap 2
 Sacrilège	Sacrilège[s]?	n	Ac 19:37;Ro 2:22	
 Sadducéens	Sadducéens	n	Mt 3:7;Mt 16:1;Mt 22:23;Ac 4:1;Ac 5:17;Ac 23:8	
 Sage	Sage	n	De 32:29;1 R 4:31;Né 9:20;Job 5:13;Job 37:24;Ps 119:98;Pr 3:7;Pr 3:35;Pr 9:8;Pr 11:30;Pr 13:20;Pr 14:1;Pr 14:3;Pr 14:16;Pr 16:23;Pr 26:12;Ec 2:14;Ec 9:1;Es 5:21;Da 2:21;Ab 1:8;Mt 11:25;Mt 25:4;Ro 1:22;Ro 12:16;Ro 16:27;1 Co 1:20;1 Co 1:25;1 Co 1:26;1 Co 3:18;1 Co 4:10;2 Co 11:19;Ep 5:15;2 Ti 3:15;Tit 1:8;Ja 3:13;Jud 1:25	
-Sagesse	Sagesse	n	De 4:6;1 R 2:6;1 R 4:29;1 R 10:8;Job 12:2;Ps 19:8;Ps 51:8;Ps 90:12;Pr 1:20;Pr 2:6;Pr 3:13;Pr 16:16;Pr 21:30;Pr 24:3;Ec 2:9;Ec 7:11;Ec 9:16;Es 29:14;Jé 8:9;Jé 51:15;Mt 11:19;Mt 13:54;Lu 2:52;Ac 6:3;Ac 7:22;Ro 11:33;1 Co 1:19;1 Co 1:21;1 Co 1:30;1 Co 2:7;1 Co 3:19;1 Co 12:8;Ep 1:17;Ep 3:10;Ep 5:15;Col 1:9;Tit 2:12;Ja 1:5;Ja 3:15;Ja 3:17;Ap 13:18;Ap 17:9	
+Sagesse	Sagesse	n	De 4:6;1 R 2:6;1 R 4:29;1 R 10:8;Job 12:2;Ps 19:8;Ps 51:8;Ps 90:12;Pr 1:20;Pr 2:6;Pr 3:13;Pr 16:16;Pr 21:30;Pr 24:3;Ec 2:9;Ec 7:11;Ec 9:16;Es 29:14;Jé 8:9;Jé 51:15;Mt 11:19;Mt 13:54;Lu 2:52;Ac 6:3;Ac 7:22;Ro 11:33;1 Co 1:19;1 Co 1:21;1 Co 1:30;1 Co 2:7;1 Co 3:19;1 Co 12:8;Ep 1:17;Ep 3:10;Col 1:9;Tit 2:12;Ja 1:5;Ja 3:15;Ja 3:17;Ap 13:18;Ap 17:9	
 Sain	Sain	adj	2 R 5:10;Ps 38:4;Pr 14:30;Ez 47:8;Mt 12:13;Lu 15:27;Ac 27:44;1 Ti 1:10;1 Ti 6:3;2 Ti 1:13;2 Ti 4:3;Tit 1:9;Tit 1:13;Tit 2:2;Tit 2:8	
 Saint	(?<!Esprit )Saint(?!(-Esprit)|( des saints))	n	Ex 3:5;Ex 12:16;Ex 15:17;Ex 19:6;Ex 39:1;Lé 10:10;Lé 19:2;1 S 2:2;2 R 4:9;2 R 19:22;Job 15:15;Ps 16:3;Ps 22:4;Ps 89:19;Es 1:4;Es 12:6;Es 47:4;Es 55:5;Es 65:5;Da 4:13;Da 7:18;Da 9:24;Ha 1:12;Mc 1:24;Lu 1:35;Ac 3:14;Ro 1:7;Ro 12:13;Ro 15:25;1 Co 7:14;Ep 1:4;Ep 5:27;Ep 6:18;Col 1:22;Col 3:12;1 Th 3:13;2 Th 1:10;Hé 9:3;1 Pi 1:15;1 Pi 1:16;1 Pi 2:5;1 Pi 2:9;1 Pi 3:5;Jud 1:20;Ap 3:7;Ap 4:8;Ap 15:4	
 Saint des saints	Saint des saints	expr	Ex 26:33;No 4:4;Ez 41:4;Da 9:24;Hé 9:8;Hé 10:19	
@@ -2471,7 +2472,7 @@ Tomber	Tomber	v	Ge 7:12;Ge 17:3;Ge 49:17;Lé 16:10;Lé 26:8;Lé 26:36;Jg 20:44;1
 Tonnerre	Tonnerre	n	Ex 9:23;Ex 19:16;1 S 2:10;1 S 7:10;1 S 12:17;Job 28:26;Job 38:25;Ps 77:19;Ps 81:8;Ps 104:7;Es 29:6;Mc 3:17;Jn 12:29;Ap 6:1;Ap 10:3;Ap 19:6	
 Topheth	Topheth	np	2 R 23:10;Jé 7:31;Jé 7:32;Jé 19:11	
 Torrent	Torrent	n	Ge 32:23;Ps 110:7;Ps 124:4;Jé 31:9;Ez 47:5;Ha 3:10;Mt 7:25;Jn 18:1	
-Tort	Tort	n	Ex 2:13;Ps 69:5;Pr 14:31;Ec 5:7;Es 11:9;Mal 3:5;Mt 20:13;Mc 10:19;Lu 19:8;Ac 25:10;1 Co 6:7;2 Co 7:2;2 Co 12:13;Ga 4:13;Phm 1:18	
+Tort	Tort	n	Ex 2:13;Ps 69:5;Pr 14:31;Es 11:9;Mal 3:5;Mt 20:13;Mc 10:19;Lu 19:8;Ac 25:10;1 Co 6:7;2 Co 7:2;2 Co 12:13;Ga 4:13;Phm 1:18	
 Tortueux	Tortueux	adj	Pr 2:15;Es 27:1;Es 40:4;Es 45:3;Lu 3:5	
 Toucher	Toucher	v	Ge 3:3;Ex 19:12;Ex 29:37;Ex 30:29;Lé 5:2;Lé 5:3;Lé 6:11;No 19:22;Jg 16:26;1 S 10:26;1 R 19:5;2 R 13:21;Job 2:6;Ps 105:15;Pr 6:29;Es 6:7;Es 52:11;Jé 1:9;Da 8:18;Za 2:8;Mt 8:15;Mt 9:21;Mt 14:36;Mt 20:34;Lu 6:19;Lu 7:14;Lu 8:45;Lu 24:39;Jn 20:17;Ac 2:37;Ac 19:12;1 Co 7:1;2 Co 6:17;Col 2:21;Hé 12:18;1 Jn 1:1;1 Jn 5:18	
 Toujours	Toujours	adv	Ge 6:3;Ex 17:16;De 11:1;1 Ch 23:25;2 Ch 5:13;Ps 10:16;Ps 18:51;Ps 73:23;Ps 103:9;Jé 3:12;Da 12:3;Mt 26:11;Lu 15:31;Jn 6:34;Jn 8:29;Jn 8:35;Jn 11:42;Ac 7:51;2 Co 6:10;Ph 4:4;Col 4:6;1 Th 4:17;1 Th 5:16;Tit 1:12;Hé 7:25;Hé 7:28;Hé 10:12;2 Pi 1:15;Jud 1:16	
