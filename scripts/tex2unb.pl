@@ -3,11 +3,13 @@
 # modules
 use strict;
 use warnings;
+use File::Basename;
 
 # variables
 my $name = 'bjc';
-my $src_dir = '../tex/'.$name;
-my $dst_file = '../unb/'.$name.'.txt';
+my $dirname = dirname(__FILE__);
+my $src_dir = $dirname.'/../tex/'.$name;
+my $dst_file = $dirname.'/../unb/'.$name.'.txt';
 my ($src_dh, $src_fh, $dst_fh, $output);
 my (@file_list, $src_file, $line, $book, $chapter, $verse, $text);
 
