@@ -206,7 +206,7 @@ Arme	Arme	n	Né 4:17;Es 54:17;Lu 11:22;Ro 13:12;2 Co 10:4;Ep 6:11
 Armée	Armée	n	Jos 5:14;1 S 17:26;Ps 27:3;Ps 33:16;Ps 68:12;Ps 103:21;Ps 110:3;Es 6:3;Ez 37:10;Joë 2:11;Lu 2:13;Lu 21:20;Hé 11:34;Ap 19:19	
 Armure	Armure	n	2 S 21:16;1 R 20:11;Jé 46:4;Jé 51:3	
 Aromates	Aromates	n	Ex 30:34;1 R 10:10;Est 2:12;Ca 3:6;Ez 27:22;Mc 16:1;Jn 19:40	
-Arracher	Arracher	v	Ge 8:11;1 R 11:31;2 Ch 7:20;Ec 3:2;Jé 1:10;Jé 24:6;Mt 5:29;Mt 12:1;Mt 13:41;Ga 1:4	
+Arracher	Arracher	v	Ge 8:11;1 R 11:31;2 Ch 7:20;Ec 3:2;Jé 1:10;Jé 24:6;Mi 3:2;Mt 5:29;Mt 12:1;Mt 13:41;Ga 1:4	
 Arrêt	Arrêt	n	Es 10:32;Es 24:3;Da 2:14	
 Arrêter	Arrêter	v	Ge 19:17;Ge 41:32;Ex 3:5;Ex 14:13;Jos 4:7;Jos 10:12;Ps 1:1;Ps 46:11;Es 62:7;Jon 1:15;Mc 14:48;Jn 1:33;Ac 4:3;Ac 8:38;Ro 9:11;Ac 12:3;Ga 5:7;Ap 12:4	
 Arrhes (de l'Esprit)	Arrhes 	n	2 Co 1:22;2 Co 5:5	
@@ -1191,7 +1191,7 @@ Huile	Huile	n	Ge 35:14;Ex 25:6;Ex 30:25;Lé 2:1;Lé 10:7;No 4:16;No 11:8;No 28:1
 Hulda	Hulda	np	2 R 22:14;2 Ch 34:22	
 Humble	Humble	adj	Ps 25:9;Ps 138:6;Pr 29:23;Es 57:15;So 3:12;Mt 11:29;Mt 18:4;Ro 12:16	
 Humiliation	Humiliation	n	Né 6:16;Ac 8:33	
-Humilier	Humilier	v	Ex 10:3;Lé 23:29;De 8:2;De 8:16;2 S 22:28;2 R 22:19;2 Ch 32:26;2 Ch 33:12;Ps 107:12;Ps 119:67;Ps 119:71;Ps 119:75;Pr 3:34;Esd 8:21;La 3:33;Da 10:12;Ja 4:10;1 Pi 5:6	
+Humilier	Humilier	v	Ex 10:3;Lé 23:29;De 8:2;De 8:16;2 S 22:28;2 R 22:19;2 Ch 32:26;2 Ch 33:12;Ps 107:12;Ps 119:67;Ps 119:71;Ps 119:75;Pr 3:34;Esd 8:21;Es 50:7;La 3:33;Da 10:12;Ja 4:10;1 Pi 5:6	
 Humilité	Humilité	n	Pr 15:33;Pr 18:12;Pr 22:4;Mi 6:8;So 2:3;Ac 20:19;Ep 4:2;Ph 2:3;Col 2:18;Col 2:23;Col 3:12;1 Pi 5:5	
 Hur	Hur	np	Ex 17:12;Ex 24:14;Ex 31:2;No 31:8;Jos 13:21;1 R 4:8;1 Ch 2:20;1 Ch 2:50;2 Ch 1:5;Né 3:9	
 Hyménée	Hyménée	np	1 Ti 1:20;2 Ti 2:17	
@@ -2462,6 +2462,7 @@ Tiglath-Piléser, Tilgath-Pilnéser	(?:Tiglath-Piléser|Tilgath-Pilnéser)	np	2 
 Timidité	Timidité	n	2 Ti 1:7	
 Timothée	Timothée	np	Ac 16:1	Disciple de Jésus et collaborateur de Paul : Ac 16:1-3; 17:14; 19:22; Ro 16:21; Ph 2:19\\Instructions de Paul : 1 Tim 1:2-3; 3:14-15\\Autres : 1 Co 16:10; 1 Th 3:2-6; Hé13:23
 Tison	Tison	n	Es 7:4;Am 4:11;Za 3:2	
+Tisser	Tisser	v	Mi 7:3
 Tite	Tite	np	2 Co 2:12;2 Co 7:6;2 Co 8:16;2 Co 8:23;Ga 2:1;2 Ti 4:10;Tit 1:4	
 Tobija	Tobija	np	Né 2:10;Né 4:3;Né 6:12;Né 13:4	
 Toile	Toile	n	Job 8:14;Es 38:12;Es 59:5	
@@ -2570,7 +2571,7 @@ Vengeur	Vengeur	n	No 35:12;No 35:27;De 19:12;2 S 14:11
 Venin	Venin	n	De 32:24;De 32:33;Job 6:4;Job 20:16;Ps 58:5;Ps 140:3;La 3:5;Ez 16:36;Ro 3:13;Ja 3:8	
 Venir	v(?:en(?:ez|ir|ait|u[e]?[s]?)|ien(?:[st]|nent|dra))	vi	Ge 2:19;Ge 6:17;Ex 33:15;No 10:29;1 S 16:12;1 Ch 29:14;Ps 38:23;Ps 105:28;Pr 19:15;Es 1:18;Es 28:29;Es 53:6;Da 9:12;Za 3:8;Mt 10:23;Mt 11:3;Mt 11:14;Mt 11:28;Mt 17:12;Mt 16:24;Mt 19:14;Mt 25:5;Mc 1:45;Mc 10:14;Jn 2:4;Jn 4:23;Jn 6:37;Jn 6:44;Jn 8:21;Jn 10:12;Ac 10:5;Ro 5:14;2 Th 2:2;Hé 10:37;2 Pi 2:5;Ap 3:9;Ap 22:12	
 Vent	Vent	n	Ge 3:8;Ge 8:1;1 R 19:11;Ps 11:6;Ps 78:26;Ps 104:4;Ps 135:7;Pr 27:16;Pr 30:4;Ec 5:15;Ec 11:4;Ec 11:5;Es 26:18;Ez 1:4;Da 7:2;Os 8:7;Am 4:13;Jon 1:4;Jon 4:8;Mt 7:25;Mt 8:27;Mt 14:24;Jn 3:8;Ac 2:2;Ac 27:7;Ja 1:6;Ap 7:1	
-Ventre	Ventre	n	Ge 3:14;Ge 25:22;Ge 25:24;Job 1:21;Ps 17:14;Ps 22:10;Ps 127:3;Ec 5:14;Ec 11:5;Es 49:1;Jé 1:5;Am 1:13;Jon 2:1;Mt 12:40;Mt 15:17;Mt 19:12;Lu 1:31;Lu 11:27;Ro 16:18;1 Co 6:13;Ga 1:15;Ph 3:19	
+Ventre	Ventre	n	Ge 3:14;Ge 25:22;Ge 25:24;Job 1:21;Ps 17:14;Ps 22:10;Ps 127:3;Ec 5:14;Ec 11:5;Es 49:1;Jé 1:5;Am 1:13;Jon 2:1;Mi 6:14;Mt 12:40;Mt 15:17;Mt 19:12;Lu 1:31;Lu 11:27;Ro 16:18;1 Co 6:13;Ga 1:15;Ph 3:19	
 Venue	Venue	n	Os 6:3;Ac 13:24;2 Pi 3:12;1 Jn 4:3	
 Ver	Ver	n	Job 25:6;Ps 22:7;Es 66:24;Jon 4:7;Mc 9:48;Ja 5:2	
 Verge	Verge	n	Ex 4:2;Ex 4:20;No 17:8;No 20:11;2 S 7:14;Job 9:34;Ps 89:33;Pr 13:24;Pr 22:15;Pr 23:14;Es 10:5;Ez 21:15;Za 11:10;Mt 10:17;Jn 18:22;Ac 5:40;1 Co 4:21;2 Co 11:25;Hé 9:4;Hé 12:6	
