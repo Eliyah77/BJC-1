@@ -113,14 +113,14 @@
 }
 \makeatother
 % inclusion table des matières
-\clearpage\tableofcontents\clearpage
+\clearpage\pagenumbering{arabic}\tableofcontents\clearpage
 % en-tête pages
 \makeatletter
 \def\@evenhead{{\NoAutoSpaceBeforeFDP{\small{\rightmark\hfil\thepage\hfil\leftmark}}}}
 \def\@oddhead{{\NoAutoSpaceBeforeFDP{\small{\rightmark\hfil\thepage\hfil\leftmark}}}}
 \makeatother
 % inclusion des livres
-\addcontentsline{toc}{chapter}{Tanakh}\pagenumbering{arabic}\clearpage
+\addcontentsline{toc}{chapter}{Tanakh}\clearpage
 \addcontentsline{toc}{section}{Torah (Loi)}\clearpage
 \clearpage\input{bjc/entetes/torah}
 \clearpage\input{bjc/01-Genese}
