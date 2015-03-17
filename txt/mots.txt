@@ -551,7 +551,7 @@ Convaincre	Convaincre	v	Job 9:20;Job 24:25;Jn 8:46;Jn 16:8;2 Ti 3:16;Jud 1:15
 Conversion	Conversion	n	Ac 15:3;Ac 26:20	
 Convertir	Convertir	v	Ps 7:13;Ps 22:28;Es 1:27;Es 6:10;Es 10:21;Es 59:20;Jé 3:14;Jé 5:3;Jé 8:5;La 5:21;Ez 18:32;Os 7:10;Za 1:6;Mal 3:18;Mt 18:3;Mc 4:12;Lu 22:32;Ac 3:19;Ac 9:35;Ac 11:21;Ac 14:15;Ac 15:19;Ro 11:12;2 Co 3:16;1 Th 1:9;1 Ti 3:6	
 Convocation	Convocation	n	Ex 12:16;Lé 23:3;No 29:7;Es 1:13	
-Convoiter	Convoiter	v	Ex 20:17;No 11:34;De 5:21;De 7:25;Jos 7:21;Job 20:20;Pr 6:25;Es 13:17;Mi 2:2;Mi 7:3;Mt 5:28;Ro 7:7;Ro 13:9;1 Co 10:6;Ja 4:2	
+Convoiter	Convoiter	v	Ex 20:17;No 11:34;De 5:21;De 7:25;Jos 7:21;Job 20:20;Pr 6:25;Es 13:17;Mi 2:2;Mt 5:28;Ro 7:7;Ro 13:9;1 Co 10:6;Ja 4:2	
 Convoitise	Convoitise	n	No 11:4;Ps 106:14;Mc 4:19;Ro 1:24;Ro 6:12;Ro 7:7;Ro 13:14;Ep 2:3;Ep 4:22;1 Th 4:5;2 Ti 3:6;Tit 3:3;Ja 1:14;Ja 1:15;1 Pi 2:11;1 Pi 4:3;2 Pi 1:4;2 Pi 3:3;1 Jn 2:16;Jud 1:16	
 Coq	Coq	n	Mt 26:34;Mc 13:35;Lu 22:34;Lu 22:60;Jn 18:27	
 Corbeau	Corbeau	n	Ge 8:7;Lé 11:15;De 14:14;1 R 17:4;1 R 17:6;Job 39:3;Ps 147:9;Pr 30:17;Es 34:11;Lu 12:24	
@@ -607,7 +607,7 @@ Crime	Crime	n	Ge 31:36;Ge 50:17;Ex 34:7;Lé 18:17;1 Ch 10:13;Esd 10:10;Job 13:23
 Criminel	Criminell?e?s?	n	Ps 41:9;1 Pi 4:3	
 Cristal	Cristal	n	Job 28:18;Ez 1:22;Ap 4:6;Ap 21:11;Ap 22:1	
 Croire	cr(?:us?(?:rent)?|oi(?:[st]|r(?:ez?|on[st]|as?)|e(?:nt)?)|oy(?:i?ez|ant))	vi	Ex 4:1;No 14:11;No 20:12;Ps 78:32;Ps 106:12;Pr 14:15;Es 9:15;Es 53:1;Mt 9:28;Mt 13:21;Mt 21:32;Mc 5:36;Mc 9:23;Mc 11:23;Mc 16:16;Lu 24:25;Jn 1:7;Jn 1:12;Jn 2:22;Jn 2:23;Jn 3:12;Jn 3:16;Jn 3:18;Jn 3:36;Jn 5:46;Jn 6:29;Jn 7:38;Jn 10:38;Jn 11:26;Jn 14:10;Jn 17:8;Jn 17:21;Jn 20:29;Jn 20:31;Ac 4:4;Ac 17:29;Ac 19:4;Ro 4:3;Ro 10:10;Ro 10:11;1 Co 3:18;1 Co 8:2;1 Co 13:7;1 Co 14:37;2 Co 4:13;2 Th 2:11;Ph 1:29;1 Ti 3:16;2 Ti 1:12;Ja 2:19;1 Pi 1:8;1 Jn 5:13;Jud 1:5	
-Croître	cro(?:îtr?[ae]?(?:ont)?|iss(?:a[in]t|e(?:nt)?|i?ez))	vi	Ge 17:6;Ex 1:12;1 S 2:26;Job 17:9;Ps 92:13;Pr 9:9;Es 5:6;Es 17:11;Ez 16:7;Ez 37:6;Ez 44:20;Jon 4:6;Mt 13:30;Mc 4:27;Lu 2:40;Lu 2:52;Lu 12:27;Jn 3:30;Ac 6:7;2 Co 10:15;Col 1:10;1 Th 3:12;1 Pi 2:2;2 Pi 3:18	
+Croître	cro(?:îtr?[ae]?(?:ont)?|iss(?:a[in]t|e(?:nt)?|i?ez))	vi	Ge 17:6;Ex 1:12;1 S 2:26;Job 17:9;Ps 92:13;Pr 9:9;Es 5:6;Es 17:11;Ez 16:7;Ez 37:6;Ez 44:20;Jon 4:6;Mt 13:30;Mc 4:27;Lu 2:40;Lu 2:52;Lu 12:27;Jn 3:30;Ac 6:7;Col 1:10;1 Th 3:12;1 Pi 2:2;2 Pi 3:18	
 Croix	Croix	n	Mt 10:38;Mt 16:24;Mt 27:32;Mt 27:40;Mc 15:21;Jn 19:17;Jn 19:19;Jn 19:25;Jn 19:31;Ac 2:23;1 Co 1:17;1 Co 1:18;Ga 5:11;Ga 6:12;Ga 6:14;Ep 2:16;Ph 2:8;Ph 3:18;Col 2:14;Col 2:15;Hé 12:2	
 Croyant	Croyant	n	Mc 9:23;Ro 10:4;1 Co 14:22;1 Co 14:23;Ga 3:9	
 Cruche	Cruche	n	Ge 24:15;Jg 7:16;1 S 26:11;1 R 17:14;1 R 18:34;1 R 19:6;Ec 12:8;Mc 7:8;Mc 14:13;Jn 4:28	
@@ -1608,7 +1608,7 @@ Miséricordieux	Miséricordieux	adj	Ex 22:27;Ex 34:6;De 4:31;Né 9:17;Ps 130:7;P
 Mitspa, Mitspé	Mitsp[aé]	np	Ge 31:49;Jos 18:26;Jg 10:17;Jg 11:11;1 S 7:5;1 S 10:17	
 Moab, Moabites	Moab(?:ite[s]?)?	np	Ge 19:37;Ex 15:15;No 25:1;De 2:8;2 S 8:2;2 R 1:1;Es 15:1	
 Modèle	Modèle	n	Ex 25:9;1 Ch 28:11;Ph 3:17;1 Th 1:7;2 Th 3:9;1 Ti 4:12;2 Ti 1:13;Tit 2:7;Hé 8:5;1 Pi 2:21;1 Pi 5:3	
-Moindre	Moindre	adj	Es 60:22;Da 2:39;Lu 12:26;1 Co 15:9;2 Co 11:5;Ep 3:8;Hé 7:7	
+Moindre	Moindre	adj	Es 60:22;Da 2:39;Lu 12:26;1 Co 15:9;Ep 3:8;Hé 7:7	
 Mois	Mois	n	Ge 7:11;Ex 12:2;Lé 16:29;No 11:20;Jn 4:35;Ga 4:10;Ap 13:5;Ap 22:2	
 Moïse	Moïse	np	Ex 2:10;1 Ch 6:3	Naissance de M : Ex 2:2-10; Ac 7:20; Hé 11:23\\Recueillit par la fille de pharaon : Ac 7:20-22\\Sa foi : Hé 11:24-26\\Sa fuite : Ex 2:15\\Yahweh se révèle dans le buisson ardent : Ex 3\\Retour en Egypte : Ex 4:19-20\\Pharaon s'oppose à M : Ex 5:1-4; 11:5-8\\La première Pâque : Ex 12:3,11; Hé 11:28\\Israël sort d'Egypte : Ex 12:37-42; Hé 11:27\\Les dix paroles : Ex 20\\Yahweh fait monter M sur la montagne de Sinaï : Ex 24:15-18; 34:2,28\\Le tabernacle : Ex 26:1; 40:1-2\\M. implore Yahweh pour le peuple : Ex 32:11; No 11:2; 14:13-19; Ps 106:23\\La gloire de Yahweh sur son visage : Ex 34:29; 2 Co 3:7-13\\L'homme le plus doux de la terre : No 12:3\\Un homme fidèle : No 12:7; Hé 3:2-5\\Incrédule à Meriba : No 20:8-12; De 32:50-51\\Le serpent d'airain : No 21:8-9; Jn 3:14\\Josué, successeur de M : De 3:28\\Sa mort : De 34:5-8; Jud 1:9\\Yahweh parle face à face à M : No 12:7-8; De 34:10-12\\Apparition durant la transfiguration : Mt 17:3\\Annonce la venue du Messie : De 18:15-18\\Autres: Ps 90:1; 103:7; Lu 16:29; 24:27
 Moisi	Moisi	adj	Jos 9:5;Jos 9:12	
@@ -2538,7 +2538,7 @@ Tyr	Tyr	np	Jos 19:29;Ez 27:3	Une ville et sa forteresse : Jos 19:29; 2 S 24:7; J
 Ulcère	Ulcère	n	Ex 9:11;Lé 22:22;De 28:27;2 R 20:7;Job 2:7;Es 38:21;Lu 16:21;Ap 16:2	
 Un, une	Un	n	Ge 1:5;Ge 2:24;De 6:4;Es 34:16;Mal 2:10;Mt 23:9;Jn 8:9;Jn 10:16;Jn 11:52;Jn 17:11;Ro 3:30;1 Co 6:17;1 Co 8:6;1 Co 10:17;1 Co 12:11;2 Co 11:2;Ga 3:20;Ga 3:28;Ep 2:16;Ep 4:4;Ep 4:5;Ep 4:6;Col 3:15;Ja 2:19	
 Unique	Unique	adj	Ge 22:2;Jg 11:34;Ps 35:17;Pr 4:3;Ca 6:9;Am 8:10;Za 12:10;Za 14:7;Lu 7:12;Lu 8:42;Lu 9:38;Jn 1:14;Jn 1:18;Jn 3:16;Jn 3:18;Hé 11:17;1 Jn 4:9	
-Unir	Unir	v	Jg 20:11;Ps 31:14;Ps 133:1;Mi 7:3;1 Co 1:10;1 Co 7:35;1 Co 6:16;1 Co 6:17;2 Co 5:14;Col 2:2	
+Unir	Unir	v	Jg 20:11;Ps 31:14;Ps 133:1;1 Co 1:10;1 Co 7:35;1 Co 6:16;1 Co 6:17;2 Co 5:14;Col 2:2	
 Unité	Unité	n	Ep 4:3;Ep 4:13	
 Ur	Ur	np	Ge 11:28;Ge 11:31;Ge 15:7;Né 9:7	
 Urie	Urie	np	2 S 11:3;2 R 16:16	Bath-Schéba son épouse : 2 S 11:3\\Autres : 2 S 11:14-17; 12:9; 23:39; 1 R 15:5\\Le prêtre : 2 R 16:10-16\\Le prophète, fils de Schemaeja : Jé 26:20-23
