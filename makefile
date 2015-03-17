@@ -65,10 +65,10 @@ pdf/bjc.pdf: tex/bjc.tex tex/bjc/*.tex tex/bjc/entetes/*.tex tex/bjc/aides/*.tex
 		cat 871-999 output pdf/bjc_tmp_7_evangiles.pdf
 	pdftk \
 		pdf/bjc_tmp.pdf \
-		cat 1001-1173 output pdf/bjc_tmp_8_testament.pdf
+		cat 1001-1172 output pdf/bjc_tmp_8_testament.pdf
 	pdftk \
 		pdf/bjc_tmp.pdf \
-		cat 1175-r36 output pdf/bjc_tmp_9_dico.pdf
+		cat 1174-r36 output pdf/bjc_tmp_9_dico.pdf
 	pdftk \
 		pdf/bjc_tmp_annexes.pdf \
 		cat r34-r27 output pdf/bjc_tmp_11_annexes1.pdf
