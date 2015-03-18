@@ -2043,7 +2043,7 @@ Raison	Raison	n	Ge 27:36;2 S 13:16;Job 36:3;Pr 11:22;Pr 12:8;Da 4:36;Mt 6:30;Mt 
 Raisonnement	Raisonnement	n	Job 32:11;1 Co 3:20;2 Co 10:5	
 Rajeunir	Rajeunir	v	Job 33:25	
 Rama	Rama	np	1 S 1:19;Jé 31:15;Mt 2:18	
-Ramasser	Ramasser	v	Ru 2:7;1 R 17:10;Ec 3:5;Mi 2:12;Mt 13:47;Lu 15:13;Jn 6:13;Ac 28:3	
+Ramasser	Ramasser	v	Ru 2:7;1 R 17:10;Ec 3:5;Mt 13:47;Lu 15:13;Jn 6:13;Ac 28:3	
 Rameau	Rameau	n	Es 11:1;Mal 4:1;Mt 21:8	
 Ramener	Ramener	v	Ge 14:16;Ge 24:6;No 22:23;1 S 6:21;1 R 13:20;Né 9:26;Ps 85:2;Ps 126:1;Pr 26:15;Es 49:6;Ez 34:4;Ez 47:1;Lu 1:17;Lu 5:11;Ac 20:12;Ga 2:4;Hé 13:20	
 Ramer	Ramer	v	Jon 1:13;Mc 6:48	
