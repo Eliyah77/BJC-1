@@ -68,10 +68,13 @@ pdf/bjc.pdf: tex/bjc.tex tex/bjc/*.tex tex/bjc/entetes/*.tex tex/bjc/aides/*.tex
 		cat 1001-1172 output pdf/bjc_tmp_8_testament.pdf
 	pdftk \
 		pdf/bjc_tmp.pdf \
-		cat 1174-r36 output pdf/bjc_tmp_9_dico.pdf
+		cat 1174-r38 output pdf/bjc_tmp_9_dico.pdf
 	pdftk \
 		pdf/bjc_tmp_annexes.pdf \
-		cat r34-r27 output pdf/bjc_tmp_11_annexes1.pdf
+		cat r36-r29 output pdf/bjc_tmp_11_annexes1.pdf
+	pdftk \
+		pdf/bjc_tmp_annexes.pdf \
+		cat r1 output pdf/bjc_tmp_13_annexes3.pdf
 	pdftk \
 		pdf/annexes/10_* \
 		pdf/annexes/11_* \
@@ -98,6 +101,7 @@ pdf/bjc.pdf: tex/bjc.tex tex/bjc/*.tex tex/bjc/entetes/*.tex tex/bjc/aides/*.tex
 		pdf/annexes/32_* \
 		pdf/annexes/33_* \
 		pdf/annexes/34_* \
+		pdf/annexes/35_* \
 		cat output pdf/bjc_tmp_12_annexes2.pdf
 	pdftk \
 		pdf/bjc_tmp_1_* \
@@ -119,6 +123,7 @@ pdf/bjc.pdf: tex/bjc.tex tex/bjc/*.tex tex/bjc/entetes/*.tex tex/bjc/aides/*.tex
 		pdf/entetes/Annexes.pdf \
 		pdf/bjc_tmp_11_* \
 		pdf/bjc_tmp_12_* \
+		pdf/bjc_tmp_13_* \
 		cat output pdf/bjc_tmp.pdf
 	pdftk \
 		pdf/bjc_tmp.pdf \
@@ -131,7 +136,7 @@ bjc_imprim: pdf/bjc_imprim.pdf
 pdf/bjc_imprim.pdf: pdf/bjc.pdf
 	pdftk \
 		pdf/bjc.pdf \
-		cat 1-r20 r19-r7east r6-end \
+		cat 1-r22 r21-r9east r8-end \
 		output pdf/bjc_tmp_imprim.pdf
 	pdftk \
 		pdf/bjc_tmp_imprim.pdf \

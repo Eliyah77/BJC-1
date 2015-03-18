@@ -263,7 +263,18 @@
 % alphabet hebreu
 \addcontentsline{toc}{section}{Alphabet hébreu}\clearpage
 \begin{center}Alphabet hébreu\end{center}\clearpage
+% alphabet grec
+\addcontentsline{toc}{section}{Alphabet grec}\clearpage
+\begin{center}Alphabet grec\end{center}\clearpage
 % chrono jesus
 \addcontentsline{toc}{section}{Chronologie autour de Jésus-Christ}\clearpage
 \begin{center}Chronologie autour de Jésus-Christ\end{center}\clearpage
+% réinitialiser mise en forme
+\makeatletter
+\def\@oddhead{\hfil}
+\def\@evenhead{\hfil}
+\def\@oddfoot{\hfil}
+\def\@evenfoot{\hfil}
+\makeatother
+\begin{center}Notes\end{center}\clearpage
 \end{document}
