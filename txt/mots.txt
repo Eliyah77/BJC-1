@@ -1100,8 +1100,8 @@ Germe	Germe	n	Job 5:6;Ps 65:11;Ps 85:12;Es 4:2;Jé 23:5;Jé 33:15;Za 3:8;Za 6:12
 Gestionnaires	gestionnaire[s]?	n	1 Co 4:1;1 Co 4:2;1 Pi 4:10	
 Gethsémané	Gethsémané	np	Mt 26:36;Mc 14:32	
 Glaive	Glaive	n	Ge 49:5	
-Gloire	Gloire	n	Ge 45:13;Ex 16:7;Ex 33:18;Ex 40:34;Lé 9:23;No 14:21;De 5:24;Jos 7:19;Jg 13:17;1 S 4:21;1 R 8:11;1 Ch 16:24;1 Ch 16:28;Ps 8:6;Ps 19:2;Ps 26:8;Ps 29:9;Ps 66:2;Ps 106:20;Ps 115:1;Pr 3:35;Pr 25:27;Pr 26:1;Es 6:3;Es 40:5;Es 42:8;Ez 1:28;Ez 11:23;Ez 43:2;Os 4:7;Ha 2:14;Ag 2:9;Mt 6:29;Mt 16:27;Mt 25:31;Lu 2:9;Lu 2:14;Lu 9:31;Lu 9:32;Jn 1:14;Jn 5:41;Jn 5:44;Jn 8:50;Jn 11:40;Jn 12:41;Jn 12:43;Jn 17:5;Jn 17:22;Jn 17:24;Ro 1:23;Ro 2:10;Ro 3:23;Ro 5:2;Ro 8:18;Ro 11:36;1 Co 2:8;1 Co 10:31;1 Co 11:7;2 Co 3:18;2 Co 4:6;2 Co 4:17;Ga 5:26;Ep 1:14;Ep 3:21;Col 1:11;1 Ti 3:16;Tit 2:13;Hé 1:3;Hé 2:10;Hé 3:3;1 Pi 4:14;1 Pi 5:10;2 Pi 1:17;Ap 4:11;Ap 15:8;Ap 19:1	
-Glorieux	Glorieux	adj	1 Ch 29:13;Esd 4:10;Né 9:5;Ps 72:19;Es 33:21;Es 60:13;Es 63:12;Es 63:14;Es 64:10;1 Co 15:43;2 Co 3:7;2 Co 3:11;Ep 5:27;Ph 3:21	
+Gloire	Gloire	n	Ge 45:13;Ex 16:7;Ex 33:18;Ex 40:34;Lé 9:23;No 14:21;De 5:24;Jos 7:19;Jg 13:17;1 S 4:21;1 R 8:11;1 Ch 16:24;1 Ch 16:28;Ps 8:6;Ps 19:2;Ps 26:8;Ps 29:9;Ps 66:2;Ps 106:20;Ps 115:1;Pr 3:35;Pr 25:27;Pr 26:1;Es 6:3;Es 40:5;Es 42:8;Ez 1:28;Ez 11:23;Ez 43:2;Os 4:7;Ha 2:14;Ag 2:9;Mt 6:29;Mt 16:27;Mt 25:31;Lu 2:9;Lu 2:14;Lu 9:31;Lu 9:32;Jn 1:14;Jn 5:41;Jn 5:44;Jn 8:50;Jn 11:40;Jn 12:41;Jn 12:43;Jn 17:5;Jn 17:22;Jn 17:24;Ro 1:23;Ro 2:10;Ro 3:23;Ro 5:2;Ro 8:18;Ro 11:36;1 Co 2:8;1 Co 10:31;1 Co 11:7;1 Co 15:43;2 Co 3:18;2 Co 4:6;2 Co 4:17;Ga 5:26;Ep 1:14;Ep 3:21;Col 1:11;1 Ti 3:16;Tit 2:13;Hé 1:3;Hé 2:10;Hé 3:3;1 Pi 4:14;1 Pi 5:10;2 Pi 1:17;Ap 4:11;Ap 15:8;Ap 19:1	
+Glorieux	Glorieux	adj	1 Ch 29:13;Esd 4:10;Né 9:5;Ps 72:19;Es 33:21;Es 60:13;Es 63:12;Es 63:14;Es 64:10;2 Co 3:7;2 Co 3:11;Ep 5:27;Ph 3:21	
 Glorifier	Glorifier	v	2 Ch 25:19;Es 60:9;Da 5:23;Mt 9:8;Lu 4:15;Lu 5:25;Lu 7:16;Jn 8:54;Jn 11:4;Jn 12:16;Jn 12:28;Jn 13:31;Jn 13:32;Jn 17:4;Ac 3:13;Ac 4:21;Ac 10:46;Ac 19:17;Ro 1:21;Ro 3:27;Ro 5:2;Ro 8:17;Ro 8:30;1 Co 1:29;1 Co 1:31;1 Co 4:7;1 Co 6:20;2 Co 5:12;2 Co 8:24;2 Co 10:8;2 Co 11:17;2 Co 12:6;Ga 1:24;Ga 6:4;Ph 1:20;Ph 1:26;2 Th 1:10;1 Pi 4:11	
 Gog	Gog	np	1 Ch 5:4;Ez 38:2;Ez 38:3;Ez 39:1;Ez 39:11;Ap 20:8	
 Golgotha	Golgotha	np	Mt 27:33;Mc 15:22;Jn 19:17	
@@ -1886,7 +1886,7 @@ Plant	Plant	n	De 32:32;Ps 80:16;Ps 128:3;Jé 2:21
 Plante	Plante	n	Ge 2:5;Es 53:2;Es 60:21;Mt 13:32;Mt 15:13;Ro 6:5	
 Planter	Planter	v	Ge 2:8;Ge 9:20;Ge 21:33;De 16:21;2 S 7:10;Ps 1:3;Ps 80:16;Ps 92:14;Ps 94:9;Ec 3:2;Jé 2:21;Jé 18:9;Jé 24:6;Mt 21:33;Lu 17:6;Lu 17:28;Ro 6:5;1 Co 3:6;Ja 1:21	
 Pléiades	Pléiades	np	Job 9:9;Job 38:31;Am 5:8	
-Plein	Plein	adj	Ex 16:33;Ps 48:11;Ps 65:10;Ps 91:6;Ps 104:24;Pr 17:1;Es 58:1;Mt 14:20;Mt 23:27;Lu 5:4;Ac 2:13;Ro 3:14;1 Co 15:43;2 Ti 3:7;Ja 5:11;Ap 4:6;Ap 5:8	
+Plein	Plein	adj	Ex 16:33;Ps 48:11;Ps 65:10;Ps 91:6;Ps 104:24;Pr 17:1;Es 58:1;Mt 14:20;Mt 23:27;Lu 5:4;Ac 2:13;Ro 3:14;2 Ti 3:7;Ja 5:11;Ap 4:6;Ap 5:8	
 Plénitude	Plénitude	n	Es 66:11;Jn 1:16;Ep 1:23;Ep 3:19;Col 1:19;Col 2:9	
 Pleurer	Pleurer	v	Ge 21:16;Ge 37:35;Ge 50:17;Ex 2:6;Jg 20:26;2 S 15:30;Esd 3:12;Esd 10:1;Né 8:9;Est 4:3;Ps 137:1;Ec 3:4;Es 22:4;Jé 9:1;Jé 13:17;Za 12:10;Mt 2:18;Mt 5:4;Mt 26:75;Mc 5:38;Lu 6:21;Lu 7:13;Lu 19:41;Jn 11:35;Jn 16:20;Jn 20:11;Ro 12:15	
 Pleurs	Pleurs	n	Ge 35:8;Esd 10:1;Ps 30:6;Ps 6:9;Ps 35:14;Es 65:19;Jé 48:5;Joë 2:12;Mt 8:12	
