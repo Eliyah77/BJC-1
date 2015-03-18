@@ -561,7 +561,7 @@ Corinthe	Corinthe	np	Ac 18:1;Ac 18:18;1 Co 1:2
 Corne	Corne	n	Ge 22:13;Lé 4:7;Jos 6:5;1 S 16:1;1 S 16:13;Ps 92:11;Ps 112:9;Ps 118:27;Ps 132:17;Ez 29:21;Da 7:7;Da 7:24;Da 8:8;Am 3:14;Mi 4:13;Za 1:18;Za 11:16;Ap 5:6;Ap 12:3;Ap 17:3;Ap 17:16	
 Corneille	Corneille	n	Ac 10:1;Ac 11:12	
 Corps	Corps	n	Ps 16:9;Ps 109:24;Ps 139:15;Es 51:23;Da 3:28;Mt 5:29;Mt 6:25;Mt 10:28;Mt 26:26;Mt 27:52;Mt 27:58;Lu 17:37;Lu 24:3;Jn 2:21;Jn 11:52;Ac 9:40;Ac 19:12;Ro 1:24;Ro 4:19;Ro 6:6;Ro 7:4;Ro 8:10;Ro 8:11;Ro 8:23;Ro 12:1;Ro 12:5;1 Co 5:3;1 Co 6:13;1 Co 6:19;1 Co 7:4;1 Co 7:34;1 Co 9:27;1 Co 10:16;1 Co 12:12;1 Co 12:27;1 Co 13:3;1 Co 15:35;1 Co 15:38;1 Co 15:40;1 Co 15:44;2 Co 4:10;2 Co 5:6;2 Co 12:2;Ga 6:17;Ep 1:23;Ep 2:16;Ep 4:4;Ep 4:16;Ph 3:21;Col 1:18;Col 1:22;Col 2:11;Col 2:19;1 Th 4:4;1 Th 5:23;Hé 10:5;Hé 10:10;Ja 2:26;1 Pi 2:24;Jud 1:9	
-Correction	Correction	n	Lé 26:23;Job 20:3;Ps 50:17;Pr 5:12;Pr 10:17;Pr 12:1;Pr 15:31;Pr 22:15;Pr 23:13;Os 5:9;2 Co 2:6	
+Correction	Correction	n	Lé 26:23;Job 20:3;Ps 50:17;Pr 5:12;Pr 10:17;Pr 12:1;Pr 15:31;Pr 22:15;Pr 23:13;Os 5:9	
 Corriger	Corriger	v	Pr 9:7;Pr 15:4;Pr 29:17;Pr 29:19;Jé 7:3;Jé 7:5;2 Ti 3:16	
 Corrompre	Corrompre	v	Ge 6:11;Ge 6:12;De 4:16;De 31:29;Jg 2:19;2 Ch 26:16;2 Ch 27:2;Pr 11:9;Es 1:4;Es 3:12;Da 11:32;1 Co 15:33;2 Co 11:3;Ep 4:22;Jud 1:10;Ap 11:18	
 Corruptible	Corruptible	adj	Ro 1:23;1 Co 9:25;1 Co 15:42;1 Co 15:53;1 Pi 1:23	
@@ -898,7 +898,7 @@ Epouse	[Eé]pouse	n	Es 62:4;Joë 2:16;Jn 3:29;Ap 19:7;Ap 21:9;Ap 22:17
 Epouvante	[Eé]pouvante	n	Ps 55:6;Ps 68:31	
 Epouvanter	[Eé]pouvanter	v	2 S 22:5;Job 23:16;Ps 68:31;Jé 23:4;Jé 46:27;Mc 16:5;Lu 21:9;Hé 12:21	
 Epoux	[Eé]poux	n	Ex 4:25;Ps 19:6;Es 54:5;Es 62:4;Joë 2:16;Mt 9:15;Mt 25:6;Jn 3:29;2 Co 11:2;Ap 18:23	
-Epreuve	[Eé]preuve	n	De 13:3;Jg 6:39;Ro 5:4;2 Co 9:13;Ph 2:22;Ja 1:3;Ja 5:11;1 Pi 1:7;1 Pi 4:12;2 Pi 2:9	
+Epreuve	[Eé]preuve	n	De 13:3;Jg 6:39;Ro 5:4;Ph 2:22;Ja 1:3;Ja 5:11;1 Pi 1:7;1 Pi 4:12;2 Pi 2:9	
 Eprouver	[Eé]prouver	v	Ge 22:1;Ex 15:25;Ex 20:20;De 8:2;Jg 3:1;Ps 12:7;Ps 18:31;Ps 26:2;Ps 66:10;Es 28:16;Jé 17:10;Za 13:9;Mal 3:10;Mt 16:1;1 Co 3:13;1 Co 10:13;1 Co 11:28;2 Co 13:5;1 Th 5:21;Hé 11:17;1 Jn 4:1;Ap 2:2;Ap 3:10	
 Epurer	[Eé]purer	v	Jg 7:4;Ps 12:7;Es 48:10;Da 11:35;Mal 3:3	
 Equité	[Eé]quité	n	Ps 45:7;Ps 72:2;Ps 89:15;Ps 96:10;Ps 98:9;Pr 1:3;Pr 2:9;Es 32:1;Jé 10:24;Jé 30:11;Hé 1:8	
@@ -975,7 +975,7 @@ Extrémité	Extrémité	n	1 S 2:10;Né 1:9;Ps 2:8;Ps 19:5;Ps 19:7;Ps 22:28;Ps 59
 Ezéchias	Ezéchias	np	2 R 18:1	Fils d'Achaz, roi de Juda : 2 R 16:20; 18:1-5\\Consécration du temple : 2 Ch 29:5-36\\Rétablissement de la Pâque : 2 Ch 30\\L'ange de Yahweh camp des Assyriens : 2 R 18:13; 19:35-36\\E guérit par Yahweh : 2 R 20:7
 Ezéchiel	Ezéchiel	np	Ez 1:3	Prêtre et prophète : Ez 1:3; 3:11; 33:7\\Visions divines et jugements : Ez 5:5-17; 8:14-17; 9:9; 25:35\\Vision des ossements desséchés : Ez 37:1-14\\Restauration d'Israël : Ez 36:25-27; 37:15-28\\Le futur temple : Ez 40-48
 Fable	Fable[s]?	n	1 Ti 1:4;2 Ti 4:4;Tit 1:14;2 Pi 1:16	
-Face	Face	n	Ge 17:1;Ge 32:30;Ex 20:3;Ex 23:15;Ex 33:11;Ex 33:20;No 6:25;No 6:26;De 5:4;De 34:10;Jg 6:22;2 S 21:1;1 R 8:23;1 Ch 16:11;Job 1:11;Job 33:26;Ps 17:15;Ps 27:9;Ps 51:11;Ps 80:4;Ps 105:4;Es 54:8;Es 59:2;Ez 1:6;Ez 3:8;Ez 10:14;Da 9:3;Da 9:17;Os 5:15;Za 2:13;Mt 18:10;Lu 7:27;Jn 5:37;1 Co 13:12;2 Co 2:10;Ga 2:11;Ap 4:7;Ap 22:4	
+Face	Face	n	Ge 17:1;Ge 32:30;Ex 20:3;Ex 23:15;Ex 33:11;Ex 33:20;No 6:25;No 6:26;De 5:4;De 34:10;Jg 6:22;2 S 21:1;1 R 8:23;1 Ch 16:11;Job 1:11;Job 33:26;Ps 17:15;Ps 27:9;Ps 51:11;Ps 80:4;Ps 105:4;Es 54:8;Es 59:2;Ez 1:6;Ez 3:8;Ez 10:14;Da 9:3;Da 9:17;Os 5:15;Za 2:13;Mt 18:10;Lu 7:27;Jn 5:37;1 Co 13:12;Ga 2:11;Ap 4:7;Ap 22:4	
 Facile	Facile	adj	1 S 18:23;Mc 10:25	
 Faible	(?:af)?Faibl[ie][s]?	adj	Jg 16:7;Es 25:4;Joë 3:10;Am 7:2;Za 12:8;Mt 26:41;Mc 14:38;Ro 4:19;Ro 14:1;Ro 14:4;1 Co 1:27;1 Co 8:7;1 Co 8:11;1 Co 9:22;2 Co 10:10;2 Co 11:29;2 Co 12:10;2 Co 13:3;1 Th 5:14	
 Faiblesse	Faiblesse	n	Ez 16:30;Mt 8:17;Ro 8:26;Ro 14:21;1 Co 1:25;1 Co 2:3;1 Co 15:43;2 Co 12:9;2 Co 13:4;Hé 7:18	
@@ -2362,7 +2362,7 @@ Soufre	Soufre	n	Ge 19:24;Ps 11:6;Ez 38:22;Lu 17:29;Ap 9:18;Ap 14:10;Ap 19:20
 Souiller	Souiller	v	Ge 49:4;Lé 18:20;Lé 18:23;Ps 106:39;Ec 9:2;Es 59:3;Es 64:5;Ez 4:14;Ez 5:11;Da 1:8;Mt 15:11;Jn 18:28;Ac 10:14;Ro 14:14;1 Co 8:7;Tit 1:15;Hé 12:15;Ja 3:6;1 Pi 1:4;Jud 1:8;Ap 21:27;Ap 22:11	
 Souillure	Souillure	n	Ez 36:25;Ac 15:20;2 Co 7:1;Hé 13:4;Ja 1:21;Ja 1:27;1 Pi 3:21;2 Pi 2:20	
 Soulier	Soulier	n	Ex 3:5;Ex 12:11;De 25:9;Jos 5:15;Ru 4:7;Mt 3:11;Mt 10:10;Lu 15:22;Jn 1:27	
-Soumettre	soum(?:ett?(?:re|ez)?|ise?)	vi	Ps 105:22;Lu 2:51;Lu 10:17;Ro 8:7;Ro 13:1;1 Co 14:32;1 Co 16:16;2 Co 9:13;Ep 5:21;Tit 1:10;Tit 3:1;Ja 4:7;Hé 12:9	
+Soumettre	soum(?:ett?(?:re|ez)?|ise?|ission)	vi	Ps 105:22;Lu 2:51;Lu 10:17;Ro 8:7;Ro 13:1;1 Co 14:32;1 Co 16:16;2 Co 9:13;Ep 5:21;Tit 1:10;Tit 3:1;Ja 4:7;Hé 12:9	
 Souper	Souper	v	Lu 14:12;1 Co 11:21;Ap 3:20	
 Soupir	Soupir	n	Ps 38:10;Ps 90:9;Ro 8:26	
 Soupirer	Soupirer	v	Ex 2:23;1 S 7:2;Ps 42:2;Ps 63:2;Ps 84:3;Ec 1:5;Ez 9:4;Mc 8:12;Ro 8:22	
