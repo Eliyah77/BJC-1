@@ -5,9 +5,9 @@ XELATEX ?= cd tex/ ; xelatex --output-directory=../pdf/
 all: bjc
 
 # BJC
-bjc: tex/bjc/aides/bjc_concordance.tex pdf/bjc.pdf pdf/bjc_imprim.pdf bjc_exports
+bjc: tex/bjc/aides/concordance.tex pdf/bjc.pdf pdf/bjc_imprim.pdf bjc_exports
 
-tex/bjc/aides/bjc_concordance.tex: unb/bjc.txt
+tex/bjc/aides/concordance.tex: unb/bjc.txt
 	perl scripts/bjc_concordance_tex.pl
 
 pdf/bjc.pdf: tex/bjc.tex tex/bjc/*.tex tex/bjc/entetes/*.tex tex/bjc/aides/*.tex tex/bjc/annexes/*.tex pdf/entetes/*.pdf pdf/annexes/*.pdf
