@@ -4,27 +4,10 @@ XELATEX ?= cd tex/ ; xelatex --output-directory=../pdf/
 # Toutes (limité à la BJC seule)
 all: bjc
 
-# Martin 1774
-martin_1744: pdf/martin_1744.pdf
-
-pdf/martin_1744.pdf: tex/martin_1744.tex tex/martin_1744/*.tex
-	$(XELATEX) martin_1744
-	$(XELATEX) martin_1744
-	$(XELATEX) martin_1744
-
-# BJC format eco imprim
-bjc_123x180: pdf/bjc_123x180.pdf
-
-pdf/bjc_123x180.pdf: tex/bjc_123x180.tex tex/bjc/*.tex tex/bjc/annexes/*.tex
-	$(XELATEX) bjc_123x180
-	$(XELATEX) bjc_123x180
-	$(XELATEX) bjc_123x180
-
 # BJC
-bjc: pdf/bjc.pdf
+bjc: tex/bjc/aides/bjc_concordance.tex pdf/bjc.pdf pdf/bjc_imprim.pdf bjc_exports
 
-bjc_concordance: tex/bjc/*.tex
-	perl scripts/tex2unb.pl
+tex/bjc/aides/bjc_concordance.tex: unb/bjc.txt
 	perl scripts/bjc_concordance_tex.pl
 
 pdf/bjc.pdf: tex/bjc.tex tex/bjc/*.tex tex/bjc/entetes/*.tex tex/bjc/aides/*.tex tex/bjc/annexes/*.tex pdf/entetes/*.pdf pdf/annexes/*.pdf
@@ -129,9 +112,7 @@ pdf/bjc.pdf: tex/bjc.tex tex/bjc/*.tex tex/bjc/entetes/*.tex tex/bjc/aides/*.tex
 		pdf/bjc_tmp.pdf \
 		update_info_utf8 pdf/bjc_toc.info \
 		output pdf/bjc.pdf
-	rm pdf/bjc_tmp*
-
-bjc_imprim: pdf/bjc_imprim.pdf
+	@ rm -vf pdf/bjc_tmp*
 
 pdf/bjc_imprim.pdf: pdf/bjc.pdf
 	pdftk \
@@ -142,11 +123,38 @@ pdf/bjc_imprim.pdf: pdf/bjc.pdf
 		pdf/bjc_tmp_imprim.pdf \
 		update_info_utf8 pdf/bjc_toc.info \
 		output pdf/bjc_imprim.pdf
-		rm pdf/bjc_tmp*
+		@ rm -vf pdf/bjc_tmp*
+
+bjc_exports: osis/bjc.xml unb/bjc.txt txt/dictionnaire.json
+
+osis/bjc.xml: tex/bjc/*.tex
+	perl scripts/tex2osis.pl
+
+unb/bjc.txt: tex/bjc/*.tex
+	perl scripts/tex2unb.pl
+
+txt/dictionnaire.json: tex/bjc/aides/dictionnaire.tex
+	perl scripts/texdic2json.pl
+
+# BJC format 123x180
+bjc_123x180: pdf/bjc_123x180.pdf
+
+pdf/bjc_123x180.pdf: tex/bjc_123x180.tex tex/bjc/*.tex tex/bjc/annexes/*.tex
+	$(XELATEX) bjc_123x180
+	$(XELATEX) bjc_123x180
+	$(XELATEX) bjc_123x180
+
+# Martin 1774
+martin_1744: pdf/martin_1744.pdf
+
+pdf/martin_1744.pdf: tex/martin_1744.tex tex/martin_1744/*.tex
+	$(XELATEX) martin_1744
+	$(XELATEX) martin_1744
+	$(XELATEX) martin_1744
 
 # supprime les fichiers généré par xelatex
 clean: pdf/*.aux pdf/*.log  pdf/*.toc
-	rm -rf pdf/*.aux
-	rm -rf pdf/*.log
-	rm -rf pdf/*.out
-	rm -rf pdf/*.toc
+	@ rm -rvf pdf/*.aux
+	@ rm -rvf pdf/*.log
+	@ rm -rvf pdf/*.out
+	@ rm -rvf pdf/*.toc

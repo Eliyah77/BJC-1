@@ -9,7 +9,7 @@ use File::Basename;
 my $name = 'bjc';
 my $dirname = dirname(__FILE__);
 my $src_dir = $dirname.'/../tex/'.$name;
-my $dst_file = $dirname.'/../osis/'.$name.'_full.xml';
+my $dst_file = $dirname.'/../osis/'.$name.'.xml';
 my ($src_dh, $src_fh, $dst_fh);
 my (@file_list, @OSISbook, $src_file, $line, $book, $booktitle, $isintro, $chapter, $title, $verse, $text);
 my $osisVersion = "2.1.1";
