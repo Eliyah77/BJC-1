@@ -8,8 +8,8 @@ use File::Basename;
 # variables
 my $name = 'dictionnaire';
 my $dirname = dirname(__FILE__);
-my $src_file = $dirname.'../tex/bjc/annexes/'.$name.'.tex';
-my $dst_file = $dirname.'../txt/'.$name.'.json';
+my $src_file = $dirname.'/../tex/bjc/annexes/'.$name.'.tex';
+my $dst_file = $dirname.'/../txt/'.$name.'.json';
 my ($src_fh, $dst_fh);
 my ($line, $word, $etymology, $definition);
 my %bjcdbs = ();
