@@ -3,11 +3,12 @@
 # modules
 use strict;
 use warnings;
+use File::Basename;
 
 # variables
 my $name = 'bjc';
-my $src_dir = '../tex/'.$name;
-my $dst_file = '../osis/'.$name.'_full.xml';
+my $src_dir = $dirname.'/../tex/'.$name;
+my $dst_file = $dirname.'/../osis/'.$name.'_full.xml';
 my ($src_dh, $src_fh, $dst_fh);
 my (@file_list, @OSISbook, $src_file, $line, $book, $booktitle, $isintro, $chapter, $title, $verse, $text);
 my $osisVersion = "2.1.1";

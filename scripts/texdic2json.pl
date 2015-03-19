@@ -3,11 +3,12 @@
 # modules
 use strict;
 use warnings;
+use File::Basename;
 
 # variables
 my $name = 'dictionnaire';
-my $src_file = '../tex/bjc/annexes/'.$name.'.tex';
-my $dst_file = '../txt/'.$name.'.json';
+my $src_file = $dirname/.'../tex/bjc/annexes/'.$name.'.tex';
+my $dst_file = $dirname/.'../txt/'.$name.'.json';
 my ($src_fh, $dst_fh);
 my ($line, $word, $etymology, $definition);
 my %bjcdbs = ();
