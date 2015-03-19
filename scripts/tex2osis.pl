@@ -7,6 +7,7 @@ use File::Basename;
 
 # variables
 my $name = 'bjc';
+my $dirname = dirname(__FILE__);
 my $src_dir = $dirname.'/../tex/'.$name;
 my $dst_file = $dirname.'/../osis/'.$name.'_full.xml';
 my ($src_dh, $src_fh, $dst_fh);
