@@ -3,6 +3,7 @@
 # modules
 use strict;
 use warnings;
+use utf8;
 use File::Basename;
 
 # variables
@@ -22,10 +23,10 @@ my %bjcdbs = ();
 "1 Pi" => "P1", "2 Pi" => "P2" , "1 Jn" => "J1", "2 Jn" => "J2", "3 Jn" => "J3", "Jud" => "JD", "Ap" => "RV");
 
 # fichier de sortie
-open($dst_fh, ">", $dst_file);
+open($dst_fh, ">:utf8", $dst_file);
 
 # ouverture du dictionnaire
-open($src_fh, "<", $src_file) or die("Impossible d'ouvrir le fichier $src_file : $!");;
+open($src_fh, "<:utf8", $src_file) or die("Impossible d'ouvrir le fichier $src_file : $!");;
 
 print($dst_fh "{\n");
 print($dst_fh "\t\"data\": [\n");
@@ -37,8 +38,8 @@ print($dst_fh "\t\"data\": [\n");
 		# $line =~ s/\\FTNT\{.[^\}]*\}//g;
 		# $line =~ s/\\TextDial\{(.[^\}]*)\}/\[$1\]/g;
 		$line =~ s/~/ /g;
-		# $line =~ s/\\vref\{(.*?)\}/$1/g;
 		$line =~ s/\\vref\{\b([1|2|3]?\s?[a-zA-Zéë]+)\.(?:\s+(\d+))?(?::(\d+(?:[-–]\d+)?)((?:,\s*\d+(?:[-–]\d+)?)*))?\}/&parseref($1,$2,$3,$4)/eg;
+		$line =~ s/\\vref\{(.*?)\}/$1/g;
 		
 		if($line =~ m/^\\DicoEntry\{(.*?)\}\\textit\{(.*?)\}/) {
 			$word = $1;
