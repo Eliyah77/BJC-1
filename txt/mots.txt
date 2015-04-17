@@ -267,7 +267,6 @@ Aveuglement	Aveuglement	n	Ge 19:11;De 28:28;2 R 6:18;Job 36:12;Za 12:4
 Aveugler	Aveugler	v	Ex 23:8;Jn 12:40;2 Co 4:4	
 Avidité	Avidité	n	Pr 10:3	
 Avilir	Avilir	v	Es 16:14;Es 23:9	
-Avocat	Avocat	n	1 Jn 2:1	
 Avorter	Avorter	v	Ex 23:26;Job 21:10;Os 9:14	
 Avorton	Avorton	n	Job 3:16;Ps 58:9;Ec 6:3;1 Co 15:8	
 Avouer	Avouer	v	Ps 32:5	
@@ -648,7 +647,7 @@ Défaite	Défaite	n	1 S 4:10;2 S 18:7;1 R 20:21;Hé 7:1
 Défaut	Défaut	n	Ex 12:5;Lé 22:25;Ps 18:31;Da 1:4;1 Co 6:7;1 Pi 1:19	
 Défendre	Défendre	v	Ge 3:11;Ps 35:1;Es 1:17;Pr 22:23;Mt 12:16;Ac 4:17	
 Défense	Défense	n	Lu 21:14;1 Co 9:3;Ph 1:17;2 Ti 4:16	
-Défenseur	Défenseur(?:s)	n	Jn 14:16;Jn 14:26;Jn 15:26;Jn 16:7;1 Jn 2:1	
+Défenseur	Défenseur(?:s)*	n	Jn 14:16;Jn 14:26;Jn 15:26;Jn 16:7;1 Jn 2:1	
 Dégoût	Dégoût	n	No 11:20;Ps 95:10;Ps 119:158;Ez 6:9;Ez 20:43;Za 11:8	
 Déguiser	Déguiser	v	1 R 14:2;2 Ch 18:29;Pr 26:24;2 Co 11:14	
 Dehors	Dehors	adv	Ge 15:5;Esd 10:13;Job 31:32;Ps 69:9;Pr 1:20;Pr 7:12;Es 43:8;Jé 38:13;Ez 2:10;Za 5:6;Mt 5:13;Mt 12:46;Mt 21:12;Mt 22:13;Mt 23:25;Mc 1:45;Lu 13:28;Jn 6:37;Jn 10:4;Jn 11:43;Jn 15:6;Ap 22:15	
@@ -935,7 +934,7 @@ Etonner	[Eé]tonner	v	Ps 97:4;Ec 5:7;Es 63:5;Jé 2:12;Da 8:27;Ha 1:5;Mt 8:10;Mt 
 Etourdissement	[Eé]tourdissement	n	Ps 60:5;Es 51:17;Es 51:22;Da 8:18;Da 10:9;Za 12:2;Za 12:4	
 Etrange	[Eé]trange	adj	Ps 139:14;Da 11:36;Lu 5:26;Jn 9:30;Ac 17:20;1 Pi 4:4;1 Pi 4:12	
 Etranger	[Eé]trang[eè]r	n	Ge 15:13;Ge 17:8;Ge 23:4;Ex 22:21;Lé 24:22;De 10:19;De 24:17;Jos 8:35;Ru 2:10;1 R 11:1;1 Ch 16:19;1 Ch 29:15;Job 31:32;Ps 69:9;Ps 119:19;Pr 27:2;Es 14:1;Es 56:3;Os 5:7;Os 7:9;Mt 25:35;Mt 27:7;Lu 17:18;Jn 10:5;Ac 7:29;Ac 17:18;Ep 2:12;Ep 2:19;Col 1:21;Hé 11:13;Hé 13:9;1 Pi 2:11	
-Etre (un)	[Eê]tre(?:s)	n	Ez 1:5;Ap 4:7	
+Etre (un)	[Eê]tre(?:s)*	n	Ez 1:5;Ap 4:7	
 Etre	(?:[Eêé]t(?:é|re|ais)|suis|est|so(?:ient|mmes)|sera)	vi	Ex 3:14;Ec 1:9;Za 8:23;Mt 16:13;Mt 16:15;Jn 8:23;Jn 8:24;Jn 10:35;Jn 17:24;Ac 13:23;Ro 8:29;Ro 8:31;1 Co 1:2;1 Co 12:13;1 Co 14:37;1 Co 15:10;2 Th 2:5;Ep 2:15;Ep 2:21;Ph 1:23;Ph 4:1;1 Ti 1:7;Tit 2:4;Hé 5:12;Ja 1:13;2 Pi 3:14;1 Jn 4:6;Ap 2:2;Ap 6:11	
 Etroit	[Eé]troit[e]?[s]?	adj	2 R 6:1;Ps 4:2;Mt 7:13	
 Eunice	Eunice	np	2 Ti 1:5	
